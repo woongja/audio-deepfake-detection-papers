@@ -1,6 +1,6 @@
 # Datasets & Benchmarks
 
-> 129 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-07-06
+> 130 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-07-13
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | 2026 | [Overview of ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge](https://arxiv.org/abs/2606.10791) | Xueping Zhang et al. | arXiv |  |
 | 2026 | [Bridging the SEA Gap: An Initial Benchmark for Neural Audio Codec-Synthesized Speech Deepfakes in South-East Asian Languages](https://arxiv.org/abs/2606.15968) | Orchid Chetia Phukan et al. | arXiv |  |
 | 2026 | [SingFox: A Multi-Lingual Singfake Detection Corpus](https://arxiv.org/abs/2606.18985) | Arth J. Shah et al. | arXiv |  |
+| 2026 | [SynSFX: Multi-Model Sound Effects Synthesis Dataset for Deepfake Detection and Evaluation](https://arxiv.org/abs/2607.04848) | Linxi Li et al. | arXiv |  |
 | 2025 | [ASVspoof 5: Design, collection and validation of resources for spoofing, deepfake, and adversarial attack detection using crowdsourced speech](https://arxiv.org/abs/2502.08857) | Xin Wang et al. | Computer Speech and Language | 48 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) | Han Yin et al. | Interspeech | 21 |
 | 2025 | [SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://arxiv.org/abs/2507.21463) | Wen Huang et al. | Annual Meeting of the Association for Computational Linguistics | 17 |

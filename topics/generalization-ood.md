@@ -1,6 +1,6 @@
 # Generalization & OOD
 
-> 222 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-07-06
+> 223 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-07-13
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@
 | 2026 | [Robust Spoofed Speech Detection via Temporal Pyramid Modeling](https://arxiv.org/abs/2606.16837) | Mahtab Masoudi Nezhad et al. | arXiv |  |
 | 2026 | [FlowFake: Liquid Networks for Audio Deepfake Detection](https://arxiv.org/abs/2606.19579) | Shivaay Dhondiyal et al. | arXiv |  |
 | 2026 | [Probing-Guided Layer Selection from Self-Supervised Speech Models for Generalizable Audio Deepfake Detection](https://arxiv.org/abs/2606.30791) | Marjan Beheshti et al. | arXiv |  |
+| 2026 | [SynSFX: Multi-Model Sound Effects Synthesis Dataset for Deepfake Detection and Evaluation](https://arxiv.org/abs/2607.04848) | Linxi Li et al. | arXiv |  |
 | 2025 | [Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation](https://arxiv.org/abs/2501.14240) | Wen Huang et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 19 |
 | 2025 | [Wave-Spectrogram Cross-Modal Aggregation for Audio Deepfake Detection](https://www.semanticscholar.org/paper/66e254939cb8e364d5f4660d4260559ce3b29ed5) | Zehui Jin et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 16 |
 | 2025 | [Hybrid CNN-LSTM Architectures for Deepfake Audio Detection Using Mel Frequency Cepstral Coefficients and Spectogram Analysis](https://www.semanticscholar.org/paper/a1d8a2d09de50a032dac6da58f9b7a79904215ac) | Clive Asuai et al. | American Journal of Mathematical and Computer Modelling | 11 |
