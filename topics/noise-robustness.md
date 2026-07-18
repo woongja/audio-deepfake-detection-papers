@@ -1,6 +1,6 @@
 # Noise & Real-World Robustness
 
-> 92 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-07-13
+> 94 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-07-18
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -20,6 +20,8 @@
 | 2026 | [Assessing Vulnerability of Deepfake Detection Models to Noise-Masked Attacks](https://www.semanticscholar.org/paper/c925ee329731bd075b039623326f907d9dd3e7c4) | Artyom Galimov et al. | 2026 28th International Conference on Digital Signal Processing and its Applications (DSPA) | 0 |
 | 2026 | [Proteus: Automated Adversarial Robustness Testing for Audio Deepfake Detectors](https://arxiv.org/abs/2606.29544) | Nicolas M. Müller et al. | arXiv |  |
 | 2026 | [UniSkip-Mamba: A Frequency-Aware State Space Model for Audio-Visual Temporal Forgery Localization](https://arxiv.org/abs/2607.04498) | Cangjin Qiu et al. | arXiv |  |
+| 2026 | [Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction](https://arxiv.org/abs/2607.12584) | Mattia Tamiazzo et al. | arXiv |  |
+| 2026 | [Large Audio Language Models for Spoofing-Aware Speaker Verification](https://arxiv.org/abs/2607.14753) | Sofya Savelyeva et al. | arXiv |  |
 | 2025 | [Transferable Adversarial Attacks on Audio Deepfake Detection](https://arxiv.org/abs/2501.11902) | Muhammad Umar Farooq et al. | 2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW) | 22 |
 | 2025 | [Measuring the Robustness of Audio Deepfake Detectors](https://arxiv.org/abs/2503.17577) | Xiang Li et al. | arXiv.org | 10 |
 | 2025 | [Perturbed Public Voices (P2V): A Dataset for Robust Audio Deepfake Detection](https://arxiv.org/abs/2508.10949) | Chongyang Gao et al. | arXiv.org | 7 |

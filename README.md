@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1169-blue) ![updated](https://img.shields.io/badge/updated-2026--07--13-green)
+![papers](https://img.shields.io/badge/papers-1172-blue) ![updated](https://img.shields.io/badge/updated-2026--07--18-green)
 
 A curated list of audio deepfake detection papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -13,12 +13,12 @@ Generated from a personally maintained research corpus.
 - [Detection Architectures & Encoders](topics/architectures.md) (142)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (18)
 - [LLM-Based Detection](topics/llm-based.md) (7)
-- [Explainability & Attribution](topics/xai-explainability.md) (71)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (92)
+- [Explainability & Attribution](topics/xai-explainability.md) (73)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (94)
 - [Generalization & OOD](topics/generalization-ood.md) (223)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (14)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (32)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (130)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (132)
 - [Training Strategies](topics/training-strategies.md) (182)
 - [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (25)
 
@@ -26,6 +26,9 @@ Generated from a personally maintained research corpus.
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
+| 2026 | [Large Audio Language Models for Spoofing-Aware Speaker Verification](https://arxiv.org/abs/2607.14753) | Sofya Savelyeva et al. | arXiv |  |
+| 2026 | [Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction](https://arxiv.org/abs/2607.12584) | Mattia Tamiazzo et al. | arXiv |  |
+| 2026 | [Traceback Translators Against Forgetting in Continual Fake Speech Detection](https://arxiv.org/abs/2607.12569) | Enrico Gottardis et al. | arXiv |  |
 | 2026 | [Why Do You Say It Like That? A Phoneme-Level Framework for Explainable Speech Deepfake Detection](https://arxiv.org/abs/2607.08586) | Anna Taylor et al. | arXiv |  |
 | 2026 | [SynSFX: Multi-Model Sound Effects Synthesis Dataset for Deepfake Detection and Evaluation](https://arxiv.org/abs/2607.04848) | Linxi Li et al. | arXiv |  |
 | 2026 | [UniSkip-Mamba: A Frequency-Aware State Space Model for Audio-Visual Temporal Forgery Localization](https://arxiv.org/abs/2607.04498) | Cangjin Qiu et al. | arXiv |  |
@@ -53,15 +56,12 @@ Generated from a personally maintained research corpus.
 | 2026 | [Linguistically Augmented Audio Speech Data (LinguAS)](https://arxiv.org/abs/2606.10246) | A. Keaton et al. | arXiv | 0 |
 | 2026 | [A Comparison of SSL-Based Feature Extractors and Back-End Classifiers for Spoofing Detection: A Multi-Corpus Training and Cross-Linguistic Analysis](https://arxiv.org/abs/2606.08669) | Anh-Tuan Dao et al. | arXiv | 0 |
 | 2026 | [Exploring the Scale and Diversity of Speech Anti-spoofing Datasets: Experiments and Analysis](https://arxiv.org/abs/2606.08038) | Zhuolin Yi et al. | arXiv | 0 |
-| 2026 | [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://arxiv.org/abs/2606.05101) | Sepehr Dehdashtian et al. | arXiv | 0 |
-| 2026 | [A Training-Efficient Transformer-Based Anti-Spoofing Network for Logical Access in ASVspoof 5](https://arxiv.org/abs/2606.02980) | Sidan Yin et al. | arXiv | 0 |
-| 2026 | [Escaping the Linearity Trap: Manifold Detours for Black-Box Adversarial Attacks on Singing Audio Deepfake Detection](https://arxiv.org/abs/2605.30366) | Yifan Liao et al. | arXiv | 1 |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 149 |
+| 2026 | 152 |
 | 2025 | 272 |
 | 2024 | 191 |
 | 2023 | 135 |
