@@ -2,7 +2,7 @@
 
 ![papers](https://img.shields.io/badge/papers-1169-blue) ![updated](https://img.shields.io/badge/updated-2026--07--13-green)
 
-A curated list of audio deepfake detection (anti-spoofing) papers,
+A curated list of audio deepfake detection papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
 Generated from a personally maintained research corpus.
 
