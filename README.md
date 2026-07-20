@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1172-blue) ![updated](https://img.shields.io/badge/updated-2026--07--19-green)
+![papers](https://img.shields.io/badge/papers-1173-blue) ![updated](https://img.shields.io/badge/updated-2026--07--21-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -13,10 +13,10 @@ Generated from a personally maintained research corpus.
 - [Detection Architectures & Encoders](topics/architectures.md) (142)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (18)
 - [LLM-Based Detection](topics/llm-based.md) (7)
-- [Explainability & Attribution](topics/xai-explainability.md) (73)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (94)
+- [Explainability & Attribution](topics/xai-explainability.md) (74)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (95)
 - [Generalization & OOD](topics/generalization-ood.md) (223)
-- [Neural Codec Deepfakes](topics/codec-deepfake.md) (14)
+- [Neural Codec Deepfakes](topics/codec-deepfake.md) (15)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (32)
 - [Datasets & Benchmarks](topics/datasets-benchmarks.md) (132)
 - [Training Strategies](topics/training-strategies.md) (182)
@@ -26,6 +26,7 @@ Generated from a personally maintained research corpus.
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
+| 2026 | [A Geometry-Limited Identification Floor and Its Consequences for Voice-Clone Attribution in Professional Voice Actors](https://arxiv.org/abs/2607.15694) | Shuhei Kato | arXiv |  |
 | 2026 | [Large Audio Language Models for Spoofing-Aware Speaker Verification](https://arxiv.org/abs/2607.14753) | Sofya Savelyeva et al. | arXiv |  |
 | 2026 | [Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction](https://arxiv.org/abs/2607.12584) | Mattia Tamiazzo et al. | arXiv |  |
 | 2026 | [Traceback Translators Against Forgetting in Continual Fake Speech Detection](https://arxiv.org/abs/2607.12569) | Enrico Gottardis et al. | arXiv |  |
@@ -55,13 +56,12 @@ Generated from a personally maintained research corpus.
 | 2026 | [Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning](https://arxiv.org/abs/2606.10758) | Cristian-Teodor Neamtu et al. | arXiv |  |
 | 2026 | [Linguistically Augmented Audio Speech Data (LinguAS)](https://arxiv.org/abs/2606.10246) | A. Keaton et al. | arXiv | 0 |
 | 2026 | [A Comparison of SSL-Based Feature Extractors and Back-End Classifiers for Spoofing Detection: A Multi-Corpus Training and Cross-Linguistic Analysis](https://arxiv.org/abs/2606.08669) | Anh-Tuan Dao et al. | arXiv | 0 |
-| 2026 | [Exploring the Scale and Diversity of Speech Anti-spoofing Datasets: Experiments and Analysis](https://arxiv.org/abs/2606.08038) | Zhuolin Yi et al. | arXiv | 0 |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 152 |
+| 2026 | 153 |
 | 2025 | 272 |
 | 2024 | 191 |
 | 2023 | 135 |
