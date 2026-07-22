@@ -1,6 +1,6 @@
 # Datasets & Benchmarks
 
-> 132 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-07-22
+> 132 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-07-23
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
