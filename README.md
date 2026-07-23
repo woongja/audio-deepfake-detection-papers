@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1174-blue) ![updated](https://img.shields.io/badge/updated-2026--07--23-green)
+![papers](https://img.shields.io/badge/papers-1175-blue) ![updated](https://img.shields.io/badge/updated-2026--07--24-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -14,11 +14,11 @@ Generated from a personally maintained research corpus.
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (18)
 - [LLM-Based Detection](topics/llm-based.md) (7)
 - [Explainability & Attribution](topics/xai-explainability.md) (74)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (96)
-- [Generalization & OOD](topics/generalization-ood.md) (223)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (97)
+- [Generalization & OOD](topics/generalization-ood.md) (224)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (15)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (32)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (132)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (133)
 - [Training Strategies](topics/training-strategies.md) (182)
 - [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (25)
 
@@ -26,6 +26,7 @@ Generated from a personally maintained research corpus.
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
+| 2026 | [Layer-Wise Decision Fusion for Fake Audio Detection Using XLS-R](https://arxiv.org/abs/2607.20023) | Yixuan Xiao et al. | arXiv |  |
 | 2026 | [Time-Frequency Consistency Learning for Robust Speech Deepfake Detection](https://arxiv.org/abs/2607.17761) | Jun Xue et al. | arXiv |  |
 | 2026 | [A Geometry-Limited Identification Floor and Its Consequences for Voice-Clone Attribution in Professional Voice Actors](https://arxiv.org/abs/2607.15694) | Shuhei Kato | arXiv |  |
 | 2026 | [Large Audio Language Models for Spoofing-Aware Speaker Verification](https://arxiv.org/abs/2607.14753) | Sofya Savelyeva et al. | arXiv |  |
@@ -55,13 +56,12 @@ Generated from a personally maintained research corpus.
 | 2026 | [RAT: Reference-Augmented Training for ASV Anti-Spoofing](https://arxiv.org/abs/2606.10908) | Vojtěch Staněk et al. | arXiv |  |
 | 2026 | [Overview of ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge](https://arxiv.org/abs/2606.10791) | Xueping Zhang et al. | arXiv |  |
 | 2026 | [Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning](https://arxiv.org/abs/2606.10758) | Cristian-Teodor Neamtu et al. | arXiv |  |
-| 2026 | [Linguistically Augmented Audio Speech Data (LinguAS)](https://arxiv.org/abs/2606.10246) | A. Keaton et al. | arXiv | 0 |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 154 |
+| 2026 | 155 |
 | 2025 | 272 |
 | 2024 | 191 |
 | 2023 | 135 |
