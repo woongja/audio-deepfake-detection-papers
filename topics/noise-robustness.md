@@ -1,6 +1,6 @@
 # Noise & Real-World Robustness
 
-> 98 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-07-31
+> 99 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-01
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -26,6 +26,7 @@
 | 2026 | [Time-Frequency Consistency Learning for Robust Speech Deepfake Detection](https://arxiv.org/abs/2607.17761) | Jun Xue et al. | arXiv |  |
 | 2026 | [Layer-Wise Decision Fusion for Fake Audio Detection Using XLS-R](https://arxiv.org/abs/2607.20023) | Yixuan Xiao et al. | arXiv |  |
 | 2026 | [Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection](https://arxiv.org/abs/2607.23961) | Mingrui Liang et al. | arXiv |  |
+| 2026 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. | arXiv |  |
 | 2025 | [Transferable Adversarial Attacks on Audio Deepfake Detection](https://arxiv.org/abs/2501.11902) | Muhammad Umar Farooq et al. | 2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW) | 22 |
 | 2025 | [Measuring the Robustness of Audio Deepfake Detectors](https://arxiv.org/abs/2503.17577) | Xiang Li et al. | arXiv.org | 10 |
 | 2025 | [Perturbed Public Voices (P2V): A Dataset for Robust Audio Deepfake Detection](https://arxiv.org/abs/2508.10949) | Chongyang Gao et al. | arXiv.org | 7 |
