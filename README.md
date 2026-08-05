@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1180-blue) ![updated](https://img.shields.io/badge/updated-2026--08--04-green)
+![papers](https://img.shields.io/badge/papers-1181-blue) ![updated](https://img.shields.io/badge/updated-2026--08--06-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,13 +8,13 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (136)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (137)
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (426)
 - [Detection Architectures & Encoders](topics/architectures.md) (142)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (19)
 - [LLM-Based Detection](topics/llm-based.md) (8)
 - [Explainability & Attribution](topics/xai-explainability.md) (77)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (99)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (100)
 - [Generalization & OOD](topics/generalization-ood.md) (228)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (17)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (33)
@@ -26,6 +26,7 @@ Generated from a personally maintained research corpus.
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
+| 2026 | [Multi-Backbone Self-Supervised Ensembles for Audio Deepfake Detection and a Cross-Track Analysis of Generation-Detection Asymmetry](https://arxiv.org/abs/2608.01796) | Seunghyun Kim et al. | arXiv |  |
 | 2026 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. | arXiv |  |
 | 2026 | [ThinkOmni: A Reasoning-Driven Omni-Modal LLM Framework for Audio Forgery Detection and Localization](https://arxiv.org/abs/2607.26553) | Yuxiong Xu et al. | arXiv |  |
 | 2026 | [Audio-Anchored Fusion of Multi-Ratio DiT Reconstruction Residuals for Cross-Domain Audio Deepfake Detection](https://arxiv.org/abs/2607.26472) | Haotian Mo et al. | arXiv |  |
@@ -55,13 +56,12 @@ Generated from a personally maintained research corpus.
 | 2026 | [Phonetically Explainable Speech Deepfake Detection](https://arxiv.org/abs/2606.15454) | Manasi Chhibber et al. | arXiv |  |
 | 2026 | [Teacher-Student Structure for Domain Adaptation in Ensemble Audio-Visual Video Deepfake Detection](https://arxiv.org/abs/2606.15117) | Elham Abolhasani et al. | arXiv |  |
 | 2026 | [From Self-Supervised Speech Models to Mixture-of-Experts for Robust Anti-Spoofing](https://arxiv.org/abs/2606.14639) | Hugo Daumain et al. | arXiv |  |
-| 2026 | [The Perceived Fragility of Explanations in Audio Models: Manipulation of Attribution with Unchanged Predictions](https://arxiv.org/abs/2606.14466) | Piotr Kitłowski et al. | arXiv |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 160 |
+| 2026 | 161 |
 | 2025 | 272 |
 | 2024 | 191 |
 | 2023 | 135 |
