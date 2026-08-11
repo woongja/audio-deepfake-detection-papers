@@ -1,6 +1,6 @@
 # Datasets & Benchmarks
 
-> 136 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-10
+> 137 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-12
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -38,6 +38,7 @@
 | 2026 | [Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection](https://arxiv.org/abs/2607.23961) | Mingrui Liang et al. | arXiv |  |
 | 2026 | [ThinkOmni: A Reasoning-Driven Omni-Modal LLM Framework for Audio Forgery Detection and Localization](https://arxiv.org/abs/2607.26553) | Yuxiong Xu et al. | arXiv |  |
 | 2026 | [AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks](https://arxiv.org/abs/2608.05507) | Aurosweta Mahapatra et al. | arXiv |  |
+| 2026 | [MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593) | Yanqiu Li et al. | arXiv |  |
 | 2025 | [ASVspoof 5: Design, collection and validation of resources for spoofing, deepfake, and adversarial attack detection using crowdsourced speech](https://arxiv.org/abs/2502.08857) | Xin Wang et al. | Computer Speech and Language | 48 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) | Han Yin et al. | Interspeech | 21 |
 | 2025 | [SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://arxiv.org/abs/2507.21463) | Wen Huang et al. | Annual Meeting of the Association for Computational Linguistics | 17 |

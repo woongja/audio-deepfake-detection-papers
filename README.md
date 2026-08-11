@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1182-blue) ![updated](https://img.shields.io/badge/updated-2026--08--10-green)
+![papers](https://img.shields.io/badge/papers-1184-blue) ![updated](https://img.shields.io/badge/updated-2026--08--12-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -12,13 +12,13 @@ Generated from a personally maintained research corpus.
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (426)
 - [Detection Architectures & Encoders](topics/architectures.md) (142)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (19)
-- [LLM-Based Detection](topics/llm-based.md) (9)
-- [Explainability & Attribution](topics/xai-explainability.md) (77)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (101)
+- [LLM-Based Detection](topics/llm-based.md) (10)
+- [Explainability & Attribution](topics/xai-explainability.md) (78)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (102)
 - [Generalization & OOD](topics/generalization-ood.md) (229)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (17)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (33)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (136)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (137)
 - [Training Strategies](topics/training-strategies.md) (182)
 - [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (25)
 
@@ -26,6 +26,8 @@ Generated from a personally maintained research corpus.
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
+| 2026 | [MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593) | Yanqiu Li et al. | arXiv |  |
+| 2026 | [The Voiceprint Fallacy: Why Voices Are Not Unique Biometric Imprints](https://arxiv.org/abs/2608.07980) | Tianle Yang et al. | arXiv |  |
 | 2026 | [AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks](https://arxiv.org/abs/2608.05507) | Aurosweta Mahapatra et al. | arXiv |  |
 | 2026 | [Multi-Backbone Self-Supervised Ensembles for Audio Deepfake Detection and a Cross-Track Analysis of Generation-Detection Asymmetry](https://arxiv.org/abs/2608.01796) | Seunghyun Kim et al. | arXiv |  |
 | 2026 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. | arXiv |  |
@@ -54,14 +56,12 @@ Generated from a personally maintained research corpus.
 | 2026 | [Robust Spoofed Speech Detection via Temporal Pyramid Modeling](https://arxiv.org/abs/2606.16837) | Mahtab Masoudi Nezhad et al. | arXiv |  |
 | 2026 | [Dual-Granularity Orthogonal Disentanglement for Generalizable Audio Deepfake Detection](https://arxiv.org/abs/2606.16532) | Zhuodong Liu et al. | arXiv |  |
 | 2026 | [Bridging the SEA Gap: An Initial Benchmark for Neural Audio Codec-Synthesized Speech Deepfakes in South-East Asian Languages](https://arxiv.org/abs/2606.15968) | Orchid Chetia Phukan et al. | arXiv |  |
-| 2026 | [Phonetically Explainable Speech Deepfake Detection](https://arxiv.org/abs/2606.15454) | Manasi Chhibber et al. | arXiv |  |
-| 2026 | [Teacher-Student Structure for Domain Adaptation in Ensemble Audio-Visual Video Deepfake Detection](https://arxiv.org/abs/2606.15117) | Elham Abolhasani et al. | arXiv |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 162 |
+| 2026 | 164 |
 | 2025 | 272 |
 | 2024 | 191 |
 | 2023 | 135 |

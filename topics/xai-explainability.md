@@ -1,6 +1,6 @@
 # Explainability & Attribution
 
-> 77 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-10
+> 78 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-12
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | 2026 | [Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores](https://arxiv.org/abs/2607.21127) | Viola Negroni et al. | arXiv |  |
 | 2026 | [ThinkOmni: A Reasoning-Driven Omni-Modal LLM Framework for Audio Forgery Detection and Localization](https://arxiv.org/abs/2607.26553) | Yuxiong Xu et al. | arXiv |  |
 | 2026 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. | arXiv |  |
+| 2026 | [The Voiceprint Fallacy: Why Voices Are Not Unique Biometric Imprints](https://arxiv.org/abs/2608.07980) | Tianle Yang et al. | arXiv |  |
 | 2025 | [Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition](https://arxiv.org/abs/2501.06514) | Yuankun Xie et al. | arXiv.org | 15 |
 | 2025 | [Multilingual Source Tracing of Speech Deepfakes: A First Benchmark](https://arxiv.org/abs/2508.04143) | Xi Xuan et al. | 5th Symposium on Security and Privacy in Speech Communication | 10 |
 | 2025 | [Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis](https://arxiv.org/abs/2502.14726) | Kevin Warren et al. | arXiv.org | 9 |
