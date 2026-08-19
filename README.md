@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1187-blue) ![updated](https://img.shields.io/badge/updated-2026--08--19-green)
+![papers](https://img.shields.io/badge/papers-1188-blue) ![updated](https://img.shields.io/badge/updated-2026--08--20-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -15,10 +15,10 @@ Generated from a personally maintained research corpus.
 - [LLM-Based Detection](topics/llm-based.md) (10)
 - [Explainability & Attribution](topics/xai-explainability.md) (79)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (104)
-- [Generalization & OOD](topics/generalization-ood.md) (231)
-- [Neural Codec Deepfakes](topics/codec-deepfake.md) (18)
+- [Generalization & OOD](topics/generalization-ood.md) (232)
+- [Neural Codec Deepfakes](topics/codec-deepfake.md) (19)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (33)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (140)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (141)
 - [Training Strategies](topics/training-strategies.md) (182)
 - [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (25)
 
@@ -28,6 +28,7 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
+| 2026-08-18 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) | Anton Firc et al. | arXiv |  |
 | 2026-08-14 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](https://arxiv.org/abs/2608.14249) | Yuankun Xie et al. | arXiv |  |
 | 2026-08-13 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](https://arxiv.org/abs/2608.13817) | Tomás Andrade Weber | arXiv |  |
 | 2026-08-12 | [Evaluating Pre-trained Speech Encoders for Spontaneous Speech Detection and Out of Domain Synthetic Speech Generalisation in Indic Languages](https://arxiv.org/abs/2608.12536) | Varun Rai et al. | arXiv |  |
@@ -57,13 +58,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-06-22 | [The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection](https://arxiv.org/abs/2606.23335) | Nicolas M. Müller et al. | arXiv |  |
 | 2026-06-17 | [FlowFake: Liquid Networks for Audio Deepfake Detection](https://arxiv.org/abs/2606.19579) | Shivaay Dhondiyal et al. | arXiv |  |
 | 2026-06-17 | [SingFox: A Multi-Lingual Singfake Detection Corpus](https://arxiv.org/abs/2606.18985) | Arth J. Shah et al. | arXiv |  |
-| 2026-06-17 | [GRIDEX: Grid-Grounded Forensic Explanations for Deepfake Spectrogram Analysis](https://arxiv.org/abs/2606.18738) | Thi Ngan Ha Do et al. | arXiv |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 167 |
+| 2026 | 168 |
 | 2025 | 272 |
 | 2024 | 191 |
 | 2023 | 135 |

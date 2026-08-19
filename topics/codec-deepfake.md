@@ -1,6 +1,6 @@
 # Neural Codec Deepfakes
 
-> 18 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-19
+> 19 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-20
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | 2026 | [Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection](https://arxiv.org/abs/2607.23961) | Mingrui Liang et al. | arXiv |  |
 | 2026 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. | arXiv |  |
 | 2026 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](https://arxiv.org/abs/2608.13817) | Tomás Andrade Weber | arXiv |  |
+| 2026 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) | Anton Firc et al. | arXiv |  |
 | 2025 | [Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition](https://arxiv.org/abs/2501.06514) | Yuankun Xie et al. | arXiv.org | 15 |
 | 2025 | [Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy](https://arxiv.org/abs/2505.12994) | Xuan-Bo Chen et al. | Interspeech | 6 |
 | 2025 | [Towards Generalized Source Tracing for Codec-Based Deepfake Speech](https://arxiv.org/abs/2506.07294) | Xuan-Bo Chen et al. | Automatic Speech Recognition & Understanding | 5 |
