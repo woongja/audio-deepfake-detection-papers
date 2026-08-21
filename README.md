@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1188-blue) ![updated](https://img.shields.io/badge/updated-2026--08--21-green)
+![papers](https://img.shields.io/badge/papers-1190-blue) ![updated](https://img.shields.io/badge/updated-2026--08--22-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,17 +8,17 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (140)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (141)
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (426)
 - [Detection Architectures & Encoders](topics/architectures.md) (142)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (19)
 - [LLM-Based Detection](topics/llm-based.md) (10)
-- [Explainability & Attribution](topics/xai-explainability.md) (79)
+- [Explainability & Attribution](topics/xai-explainability.md) (80)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (104)
 - [Generalization & OOD](topics/generalization-ood.md) (232)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (19)
-- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (33)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (141)
+- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (34)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (142)
 - [Training Strategies](topics/training-strategies.md) (182)
 - [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (25)
 
@@ -28,6 +28,8 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
+| 2026-08-20 | [Explainability by Design: Structured Kolmogorov-Arnold Networks over Probabilistic Attributes for Speech Deepfake Source Tracing](https://arxiv.org/abs/2608.20213) | Hoang H. Pham et al. | arXiv |  |
+| 2026-08-20 | [Tracking the Trend in How Speech Synthesizers Deceive People](https://arxiv.org/abs/2608.19959) | Milan Šalko et al. | arXiv |  |
 | 2026-08-18 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) | Anton Firc et al. | arXiv |  |
 | 2026-08-14 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](https://arxiv.org/abs/2608.14249) | Yuankun Xie et al. | arXiv |  |
 | 2026-08-13 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](https://arxiv.org/abs/2608.13817) | Tomás Andrade Weber | arXiv |  |
@@ -56,14 +58,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-06-28 | [Proteus: Automated Adversarial Robustness Testing for Audio Deepfake Detectors](https://arxiv.org/abs/2606.29544) | Nicolas M. Müller et al. | arXiv |  |
 | 2026-06-24 | [Supervised Post-training of Speech Foundation Models for Robust Adaptation in Speech Deepfake Detection](https://arxiv.org/abs/2606.25328) | Zihan Pan et al. | arXiv |  |
 | 2026-06-22 | [The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection](https://arxiv.org/abs/2606.23335) | Nicolas M. Müller et al. | arXiv |  |
-| 2026-06-17 | [FlowFake: Liquid Networks for Audio Deepfake Detection](https://arxiv.org/abs/2606.19579) | Shivaay Dhondiyal et al. | arXiv |  |
-| 2026-06-17 | [SingFox: A Multi-Lingual Singfake Detection Corpus](https://arxiv.org/abs/2606.18985) | Arth J. Shah et al. | arXiv |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 168 |
+| 2026 | 170 |
 | 2025 | 272 |
 | 2024 | 191 |
 | 2023 | 135 |

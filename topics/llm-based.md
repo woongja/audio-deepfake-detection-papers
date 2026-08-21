@@ -1,6 +1,6 @@
 # LLM-Based Detection
 
-> 10 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-21
+> 10 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-22
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
