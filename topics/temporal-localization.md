@@ -1,6 +1,6 @@
 # Temporal Localization & Partial Spoof
 
-> 34 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
+> 35 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | 2025 | [Adversarial Training and Gradient Optimization for Partially Deepfake Audio Localization](https://www.semanticscholar.org/paper/f8d617542fc9f051f2d827100e83b8be0423b81f) | Siding Zeng et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 5 |
 | 2025 | [LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://arxiv.org/abs/2507.16220) | Xuechen Liu et al. | 2025 IEEE International Joint Conference on Biometrics (IJCB) | 2 |
 | 2025 | [NE-PADD: Leveraging Named Entity Knowledge for Robust Partial Audio Deepfake Detection via Attention Aggregation](https://arxiv.org/abs/2509.03829) | Huhong Xian et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 1 |
+| 2025 | [Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation](https://arxiv.org/abs/2507.03468) | \authorblockN | arXiv |  |
 | 2025 | [Partially Fake Audio Detection Based on Mamba and Tensor Feature Fusion](https://www.semanticscholar.org/paper/602d3fde2893a82cb38e0d7f220f6b478d508f16) | Hanyue Liu et al. | 2025 Asian Conference on Artificial Intelligence Technology (ACAIT) | 0 |
 | 2025 | [Efficient Classification of Partially Faked Audio Using Deep Learning](https://www.semanticscholar.org/paper/dd3b07d7000fc4b5b46d9cc5a288373c97108713) | Abdulazeez Alali et al. | Computer Science Symposium in Russia | 0 |
 | 2024 | [ADD 2023: Towards Audio Deepfake Detection and Analysis in the Wild](https://arxiv.org/abs/2408.04967) | Jiangyan Yi et al. | arXiv.org | 17 |

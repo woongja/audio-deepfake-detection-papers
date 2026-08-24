@@ -1,6 +1,6 @@
 # Datasets & Benchmarks
 
-> 142 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
+> 146 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | 2026 | [RTCFake: Speech Deepfake Detection in Real-Time Communication](https://arxiv.org/abs/2604.23742) | Jun Xue et al. | arXiv | 1 |
 | 2026 | [Profiling the Voice: Speaker-Specific Phoneme Fingerprinting for Speech Deepfake Detection](https://arxiv.org/abs/2605.17737) | Jun Xue et al. | arXiv | 1 |
 | 2026 | [RIRplay: Generation of a Replay Stereo Corpus for Voice Biometrics Anti-Spoofing](https://www.semanticscholar.org/paper/dea0a2e1cee7ea2423f5ef1bdba066cafc0b54b6) | Jose C. Sanchez-Valera et al. | IEEE Transactions on Information Forensics and Security | 1 |
+| 2026 | [Interpretable All-Type Audio Deepfake Detection with Audio LLMs via Frequency–Time Reinforcement Learning](https://arxiv.org/abs/2601.02983) | Yuankun Xie | arXiv |  |
 | 2026 | [LJ-Spoof: A Generatively Varied Corpus for Audio Anti-Spoofing and Synthesis Source Tracing](https://arxiv.org/abs/2601.07958) | Surya Subramani et al. | arXiv.org | 0 |
 | 2026 | [How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection](https://arxiv.org/abs/2602.16343) | Yixuan Xiao et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 0 |
 | 2026 | [How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?](https://arxiv.org/abs/2603.05852) | Daixian Li et al. | arXiv | 0 |
@@ -23,6 +24,8 @@
 | 2026 | [RADAR Challenge 2026: Robust Audio Deepfake Recognition under Media Transformations](https://arxiv.org/abs/2605.09568) | Hieu-Thi Luong et al. | arXiv | 0 |
 | 2026 | [MixFake: Benchmarking and Enhancing Audio Deepfake Detection in Diverse Real-world Mixed Audio](https://arxiv.org/abs/2605.23201) | Qingcao Li et al. | arXiv | 0 |
 | 2026 | [Linguistically Augmented Audio Speech Data (LinguAS)](https://arxiv.org/abs/2606.10246) | A. Keaton et al. | arXiv | 0 |
+| 2026 | [Component-Level Ensemble Fusion for Speech and Environmental Sound Deepfake Detection](https://arxiv.org/abs/2607.16369) | André Runewicz et al. | arXiv |  |
+| 2026 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](https://arxiv.org/abs/2607.28770) | Lucas Rafael Gris | arXiv |  |
 | 2026 | [Accent-Aware Deepfake Speech Detection in Brazilian Portuguese: Dataset Construction and Model Evaluation](https://www.semanticscholar.org/paper/7cd08ecc3edffbca9d3d6321db5952605b5ce7ba) | Sofia Nascimento da Silva et al. | Ibero-Latin American Congress on Computational Methods in Engineering (CILAMCE) | 0 |
 | 2026 | [AFAD-MSA: Dataset and Models for Arabic Fake Audio Detection](https://www.semanticscholar.org/paper/a80b608a4df5fc3a21cd32d1c6dd469923dd6148) | Elsayed Issa | De Computis | 0 |
 | 2026 | [Benchmarking Green AI Methods for Audio Deepfake Detection:A Comparative Study of Efficiency and Accuracy](https://www.semanticscholar.org/paper/c880c125735303b02f56b14c6919734ef23fc6fc) | Rohitashwa Pandey et al. | International Journal of Science, Strategic Management and Technology | 0 |
@@ -94,6 +97,7 @@
 | 2024 | [Utilizing Speaker Profiles for Impersonation Audio Detection](https://arxiv.org/abs/2408.17009) | Hao Gu et al. | ACM Multimedia | 2 |
 | 2024 | [UCSYSpoof: A Myanmar Language Dataset for Voice Spoofing Detection](https://www.semanticscholar.org/paper/0245d3c79ff3263b41a26ac79cf0c8c215111570) | Hay Mar Soe Naing et al. | Oriental COCOSDA International Conference on Speech Database and Assessments | 1 |
 | 2024 | [Indonesian Speech Anti-Spoofing System: Data Creation and Convolutional Neural Network Models](https://www.semanticscholar.org/paper/b29d7673d4c4d51f500625f74f8cdce6d3f98372) | Sarah Azka Arief et al. | 2024 11th International Conference on Advanced Informatics: Concept, Theory and Application (ICAICTA) | 1 |
+| 2024 | [The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio](https://arxiv.org/abs/2405.04880) | Yuankun Xie | arXiv |  |
 | 2024 | [GGMDDC: An Audio Deepfake Detection Multilingual Dataset](https://www.semanticscholar.org/paper/8928baffbbfc105b96bbb24c81dc67a9a08a7169) | Ravindrakumar M. Purohit et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 0 |
 | 2023 | [ADD 2023: the Second Audio Deepfake Detection Challenge](https://arxiv.org/abs/2305.13774) | Jiangyan Yi et al. | DADA@IJCAI | 184 |
 | 2023 | [SingFake: Singing Voice Deepfake Detection](https://arxiv.org/abs/2309.07525) | Yongyi Zang et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 61 |

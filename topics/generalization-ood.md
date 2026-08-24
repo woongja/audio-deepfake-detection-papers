@@ -1,6 +1,6 @@
 # Generalization & OOD
 
-> 232 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
+> 238 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -24,6 +24,10 @@
 | 2026 | [Diffusion Reconstruction towards Generalizable Audio Deepfake Detection](https://arxiv.org/abs/2604.26465) | Bo Cheng et al. | arXiv | 0 |
 | 2026 | [Exploring the Scale and Diversity of Speech Anti-spoofing Datasets: Experiments and Analysis](https://arxiv.org/abs/2606.08038) | Zhuolin Yi et al. | arXiv | 0 |
 | 2026 | [A Comparison of SSL-Based Feature Extractors and Back-End Classifiers for Spoofing Detection: A Multi-Corpus Training and Cross-Linguistic Analysis](https://arxiv.org/abs/2606.08669) | Anh-Tuan Dao et al. | arXiv | 0 |
+| 2026 | [Component-Level Ensemble Fusion for Speech and Environmental Sound Deepfake Detection](https://arxiv.org/abs/2607.16369) | André Runewicz et al. | arXiv |  |
+| 2026 | [Probing Speaker Identity Sensitivity in Audio Deepfake Detectors](https://arxiv.org/abs/2607.21820) | Daniyal Kabir Dar | arXiv |  |
+| 2026 | [How Meta-Learning Shapes LoRA Adapter Geometry in Speech Deepfake Detection](https://arxiv.org/abs/2607.22010) | Ivan Kukanov et al. | arXiv |  |
+| 2026 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](https://arxiv.org/abs/2607.28770) | Lucas Rafael Gris | arXiv |  |
 | 2026 | [LHCC: Cross-Domain Audio Deepfake Detection via Consistency-Aware Fusion of Acoustic and Semantic Representations](https://www.semanticscholar.org/paper/03f09c480e96a3dcd1e06e306b0a7d894c5b6492) | Guofu Zhang et al. | Information Fusion | 0 |
 | 2026 | [Transformer Based Encoder Representation for Audio Anti-Spoofing: Separability and Alignment](https://www.semanticscholar.org/paper/1579856b041841c0feb54eaba299ef79e2bd88c0) | Yuantao Ding et al. | IEEE Transactions on Audio, Speech, and Language Processing | 0 |
 | 2026 | [Comprehensive Validation of Bridge Module and EBM Loss for One-Class Audio Deepfake Detection](https://www.semanticscholar.org/paper/23144693b556d6d205cc907a3f71ff1166aa1f05) | Seung-bin Kim et al. | IEEE Access | 0 |
@@ -94,10 +98,12 @@
 | 2025 | [Unmasking Synthetic Speech: A Novel Deep Learning Model for Deepfake Audio Detection](https://www.semanticscholar.org/paper/1ffadebd7a68a0909318f2bf418fbd5eb29f6cc5) | R. N R et al. | 2025 2nd International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering (RMKMATE) | 1 |
 | 2025 | [Deepfake Voice Detection: Countering Deepfake Audio with Deep Learning Architectures](https://www.semanticscholar.org/paper/8b2f8697864345b270a54ff09452c7248c8d5d6f) | Kaung Khant Ko et al. | International Conference on Advanced Infocomm Technology | 1 |
 | 2025 | [Generalizable Detection of Audio Deepfakes](https://arxiv.org/abs/2507.01750) | Jose A. Lopez et al. | arXiv.org | 0 |
+| 2025 | [Generalizable Audio Spoofing Detection using Non-Semantic Representations](https://arxiv.org/abs/2509.00186) | Arnab | arXiv |  |
 | 2025 | [QAMO: Quality-aware Multi-centroid One-class Learning For Speech Deepfake Detection](https://arxiv.org/abs/2509.20679) | Duc-Tuan Truong et al. | arXiv.org | 0 |
 | 2025 | [Advancing Zero-Shot Open-Set Speech Deepfake Source Tracing](https://arxiv.org/abs/2509.24674) | Manasi Chhibber et al. | arXiv | 0 |
 | 2025 | [Can Current Detectors Catch Face-to-Voice Deepfake Attacks?](https://arxiv.org/abs/2510.21004) | N. Nguyen et al. | 2025 Annual Computer Security Applications Conference Workshops (ACSAC Workshops) | 0 |
 | 2025 | [Continual Audio Deepfake Detection via Universal Adversarial Perturbation](https://arxiv.org/abs/2511.19974) | Wangjie Li et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 0 |
+| 2025 | [DFALLM: Achieving Generalizable Multitask Deepfake Detection by Optimizing Audio LLM Components](https://arxiv.org/abs/2512.08403) | Yupei Li | arXiv |  |
 | 2025 | [Generalizable Audio Deepfake Detection via Risk-Aware Style Alignment and Structural Empirical Risk Minimization](https://www.semanticscholar.org/paper/25abc9227c0ac37b5eca931d2134d6613ca9f66d) | Mingru Yang et al. | ACM Multimedia | 0 |
 | 2025 | [Deepfake Audio Detection using MFCC Features and Deep Learning Approaches](https://www.semanticscholar.org/paper/3c00bc08548abc4e941ea8bbcf7889b36d85e4f2) | Roshan Bernaard A et al. | 2025 9th International Conference on Electronics, Communication and Aerospace Technology (ICECA) | 0 |
 | 2025 | [Enhancing Singing Voice Deepfake Detection Using Advanced Feature Extraction Techniques](https://www.semanticscholar.org/paper/3e462b84d1011795e97c67f0b1c4546734b37596) | Ishaan Sharma et al. | 2025 IEEE International Conference on Intelligent Signal Processing and Effective Communication Technologies (INSPECT) | 0 |

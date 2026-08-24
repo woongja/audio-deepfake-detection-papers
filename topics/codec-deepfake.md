@@ -1,6 +1,6 @@
 # Neural Codec Deepfakes
 
-> 19 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
+> 20 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -22,4 +22,5 @@
 | 2024 | [Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio](https://arxiv.org/abs/2406.08112) | Yi Lu et al. | Interspeech | 15 |
 | 2024 | [Does Current Deepfake Audio Detection Model Effectively Detect ALM-Based Deepfake Audio?](https://arxiv.org/abs/2408.10853) | Yuankun Xie et al. | International Symposium on Chinese Spoken Language Processing | 5 |
 | 2024 | [Leveraging Neural Vocoder Artifacts for Improved Synthetic Speech Detection](https://www.semanticscholar.org/paper/51cc58f354d8c8eec9532dc4e253c77199eb2e9d) | Jingxi Xue et al. | International Conference on Sensors, Signal and Image Processing | 2 |
+| 2024 | [The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio](https://arxiv.org/abs/2405.04880) | Yuankun Xie | arXiv |  |
 | 2023 | [ASSD: Synthetic Speech Detection in the AAC Compressed Domain](https://www.semanticscholar.org/paper/ed2e63a5ca30599df2cda0414373719446f11c26) | Amit Kumar Singh Yadav et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 13 |

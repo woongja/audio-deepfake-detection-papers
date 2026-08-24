@@ -1,15 +1,18 @@
 # Explainability & Attribution
 
-> 80 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
+> 83 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
 | 2026 | [SARA: Stress Test Reasoning in Audio Deepfake Detection](https://arxiv.org/abs/2601.03615) | Binh Nguyen et al. | arXiv | 4 |
 | 2026 | [HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing](https://arxiv.org/abs/2602.04535) | Xuenan Xu et al. | arXiv.org | 4 |
 | 2026 | [Interpreting Multi-Branch Anti-Spoofing Architectures: Correlating Internal Strategy with Empirical Performance](https://arxiv.org/abs/2602.17711) | Ivan Viakhirev et al. | Mathematics | 1 |
+| 2026 | [Interpretable All-Type Audio Deepfake Detection with Audio LLMs via Frequency–Time Reinforcement Learning](https://arxiv.org/abs/2601.02983) | Yuankun Xie | arXiv |  |
 | 2026 | [LJ-Spoof: A Generatively Varied Corpus for Audio Anti-Spoofing and Synthesis Source Tracing](https://arxiv.org/abs/2601.07958) | Surya Subramani et al. | arXiv.org | 0 |
 | 2026 | [Multi-Task Transformer for Explainable Speech Deepfake Detection via Formant Modeling](https://arxiv.org/abs/2601.14850) | Viola Negroni et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 0 |
+| 2026 | [Towards Explicit Acoustic Evidence Perception in Audio LLMs for Speech Deepfake Detection](https://arxiv.org/abs/2601.23066) | Xiaoxuan Guo | arXiv |  |
 | 2026 | [Towards Robust Speech Deepfake Detection via Human-Inspired Reasoning](https://arxiv.org/abs/2603.10725) | Artem Dvirniak et al. | arXiv | 0 |
+| 2026 | [Audio Language Model for Deepfake Detection Grounded in Acoustic Chain-of-Thought](https://arxiv.org/abs/2603.28021) | Runkun | arXiv |  |
 | 2026 | [ICLAD: In-Context Learning with Comparison-Guidance for Audio Deepfake Detection](https://arxiv.org/abs/2604.16749) | B. Chou et al. | arXiv | 0 |
 | 2026 | [Deepfake Forensics Tool: AI-Driven Multi-Modal Media Authentication with Forensic Evidence Reporting](https://www.semanticscholar.org/paper/49292371b59165128ea70526327ea07124486d8a) | Avinash Bhondave et al. | International Journal of Scientific Research in Engineering and Management | 0 |
 | 2026 | [Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning](https://arxiv.org/abs/2606.10758) | Cristian-Teodor Neamtu et al. | arXiv |  |

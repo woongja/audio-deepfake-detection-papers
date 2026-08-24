@@ -1,10 +1,11 @@
 # Adapters, LoRA & MoE
 
-> 19 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
+> 20 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-08-24
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
 | 2026 | [Enhancing Efficiency and Performance in Deepfake Audio Detection through Neuron-level Dropin&Neuroplasticity Mechanisms](https://arxiv.org/abs/2603.24343) | Yupei Li et al. | arXiv | 0 |
+| 2026 | [How Meta-Learning Shapes LoRA Adapter Geometry in Speech Deepfake Detection](https://arxiv.org/abs/2607.22010) | Ivan Kukanov et al. | arXiv |  |
 | 2026 | [Dynamic Noise-Aware Multi Lora Framework Towards Real-World Audio Deepfake Detection](https://www.semanticscholar.org/paper/206fced6cf644b81963ed305bbdd3eff408c9ddc) | Woongjae Lee et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 0 |
 | 2026 | [A Parameter-Efficient Multi-Scale Convolutional Adapter for Synthetic Speech Detection](https://www.semanticscholar.org/paper/36c5490ee2bb16eef209794008ae6bcae92a5c63) | Yassine El Kheir et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 0 |
 | 2026 | [From Self-Supervised Speech Models to Mixture-of-Experts for Robust Anti-Spoofing](https://arxiv.org/abs/2606.14639) | Hugo Daumain et al. | arXiv |  |
