@@ -1,6 +1,6 @@
 # Spectral & Signal-Processing Front-Ends
 
-> 426 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-01
+> 426 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-02
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
