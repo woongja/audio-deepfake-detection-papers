@@ -1,6 +1,6 @@
 # Cross-Domain & Multimodal
 
-> 25 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-07
+> 25 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-08
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
