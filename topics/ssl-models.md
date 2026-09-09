@@ -1,6 +1,6 @@
 # SSL Front-Ends (wav2vec2 / WavLM / HuBERT)
 
-> 145 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-09
+> 147 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-10
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -41,6 +41,8 @@
 | 2026 | [On the Robustness of Audio Deepfake Detection under Audio Watermarking](https://arxiv.org/abs/2608.24159) | Zi Qian Yong et al. | arXiv |  |
 | 2026 | [Beyond Speech: Dual-Domain SSL Fusion for Unified All-Type Audio Deepfake Detection](https://arxiv.org/abs/2608.29021) | Cunhang Fan et al. | arXiv |  |
 | 2026 | [KanAdapter: A Kolmogorov-Arnold Network-based Plug-and-Play Module for Efficient Fine-tuning of Foundation Speech Models](https://arxiv.org/abs/2609.05281) | Phuong Tuan Dat et al. | arXiv |  |
+| 2026 | [From Scores to Evidence: Auditable Decisions Can Improve Speech Deepfake Detection](https://arxiv.org/abs/2609.08899) | Mengzhe Geng et al. | arXiv |  |
+| 2026 | [Disentangled Global-Local Feature Learning with E-Branchformer for Audio Deepfake Detection](https://arxiv.org/abs/2609.08948) | Phuong Tuan Dat et al. | arXiv |  |
 | 2025 | [Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-Spoofing](https://arxiv.org/abs/2504.05657) | Tianchi Liu et al. | IEEE Transactions on Information Forensics and Security | 26 |
 | 2025 | [Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection](https://arxiv.org/abs/2502.03559) | Y. E. Kheir et al. | North American Chapter of the Association for Computational Linguistics | 25 |
 | 2025 | [Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception](https://arxiv.org/abs/2504.06753) | Yuankun Xie et al. | AAAI Conference on Artificial Intelligence | 12 |
