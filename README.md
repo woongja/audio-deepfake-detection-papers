@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1214-blue) ![updated](https://img.shields.io/badge/updated-2026--09--10-green)
+![papers](https://img.shields.io/badge/papers-1217-blue) ![updated](https://img.shields.io/badge/updated-2026--09--12-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -13,12 +13,12 @@ Generated from a personally maintained research corpus.
 - [Detection Architectures & Encoders](topics/architectures.md) (142)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (21)
 - [LLM-Based Detection](topics/llm-based.md) (17)
-- [Explainability & Attribution](topics/xai-explainability.md) (86)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (109)
-- [Generalization & OOD](topics/generalization-ood.md) (242)
+- [Explainability & Attribution](topics/xai-explainability.md) (87)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (111)
+- [Generalization & OOD](topics/generalization-ood.md) (243)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (22)
-- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (39)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (154)
+- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (40)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (156)
 - [Training Strategies](topics/training-strategies.md) (182)
 - [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (25)
 
@@ -28,6 +28,9 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
+| 2026-09-10 | [Not All Attacks Are Learned Equally in Speech Deepfake Detection](https://arxiv.org/abs/2609.11763) | Avantika Singh et al. | arXiv |  |
+| 2026-09-09 | [Zero-Shot Temporal Localisation of Audio Deepfakes in Multi-Speaker Conversations](https://arxiv.org/abs/2609.10051) | Soumyadeep Roy | arXiv |  |
+| 2026-09-08 | [Audio Deepfake Detection Using Temporal Coherence Analysis](https://arxiv.org/abs/2609.09489) | Justin D. Norman et al. | arXiv |  |
 | 2026-09-08 | [Disentangled Global-Local Feature Learning with E-Branchformer for Audio Deepfake Detection](https://arxiv.org/abs/2609.08948) | Phuong Tuan Dat et al. | arXiv |  |
 | 2026-09-08 | [From Scores to Evidence: Auditable Decisions Can Improve Speech Deepfake Detection](https://arxiv.org/abs/2609.08899) | Mengzhe Geng et al. | arXiv |  |
 | 2026-09-04 | [KanAdapter: A Kolmogorov-Arnold Network-based Plug-and-Play Module for Efficient Fine-tuning of Foundation Speech Models](https://arxiv.org/abs/2609.05281) | Phuong Tuan Dat et al. | arXiv |  |
@@ -55,15 +58,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-07-29 | [ThinkOmni: A Reasoning-Driven Omni-Modal LLM Framework for Audio Forgery Detection and Localization](https://arxiv.org/abs/2607.26553) | Yuxiong Xu et al. | arXiv |  |
 | 2026-07-29 | [Audio-Anchored Fusion of Multi-Ratio DiT Reconstruction Residuals for Cross-Domain Audio Deepfake Detection](https://arxiv.org/abs/2607.26472) | Haotian Mo et al. | arXiv |  |
 | 2026-07-27 | [Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection](https://arxiv.org/abs/2607.23961) | Mingrui Liang et al. | arXiv |  |
-| 2026-07-24 | [How Meta-Learning Shapes LoRA Adapter Geometry in Speech Deepfake Detection](https://arxiv.org/abs/2607.22010) | Ivan Kukanov et al. | arXiv |  |
-| 2026-07-23 | [Probing Speaker Identity Sensitivity in Audio Deepfake Detectors](https://arxiv.org/abs/2607.21820) | Daniyal Kabir Dar | arXiv |  |
-| 2026-07-23 | [Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores](https://arxiv.org/abs/2607.21127) | Viola Negroni et al. | arXiv |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 189 |
+| 2026 | 192 |
 | 2025 | 276 |
 | 2024 | 192 |
 | 2023 | 135 |
