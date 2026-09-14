@@ -34,8 +34,8 @@
 | 2026 | [Audio-Anchored Fusion of Multi-Ratio DiT Reconstruction Residuals for Cross-Domain Audio Deepfake Detection](https://arxiv.org/abs/2607.26472) | Haotian Mo et al. | arXiv |  |
 | 2026 | [Multi-Backbone Self-Supervised Ensembles for Audio Deepfake Detection and a Cross-Track Analysis of Generation-Detection Asymmetry](https://arxiv.org/abs/2608.01796) | Seunghyun Kim et al. | arXiv |  |
 | 2026 | [Evaluating Pre-trained Speech Encoders for Spontaneous Speech Detection and Out of Domain Synthetic Speech Generalisation in Indic Languages](https://arxiv.org/abs/2608.12536) | Varun Rai et al. | arXiv |  |
-| 2026 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](../summaries/arxiv-2608.13817.md) | Tomás Andrade Weber | arXiv |  |
-| 2026 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](../summaries/arxiv-2608.14249.md) | Yuankun Xie et al. | arXiv |  |
+| 2026 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](https://arxiv.org/abs/2608.13817) · [📝 요약](../summaries/trajectory-dynamics-in-self-supervised-learning-latent-space-for-audio-deepfake.md) | Tomás Andrade Weber | arXiv |  |
+| 2026 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](https://arxiv.org/abs/2608.14249) · [📝 요약](../summaries/at-add-all-type-audio-deepfake-detection-challenge-summary.md) | Yuankun Xie et al. | arXiv |  |
 | 2026 | [Explainability by Design: Structured Kolmogorov-Arnold Networks over Probabilistic Attributes for Speech Deepfake Source Tracing](https://arxiv.org/abs/2608.20213) | Hoang H. Pham et al. | arXiv |  |
 | 2026 | [AT-ADD: A Benchmark and Challenge for Robust and All-Type Audio Deepfake Detection](https://arxiv.org/abs/2608.23437) | Yuankun Xie et al. | arXiv |  |
 | 2026 | [On the Robustness of Audio Deepfake Detection under Audio Watermarking](https://arxiv.org/abs/2608.24159) | Zi Qian Yong et al. | arXiv |  |

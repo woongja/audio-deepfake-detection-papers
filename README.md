@@ -45,15 +45,15 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-08-24 | [AT-ADD: A Benchmark and Challenge for Robust and All-Type Audio Deepfake Detection](https://arxiv.org/abs/2608.23437) | Yuankun Xie et al. | arXiv |  |
 | 2026-08-20 | [Explainability by Design: Structured Kolmogorov-Arnold Networks over Probabilistic Attributes for Speech Deepfake Source Tracing](https://arxiv.org/abs/2608.20213) | Hoang H. Pham et al. | arXiv |  |
 | 2026-08-20 | [Tracking the Trend in How Speech Synthesizers Deceive People](https://arxiv.org/abs/2608.19959) | Milan Šalko et al. | arXiv |  |
-| 2026-08-18 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](summaries/arxiv-2608.17585.md) | Anton Firc et al. | arXiv |  |
-| 2026-08-14 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](summaries/arxiv-2608.14249.md) | Yuankun Xie et al. | arXiv |  |
-| 2026-08-13 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](summaries/arxiv-2608.13817.md) | Tomás Andrade Weber | arXiv |  |
+| 2026-08-18 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) · [📝 요약](summaries/the-last-mile-of-deepfake-speech-detection-an-industry-academia-experience-repor.md) | Anton Firc et al. | arXiv |  |
+| 2026-08-14 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](https://arxiv.org/abs/2608.14249) · [📝 요약](summaries/at-add-all-type-audio-deepfake-detection-challenge-summary.md) | Yuankun Xie et al. | arXiv |  |
+| 2026-08-13 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](https://arxiv.org/abs/2608.13817) · [📝 요약](summaries/trajectory-dynamics-in-self-supervised-learning-latent-space-for-audio-deepfake.md) | Tomás Andrade Weber | arXiv |  |
 | 2026-08-12 | [Evaluating Pre-trained Speech Encoders for Spontaneous Speech Detection and Out of Domain Synthetic Speech Generalisation in Indic Languages](https://arxiv.org/abs/2608.12536) | Varun Rai et al. | arXiv |  |
 | 2026-08-10 | [MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593) | Yanqiu Li et al. | arXiv |  |
 | 2026-08-08 | [The Voiceprint Fallacy: Why Voices Are Not Unique Biometric Imprints](https://arxiv.org/abs/2608.07980) | Tianle Yang et al. | arXiv |  |
 | 2026-08-06 | [AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks](https://arxiv.org/abs/2608.05507) | Aurosweta Mahapatra et al. | arXiv |  |
 | 2026-08-03 | [Multi-Backbone Self-Supervised Ensembles for Audio Deepfake Detection and a Cross-Track Analysis of Generation-Detection Asymmetry](https://arxiv.org/abs/2608.01796) | Seunghyun Kim et al. | arXiv |  |
-| 2026-07 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](summaries/arxiv-2607.28770.md) | Lucas Rafael Gris | arXiv |  |
+| 2026-07-30 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](https://arxiv.org/abs/2607.28770) · [📝 요약](summaries/cloned-voices-real-consequences-evaluating-bias-in-political-deepfake-detection.md) | Lucas Rafael Gris | arXiv |  |
 | 2026-07-30 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. | arXiv |  |
 | 2026-07-29 | [ThinkOmni: A Reasoning-Driven Omni-Modal LLM Framework for Audio Forgery Detection and Localization](https://arxiv.org/abs/2607.26553) | Yuxiong Xu et al. | arXiv |  |
 | 2026-07-29 | [Audio-Anchored Fusion of Multi-Ratio DiT Reconstruction Residuals for Cross-Domain Audio Deepfake Detection](https://arxiv.org/abs/2607.26472) | Haotian Mo et al. | arXiv |  |

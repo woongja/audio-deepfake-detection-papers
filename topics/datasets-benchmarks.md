@@ -24,8 +24,8 @@
 | 2026 | [RADAR Challenge 2026: Robust Audio Deepfake Recognition under Media Transformations](https://arxiv.org/abs/2605.09568) | Hieu-Thi Luong et al. | arXiv | 0 |
 | 2026 | [MixFake: Benchmarking and Enhancing Audio Deepfake Detection in Diverse Real-world Mixed Audio](https://arxiv.org/abs/2605.23201) | Qingcao Li et al. | arXiv | 0 |
 | 2026 | [Linguistically Augmented Audio Speech Data (LinguAS)](https://arxiv.org/abs/2606.10246) | A. Keaton et al. | arXiv | 0 |
-| 2026 | [Component-Level Ensemble Fusion for Speech and Environmental Sound Deepfake Detection](../summaries/arxiv-2607.16369.md) | André Runewicz et al. | arXiv |  |
-| 2026 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](../summaries/arxiv-2607.28770.md) | Lucas Rafael Gris | arXiv |  |
+| 2026 | [Component-Level Ensemble Fusion for Speech and Environmental Sound Deepfake Detection](https://arxiv.org/abs/2607.16369) · [📝 요약](../summaries/component-level-ensemble-fusion-for-speech-and-environmental-sound-deepfake-dete.md) | André Runewicz et al. | arXiv |  |
+| 2026 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](https://arxiv.org/abs/2607.28770) · [📝 요약](../summaries/cloned-voices-real-consequences-evaluating-bias-in-political-deepfake-detection.md) | Lucas Rafael Gris | arXiv |  |
 | 2026 | [Accent-Aware Deepfake Speech Detection in Brazilian Portuguese: Dataset Construction and Model Evaluation](https://www.semanticscholar.org/paper/7cd08ecc3edffbca9d3d6321db5952605b5ce7ba) | Sofia Nascimento da Silva et al. | Ibero-Latin American Congress on Computational Methods in Engineering (CILAMCE) | 0 |
 | 2026 | [AFAD-MSA: Dataset and Models for Arabic Fake Audio Detection](https://www.semanticscholar.org/paper/a80b608a4df5fc3a21cd32d1c6dd469923dd6148) | Elsayed Issa | De Computis | 0 |
 | 2026 | [Benchmarking Green AI Methods for Audio Deepfake Detection:A Comparative Study of Efficiency and Accuracy](https://www.semanticscholar.org/paper/c880c125735303b02f56b14c6919734ef23fc6fc) | Rohitashwa Pandey et al. | International Journal of Science, Strategic Management and Technology | 0 |
@@ -43,9 +43,9 @@
 | 2026 | [AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks](https://arxiv.org/abs/2608.05507) | Aurosweta Mahapatra et al. | arXiv |  |
 | 2026 | [MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593) | Yanqiu Li et al. | arXiv |  |
 | 2026 | [Evaluating Pre-trained Speech Encoders for Spontaneous Speech Detection and Out of Domain Synthetic Speech Generalisation in Indic Languages](https://arxiv.org/abs/2608.12536) | Varun Rai et al. | arXiv |  |
-| 2026 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](../summaries/arxiv-2608.13817.md) | Tomás Andrade Weber | arXiv |  |
-| 2026 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](../summaries/arxiv-2608.14249.md) | Yuankun Xie et al. | arXiv |  |
-| 2026 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](../summaries/arxiv-2608.17585.md) | Anton Firc et al. | arXiv |  |
+| 2026 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](https://arxiv.org/abs/2608.13817) · [📝 요약](../summaries/trajectory-dynamics-in-self-supervised-learning-latent-space-for-audio-deepfake.md) | Tomás Andrade Weber | arXiv |  |
+| 2026 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](https://arxiv.org/abs/2608.14249) · [📝 요약](../summaries/at-add-all-type-audio-deepfake-detection-challenge-summary.md) | Yuankun Xie et al. | arXiv |  |
+| 2026 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) · [📝 요약](../summaries/the-last-mile-of-deepfake-speech-detection-an-industry-academia-experience-repor.md) | Anton Firc et al. | arXiv |  |
 | 2026 | [Tracking the Trend in How Speech Synthesizers Deceive People](https://arxiv.org/abs/2608.19959) | Milan Šalko et al. | arXiv |  |
 | 2026 | [AT-ADD: A Benchmark and Challenge for Robust and All-Type Audio Deepfake Detection](https://arxiv.org/abs/2608.23437) | Yuankun Xie et al. | arXiv |  |
 | 2026 | [On the Robustness of Audio Deepfake Detection under Audio Watermarking](https://arxiv.org/abs/2608.24159) | Zi Qian Yong et al. | arXiv |  |
