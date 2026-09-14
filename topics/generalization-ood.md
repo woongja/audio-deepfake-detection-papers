@@ -24,10 +24,10 @@
 | 2026 | [Diffusion Reconstruction towards Generalizable Audio Deepfake Detection](https://arxiv.org/abs/2604.26465) | Bo Cheng et al. | arXiv | 0 |
 | 2026 | [Exploring the Scale and Diversity of Speech Anti-spoofing Datasets: Experiments and Analysis](https://arxiv.org/abs/2606.08038) | Zhuolin Yi et al. | arXiv | 0 |
 | 2026 | [A Comparison of SSL-Based Feature Extractors and Back-End Classifiers for Spoofing Detection: A Multi-Corpus Training and Cross-Linguistic Analysis](https://arxiv.org/abs/2606.08669) | Anh-Tuan Dao et al. | arXiv | 0 |
-| 2026 | [Component-Level Ensemble Fusion for Speech and Environmental Sound Deepfake Detection](https://arxiv.org/abs/2607.16369) | André Runewicz et al. | arXiv |  |
-| 2026 | [Probing Speaker Identity Sensitivity in Audio Deepfake Detectors](https://arxiv.org/abs/2607.21820) | Daniyal Kabir Dar | arXiv |  |
-| 2026 | [How Meta-Learning Shapes LoRA Adapter Geometry in Speech Deepfake Detection](https://arxiv.org/abs/2607.22010) | Ivan Kukanov et al. | arXiv |  |
-| 2026 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](https://arxiv.org/abs/2607.28770) | Lucas Rafael Gris | arXiv |  |
+| 2026 | [Component-Level Ensemble Fusion for Speech and Environmental Sound Deepfake Detection](../summaries/arxiv-2607.16369.md) | André Runewicz et al. | arXiv |  |
+| 2026 | [Probing Speaker Identity Sensitivity in Audio Deepfake Detectors](../summaries/arxiv-2607.21820.md) | Daniyal Kabir Dar | arXiv |  |
+| 2026 | [How Meta-Learning Shapes LoRA Adapter Geometry in Speech Deepfake Detection](../summaries/arxiv-2607.22010.md) | Ivan Kukanov et al. | arXiv |  |
+| 2026 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](../summaries/arxiv-2607.28770.md) | Lucas Rafael Gris | arXiv |  |
 | 2026 | [LHCC: Cross-Domain Audio Deepfake Detection via Consistency-Aware Fusion of Acoustic and Semantic Representations](https://www.semanticscholar.org/paper/03f09c480e96a3dcd1e06e306b0a7d894c5b6492) | Guofu Zhang et al. | Information Fusion | 0 |
 | 2026 | [Transformer Based Encoder Representation for Audio Anti-Spoofing: Separability and Alignment](https://www.semanticscholar.org/paper/1579856b041841c0feb54eaba299ef79e2bd88c0) | Yuantao Ding et al. | IEEE Transactions on Audio, Speech, and Language Processing | 0 |
 | 2026 | [Comprehensive Validation of Bridge Module and EBM Loss for One-Class Audio Deepfake Detection](https://www.semanticscholar.org/paper/23144693b556d6d205cc907a3f71ff1166aa1f05) | Seung-bin Kim et al. | IEEE Access | 0 |
@@ -38,7 +38,7 @@
 | 2026 | [Assessment of quality degradation in modern voice deepfake detectors under cross-linguistic shift from English to Ukrainian](https://www.semanticscholar.org/paper/bec6f39164401ffadbebeeec341d4d3aa39adcba) | I. Vynogradov | Technology audit and production reserves | 0 |
 | 2026 | [A Novel Attack-Resistant Speech Forgery Detection Method Integrating One-Class Learning and Wav2vec2](https://www.semanticscholar.org/paper/c9a5953986b9efa5f850a6ed7943302945aad998) | Jing Yin et al. | 2026 International Conference on Communication Networks and Machine Learning (CNML) | 0 |
 | 2026 | [MOSAIC: A Unified Multilingual Deep Learning Framework for Detecting Manipulated Speech Audio Using Geometry-Aware Foundation Model Representations](https://www.semanticscholar.org/paper/eec88a1aa6c9ce7b98f4348cd4ec0e475186e8f4) | Mohd Mujtaba Akhtar et al. | 2026 5th International Conference on Sentiment Analysis and Deep Learning (ICSADL) | 0 |
-| 2026 | [Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning](https://arxiv.org/abs/2606.10758) | Cristian-Teodor Neamtu et al. | arXiv |  |
+| 2026 | [Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning](../summaries/arxiv-2606.10758.md) | Cristian-Teodor Neamtu et al. | arXiv |  |
 | 2026 | [Dual-Granularity Orthogonal Disentanglement for Generalizable Audio Deepfake Detection](https://arxiv.org/abs/2606.16532) | Zhuodong Liu et al. | arXiv |  |
 | 2026 | [Robust Spoofed Speech Detection via Temporal Pyramid Modeling](https://arxiv.org/abs/2606.16837) | Mahtab Masoudi Nezhad et al. | arXiv |  |
 | 2026 | [FlowFake: Liquid Networks for Audio Deepfake Detection](https://arxiv.org/abs/2606.19579) | Shivaay Dhondiyal et al. | arXiv |  |
@@ -51,8 +51,8 @@
 | 2026 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. | arXiv |  |
 | 2026 | [AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks](https://arxiv.org/abs/2608.05507) | Aurosweta Mahapatra et al. | arXiv |  |
 | 2026 | [Evaluating Pre-trained Speech Encoders for Spontaneous Speech Detection and Out of Domain Synthetic Speech Generalisation in Indic Languages](https://arxiv.org/abs/2608.12536) | Varun Rai et al. | arXiv |  |
-| 2026 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](https://arxiv.org/abs/2608.14249) | Yuankun Xie et al. | arXiv |  |
-| 2026 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) | Anton Firc et al. | arXiv |  |
+| 2026 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](../summaries/arxiv-2608.14249.md) | Yuankun Xie et al. | arXiv |  |
+| 2026 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](../summaries/arxiv-2608.17585.md) | Anton Firc et al. | arXiv |  |
 | 2026 | [AT-ADD: A Benchmark and Challenge for Robust and All-Type Audio Deepfake Detection](https://arxiv.org/abs/2608.23437) | Yuankun Xie et al. | arXiv |  |
 | 2026 | [On the Robustness of Audio Deepfake Detection under Audio Watermarking](https://arxiv.org/abs/2608.24159) | Zi Qian Yong et al. | arXiv |  |
 | 2026 | [Textual Acoustic Grounding for Generalizable LLM-Based Deepfake Voice Detection](https://arxiv.org/abs/2608.30622) | Yassine El Kheir et al. | arXiv |  |

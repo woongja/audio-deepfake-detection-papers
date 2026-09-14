@@ -11,8 +11,8 @@
 | 2026 | [A Geometry-Limited Identification Floor and Its Consequences for Voice-Clone Attribution in Professional Voice Actors](https://arxiv.org/abs/2607.15694) | Shuhei Kato | arXiv |  |
 | 2026 | [Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection](https://arxiv.org/abs/2607.23961) | Mingrui Liang et al. | arXiv |  |
 | 2026 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. | arXiv |  |
-| 2026 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](https://arxiv.org/abs/2608.13817) | Tomás Andrade Weber | arXiv |  |
-| 2026 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) | Anton Firc et al. | arXiv |  |
+| 2026 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](../summaries/arxiv-2608.13817.md) | Tomás Andrade Weber | arXiv |  |
+| 2026 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](../summaries/arxiv-2608.17585.md) | Anton Firc et al. | arXiv |  |
 | 2026 | [A Training-Free Proactive Defense Against Partial Speech Manipulation via Self-Embedding Steganography](https://arxiv.org/abs/2608.25285) | Yigitcan Özer et al. | arXiv |  |
 | 2026 | [Combining Self-Embedding Audio Watermarking with Ultra-Low-Bitrate Neural Codecs](https://arxiv.org/abs/2608.25289) | Yigitcan Özer et al. | arXiv |  |
 | 2025 | [Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition](https://arxiv.org/abs/2501.06514) | Yuankun Xie et al. | arXiv.org | 15 |

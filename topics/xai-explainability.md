@@ -15,7 +15,7 @@
 | 2026 | [Audio Language Model for Deepfake Detection Grounded in Acoustic Chain-of-Thought](https://arxiv.org/abs/2603.28021) | Runkun | arXiv |  |
 | 2026 | [ICLAD: In-Context Learning with Comparison-Guidance for Audio Deepfake Detection](https://arxiv.org/abs/2604.16749) | B. Chou et al. | arXiv | 0 |
 | 2026 | [Deepfake Forensics Tool: AI-Driven Multi-Modal Media Authentication with Forensic Evidence Reporting](https://www.semanticscholar.org/paper/49292371b59165128ea70526327ea07124486d8a) | Avinash Bhondave et al. | International Journal of Scientific Research in Engineering and Management | 0 |
-| 2026 | [Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning](https://arxiv.org/abs/2606.10758) | Cristian-Teodor Neamtu et al. | arXiv |  |
+| 2026 | [Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning](../summaries/arxiv-2606.10758.md) | Cristian-Teodor Neamtu et al. | arXiv |  |
 | 2026 | [What Do Deepfake Speech Detectors Actually Hear?](https://arxiv.org/abs/2606.10912) | Vojtěch Staněk et al. | arXiv |  |
 | 2026 | [The Perceived Fragility of Explanations in Audio Models: Manipulation of Attribution with Unchanged Predictions](https://arxiv.org/abs/2606.14466) | Piotr Kitłowski et al. | arXiv |  |
 | 2026 | [Phonetically Explainable Speech Deepfake Detection](https://arxiv.org/abs/2606.15454) | Manasi Chhibber et al. | arXiv |  |
