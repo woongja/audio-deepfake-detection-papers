@@ -53,7 +53,7 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-08-08 | [The Voiceprint Fallacy: Why Voices Are Not Unique Biometric Imprints](https://arxiv.org/abs/2608.07980) | Tianle Yang et al. |  |  |
 | 2026-08-06 | [AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks](https://arxiv.org/abs/2608.05507) | Aurosweta Mahapatra et al. |  |  |
 | 2026-08-03 | [Multi-Backbone Self-Supervised Ensembles for Audio Deepfake Detection and a Cross-Track Analysis of Generation-Detection Asymmetry](https://arxiv.org/abs/2608.01796) | Seunghyun Kim et al. |  |  |
-| 2026-07-30 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](https://arxiv.org/abs/2607.28770) | Lucas Rafael Gris | [📝](summaries/cloned-voices-real-consequences-evaluating-bias-in-political-deepfake-detection.md) |  |
+| 2026-07 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](https://arxiv.org/abs/2607.28770) | Lucas Rafael Gris | [📝](summaries/cloned-voices-real-consequences-evaluating-bias-in-political-deepfake-detection.md) |  |
 | 2026-07-30 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. |  |  |
 | 2026-07-29 | [ThinkOmni: A Reasoning-Driven Omni-Modal LLM Framework for Audio Forgery Detection and Localization](https://arxiv.org/abs/2607.26553) | Yuxiong Xu et al. |  |  |
 | 2026-07-29 | [Audio-Anchored Fusion of Multi-Ratio DiT Reconstruction Residuals for Cross-Domain Audio Deepfake Detection](https://arxiv.org/abs/2607.26472) | Haotian Mo et al. |  |  |
