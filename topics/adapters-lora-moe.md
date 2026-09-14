@@ -1,6 +1,6 @@
 # Adapters, LoRA & MoE
 
-> 21 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-12
+> 21 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-14
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
