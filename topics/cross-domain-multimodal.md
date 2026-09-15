@@ -1,6 +1,6 @@
 # Cross-Domain & Multimodal
 
-> 25 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-14
+> 25 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-15
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@
 | 2026 | [AI-Based Detection of Cloned Voices in Deepfake Videos](https://www.semanticscholar.org/paper/db65442c2fde6eda09ce3266dcd88efb1e474327) | Rajeshwari Kodulkar et al. | International Journal on Advanced Computer Theory and Engineering | 0 |
 | 2026 | [AI Generated Media Classification Using Deep Learning](https://www.semanticscholar.org/paper/e4a5035a95236e6f6760d768dce2c37171fd03dd) | Nizampatnam Sai Siri | International Journal for Research in Applied Science and Engineering Technology | 0 |
 | 2026 | [Secure Vision-Unified Spoofing Prevention and Deepfake Identification Framework](https://www.semanticscholar.org/paper/f2cc260fa91e59dd595d069cee7604891aa885d2) | Lakkakula Ashwitha et al. | 2026 International Conference on Next-Gen Quantum and Advanced Computing: Algorithms, Security, and Beyond (NQComp) | 0 |
-| 2026 | [Teacher-Student Structure for Domain Adaptation in Ensemble Audio-Visual Video Deepfake Detection](https://arxiv.org/abs/2606.15117) | Elham Abolhasani et al. | arXiv |  |
+| 2026 | [Teacher-Student Structure for Domain Adaptation in Ensemble Audio-Visual Video Deepfake Detection](https://arxiv.org/abs/2606.15117) · [📝 요약](../summaries/teacher-student-structure-for-domain-adaptation-in-ensemble-audio-visual-video-d.md) | Elham Abolhasani et al. | arXiv |  |
 | 2025 | [A Unified Neural Framework for Real-Time Deepfake Detection Across Multimedia Modalities to Combat Misleading Content](https://www.semanticscholar.org/paper/714608ba4cc6b81909f24c6190b295b668fa219f) | Ayan Sar et al. | IEEE Access | 8 |
-| 2025 | [Are Multimodal Foundation Models All That Is Needed for Emofake Detection?](https://arxiv.org/abs/2509.16193) | Mohd Mujtaba Akhtar et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 1 |
+| 2025 | [Are Multimodal Foundation Models All That Is Needed for Emofake Detection?](https://arxiv.org/abs/2509.16193) · [📝 요약](../summaries/are-multimodal-foundation-models-all-that-is-needed-for-emofake-detection.md) | Mohd Mujtaba Akhtar et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 1 |
 | 2025 | [Unified Deepfake Detection System for Image, Video and Audio Media](https://www.semanticscholar.org/paper/1076d986068b630aa3a19e331cb8580e9bb8a087) | Neelakantappa T T et al. | International Journal For Multidisciplinary Research | 0 |
 | 2025 | [VAD-Lip: Visual and Audio Deepfake Detection via Lip Features](https://www.semanticscholar.org/paper/617801fb43a8a91719f7643dd415f1e813c25c42) | Jinyu Wang et al. | DFF@MM | 0 |
 | 2025 | [An Explainable Deep Learning Framework for Robust Face Anti-Spoofing via Shapley-Guided Feature Selection](https://www.semanticscholar.org/paper/63f4337a30ecb46173d96f5c1e3986036b1a4260) | Anisha Soni et al. | International Journal of Computational and Experimental Science and Engineering | 0 |
@@ -25,7 +25,7 @@
 | 2024 | [Efficiently Identifying Fake Audio and Images Using Transfer Learning](https://www.semanticscholar.org/paper/6942cab52693b93bbe26db336517e719d7a5a55e) | B. S et al. | 2024 International Conference on System, Computation, Automation and Networking (ICSCAN) | 1 |
 | 2023 | [Cross-modal information fusion for voice spoofing detection](https://www.semanticscholar.org/paper/a5aef509f0bde2c058c9f12eab51cd76644df359) | Junxiao Xue et al. | Speech Communication | 25 |
 | 2022 | [Detection of Morphed Face, Body, Audio signals using Deep Neural Networks](https://www.semanticscholar.org/paper/a13b10d6299e83c151a080de69a3590ed2c667fb) | Dheeraj Gharde et al. | 2022 IEEE 7th International conference for Convergence in Technology (I2CT) | 0 |
-| 2021 | [Audio-Visual Biometric Recognition and Presentation Attack Detection: A Comprehensive Survey](https://arxiv.org/abs/2101.09725) | Hareesh Mandalapu et al. | IEEE Access | 39 |
+| 2021 | [Audio-Visual Biometric Recognition and Presentation Attack Detection: A Comprehensive Survey](https://arxiv.org/abs/2101.09725) · [📝 요약](../summaries/audio-visual-biometric-recognition-and-presentation-attack-detection-a-comprehen.md) | Hareesh Mandalapu et al. | IEEE Access | 39 |
 | 2020 | [Recurrent Convolutional Structures for Audio Spoof and Video Deepfake Detection](https://www.semanticscholar.org/paper/87568d5e64bc7ff95e7c6cb0df11cb150ebb0d7f) | Akash Chintha et al. | IEEE Journal on Selected Topics in Signal Processing | 184 |
 | 2020 | [Video and audio deepfakes detection using Deep Learning](https://www.semanticscholar.org/paper/3808d76bcec74685a254ddd430bb01b74be73b89) | D. Bing et al. |  | 0 |
-| 2019 | [Smartphone Multi-modal Biometric Authentication: Database and Evaluation](https://arxiv.org/abs/1912.02487) | Raghavendra Ramachandra et al. | arXiv.org | 21 |
+| 2019 | [Smartphone Multi-modal Biometric Authentication: Database and Evaluation](https://arxiv.org/abs/1912.02487) · [📝 요약](../summaries/smartphone-multi-modal-biometric-authentication-database-and-evaluation.md) | Raghavendra Ramachandra et al. | arXiv.org | 21 |

@@ -1,28 +1,28 @@
 # Neural Codec Deepfakes
 
-> 22 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-14
+> 22 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-15
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
-| 2026 | [Quantizer-Aware Hierarchical Neural Codec Modeling for Speech Deepfake Detection](https://arxiv.org/abs/2603.16914) | Jinyang Wu et al. | arXiv | 1 |
-| 2026 | [How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection](https://arxiv.org/abs/2602.16343) | Yixuan Xiao et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 0 |
-| 2026 | [HCFD: A Benchmark for Audio Deepfake Detection in Healthcare](https://arxiv.org/abs/2604.17642) | Mohd Mujtaba Akhtar et al. | arXiv | 0 |
-| 2026 | [Bridging the SEA Gap: An Initial Benchmark for Neural Audio Codec-Synthesized Speech Deepfakes in South-East Asian Languages](https://arxiv.org/abs/2606.15968) | Orchid Chetia Phukan et al. | arXiv |  |
-| 2026 | [A Geometry-Limited Identification Floor and Its Consequences for Voice-Clone Attribution in Professional Voice Actors](https://arxiv.org/abs/2607.15694) | Shuhei Kato | arXiv |  |
-| 2026 | [Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection](https://arxiv.org/abs/2607.23961) | Mingrui Liang et al. | arXiv |  |
-| 2026 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. | arXiv |  |
+| 2026 | [Quantizer-Aware Hierarchical Neural Codec Modeling for Speech Deepfake Detection](https://arxiv.org/abs/2603.16914) · [📝 요약](../summaries/quantizer-aware-hierarchical-neural-codec-modeling-for-speech-deepfake-detection.md) | Jinyang Wu et al. | arXiv | 1 |
+| 2026 | [How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection](https://arxiv.org/abs/2602.16343) · [📝 요약](../summaries/how-to-label-resynthesized-audio-the-dual-role-of-neural-audio-codecs-in-audio-d.md) | Yixuan Xiao et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 0 |
+| 2026 | [HCFD: A Benchmark for Audio Deepfake Detection in Healthcare](https://arxiv.org/abs/2604.17642) · [📝 요약](../summaries/hcfd-a-benchmark-for-audio-deepfake-detection-in-healthcare.md) | Mohd Mujtaba Akhtar et al. | arXiv | 0 |
+| 2026 | [Bridging the SEA Gap: An Initial Benchmark for Neural Audio Codec-Synthesized Speech Deepfakes in South-East Asian Languages](https://arxiv.org/abs/2606.15968) · [📝 요약](../summaries/bridging-the-sea-gap-an-initial-benchmark-for-neural-audio-codec-synthesized-spe.md) | Orchid Chetia Phukan et al. | arXiv |  |
+| 2026 | [A Geometry-Limited Identification Floor and Its Consequences for Voice-Clone Attribution in Professional Voice Actors](https://arxiv.org/abs/2607.15694) · [📝 요약](../summaries/a-geometry-limited-identification-floor-and-its-consequences-for-voice-clone-att.md) | Shuhei Kato | arXiv |  |
+| 2026 | [Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection](https://arxiv.org/abs/2607.23961) · [📝 요약](../summaries/leveraging-gradient-reversal-loss-and-multitask-learning-for-datasets-aware-audi.md) | Mingrui Liang et al. | arXiv |  |
+| 2026 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) · [📝 요약](../summaries/teffic-audio-tell-fact-from-fiction.md) | Wan Lin et al. | arXiv |  |
 | 2026 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](https://arxiv.org/abs/2608.13817) · [📝 요약](../summaries/trajectory-dynamics-in-self-supervised-learning-latent-space-for-audio-deepfake.md) | Tomás Andrade Weber | arXiv |  |
 | 2026 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) · [📝 요약](../summaries/the-last-mile-of-deepfake-speech-detection-an-industry-academia-experience-repor.md) | Anton Firc et al. | arXiv |  |
 | 2026 | [A Training-Free Proactive Defense Against Partial Speech Manipulation via Self-Embedding Steganography](https://arxiv.org/abs/2608.25285) | Yigitcan Özer et al. | arXiv |  |
 | 2026 | [Combining Self-Embedding Audio Watermarking with Ultra-Low-Bitrate Neural Codecs](https://arxiv.org/abs/2608.25289) | Yigitcan Özer et al. | arXiv |  |
-| 2025 | [Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition](https://arxiv.org/abs/2501.06514) | Yuankun Xie et al. | arXiv.org | 15 |
-| 2025 | [Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy](https://arxiv.org/abs/2505.12994) | Xuan-Bo Chen et al. | Interspeech | 6 |
-| 2025 | [Towards Generalized Source Tracing for Codec-Based Deepfake Speech](https://arxiv.org/abs/2506.07294) | Xuan-Bo Chen et al. | Automatic Speech Recognition & Understanding | 5 |
+| 2025 | [Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition](https://arxiv.org/abs/2501.06514) · [📝 요약](../summaries/neural-codec-source-tracing-toward-comprehensive-attribution-in-open-set-conditi.md) | Yuankun Xie et al. | arXiv.org | 15 |
+| 2025 | [Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy](https://arxiv.org/abs/2505.12994) · [📝 요약](../summaries/codec-based-deepfake-source-tracing-via-neural-audio-codec-taxonomy.md) | Xuan-Bo Chen et al. | Interspeech | 6 |
+| 2025 | [Towards Generalized Source Tracing for Codec-Based Deepfake Speech](https://arxiv.org/abs/2506.07294) · [📝 요약](../summaries/towards-generalized-source-tracing-for-codec-based-deepfake-speech.md) | Xuan-Bo Chen et al. | Automatic Speech Recognition & Understanding | 5 |
 | 2025 | [WhiADD: Semantic-Acoustic Fusion for Robust Audio Deepfake Detection](https://www.semanticscholar.org/paper/067345ef5b11c83d846cf482f48ee5f9fb965551) | Jianqiao Cui et al. | ACM Multimedia | 3 |
 | 2025 | [Compressed Domain Invariant Adversarial Representation Learning for Robust Audio Deepfake Detection](https://www.semanticscholar.org/paper/a57966151b52fa4352c9a5d50dcd9a01da01b25f) | Chengsheng Yuan et al. | IEEE Signal Processing Letters | 3 |
 | 2025 | [Detecting Codec-Based Deepfake Audio: A Multimodal Approach with Gated Cross-Attention and Sharpness-Aware Optimization](https://www.semanticscholar.org/paper/8effa45faf299c6943f18352d4921da34d0fc88f) | Jianqiao Cui et al. | IEEE International Joint Conference on Neural Network | 0 |
-| 2024 | [Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio](https://arxiv.org/abs/2406.08112) | Yi Lu et al. | Interspeech | 15 |
-| 2024 | [Does Current Deepfake Audio Detection Model Effectively Detect ALM-Based Deepfake Audio?](https://arxiv.org/abs/2408.10853) | Yuankun Xie et al. | International Symposium on Chinese Spoken Language Processing | 5 |
+| 2024 | [Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio](https://arxiv.org/abs/2406.08112) · [📝 요약](../summaries/codecfake-an-initial-dataset-for-detecting-llm-based-deepfake-audio.md) | Yi Lu et al. | Interspeech | 15 |
+| 2024 | [Does Current Deepfake Audio Detection Model Effectively Detect ALM-Based Deepfake Audio?](https://arxiv.org/abs/2408.10853) · [📝 요약](../summaries/does-current-deepfake-audio-detection-model-effectively-detect-alm-based-deepfak.md) | Yuankun Xie et al. | International Symposium on Chinese Spoken Language Processing | 5 |
 | 2024 | [Leveraging Neural Vocoder Artifacts for Improved Synthetic Speech Detection](https://www.semanticscholar.org/paper/51cc58f354d8c8eec9532dc4e253c77199eb2e9d) | Jingxi Xue et al. | International Conference on Sensors, Signal and Image Processing | 2 |
-| 2024 | [The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio](https://arxiv.org/abs/2405.04880) | Yuankun Xie | arXiv |  |
+| 2024 | [The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio](https://arxiv.org/abs/2405.04880) · [📝 요약](../summaries/the-codecfake-dataset-and-countermeasures-for-the-universally-detection-of-deepf.md) | Yuankun Xie | arXiv |  |
 | 2023 | [ASSD: Synthetic Speech Detection in the AAC Compressed Domain](https://www.semanticscholar.org/paper/ed2e63a5ca30599df2cda0414373719446f11c26) | Amit Kumar Singh Yadav et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 13 |
