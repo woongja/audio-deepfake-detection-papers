@@ -1,6 +1,6 @@
 # SSL Front-Ends (wav2vec2 / WavLM / HuBERT)
 
-> 147 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-15
+> 157 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-06
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -43,6 +43,16 @@
 | 2026 | [KanAdapter: A Kolmogorov-Arnold Network-based Plug-and-Play Module for Efficient Fine-tuning of Foundation Speech Models](https://arxiv.org/abs/2609.05281) | Phuong Tuan Dat et al. | arXiv |  |
 | 2026 | [From Scores to Evidence: Auditable Decisions Can Improve Speech Deepfake Detection](https://arxiv.org/abs/2609.08899) | Mengzhe Geng et al. | arXiv |  |
 | 2026 | [Disentangled Global-Local Feature Learning with E-Branchformer for Audio Deepfake Detection](https://arxiv.org/abs/2609.08948) | Phuong Tuan Dat et al. | arXiv |  |
+| 2026 | [CRAF: Cross-View Residual-Aware Fusion for Deepfake Speech Detection](https://arxiv.org/abs/2609.13842) · [📝 요약](../summaries/craf-cross-view-residual-aware-fusion-for-deepfake-speech-detection.md) | Minh-Xuan Phan et al. | arXiv |  |
+| 2026 | [Graph Attention Design Choices Matter: A Controlled Study of LoRA-Adapted Audio Anti-Spoofing](https://arxiv.org/abs/2609.15650) · [📝 요약](../summaries/graph-attention-design-choices-matter-a-controlled-study-of-lora-adapted-audio-a.md) | Haoyu Wang et al. | arXiv |  |
+| 2026 | [Language Orthogonalization for Zero-Shot Cross-Lingual Audio Deepfake Detection](https://arxiv.org/abs/2609.16458) · [📝 요약](../summaries/language-orthogonalization-for-zero-shot-cross-lingual-audio-deepfake-detection.md) | > **제출일:** 2026-09-15 | arXiv |  |
+| 2026 | [CoRELoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection](https://arxiv.org/abs/2609.19818) · [📝 요약](../summaries/coreloop-parameter-efficient-controlled-recurrent-refinement-for-audio-deepfake.md) | > **제출일:** 2026-09-17 | arXiv |  |
+| 2026 | [Towards Zero-Shot Attribution of Synthetic Speech via Audio-Text Contrastive Retrieval](https://arxiv.org/abs/2609.21581) · [📝 요약](../summaries/towards-zero-shot-attribution-of-synthetic-speech-via-audio-text-contrastive-ret.md) | > **제출일:** 2026-09-18 | arXiv |  |
+| 2026 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) | > **제출일:** 2026-09-23 | arXiv |  |
+| 2026 | [Is Broader Better? A Controlled Study of Multilingual Coverage and Pretraining Objective in Frozen SSL Encoders for Speech Deepfake Detection](https://arxiv.org/abs/2609.29138) | > **제출일:** 2026-09-24 | arXiv |  |
+| 2026 | [Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2609.33709) | Siqing Qin et al. | arXiv |  |
+| 2026 | [GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection](https://arxiv.org/abs/2609.35411) | Zelin Zhao et al. | arXiv |  |
+| 2026 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) | Lisan Al Amin et al. | arXiv |  |
 | 2025 | [Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-Spoofing](https://arxiv.org/abs/2504.05657) · [📝 요약](../summaries/nes2net-a-lightweight-nested-architecture-for-foundation-model-driven-speech-ant.md) | Tianchi Liu et al. | IEEE Transactions on Information Forensics and Security | 26 |
 | 2025 | [Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection](https://arxiv.org/abs/2502.03559) · [📝 요약](../summaries/comprehensive-layer-wise-analysis-of-ssl-models-for-audio-deepfake-detection.md) | Y. E. Kheir et al. | North American Chapter of the Association for Computational Linguistics | 25 |
 | 2025 | [Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception](https://arxiv.org/abs/2504.06753) · [📝 요약](../summaries/detect-all-type-deepfake-audio-wavelet-prompt-tuning-for-enhanced-auditory-perce.md) | Yuankun Xie et al. | AAAI Conference on Artificial Intelligence | 12 |

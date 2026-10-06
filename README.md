@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1219-blue) ![updated](https://img.shields.io/badge/updated-2026--09--15-green)
+![papers](https://img.shields.io/badge/papers-1261-blue) ![updated](https://img.shields.io/badge/updated-2026--10--06-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,17 +8,17 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (147)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (157)
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (426)
 - [Detection Architectures & Encoders](topics/architectures.md) (142)
-- [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (21)
-- [LLM-Based Detection](topics/llm-based.md) (17)
-- [Explainability & Attribution](topics/xai-explainability.md) (87)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (113)
-- [Generalization & OOD](topics/generalization-ood.md) (243)
-- [Neural Codec Deepfakes](topics/codec-deepfake.md) (22)
-- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (40)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (158)
+- [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (28)
+- [LLM-Based Detection](topics/llm-based.md) (23)
+- [Explainability & Attribution](topics/xai-explainability.md) (103)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (129)
+- [Generalization & OOD](topics/generalization-ood.md) (269)
+- [Neural Codec Deepfakes](topics/codec-deepfake.md) (26)
+- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (49)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (182)
 - [Training Strategies](topics/training-strategies.md) (182)
 - [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (25)
 
@@ -28,42 +28,42 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
-| 2026-09-11 | [Beyond Ambiguous Visual Cues: Studying Physiological Disruptions and Cross-Modal Inconsistencies in Deepfake Videos](https://arxiv.org/abs/2609.12668) | > **제출일:** 2026-09-11 | [📝](summaries/beyond-ambiguous-visual-cues-studying-physiological-disruptions-and-cross-modal.md) |  |
-| 2026-09-10 | [Not All Attacks Are Learned Equally in Speech Deepfake Detection](https://arxiv.org/abs/2609.11763) | Avantika Singh et al. |  |  |
-| 2026-09-10 | [LAION-Mobile: Evaluating Deepfake Detectors On One Million Smartphone Photos](https://arxiv.org/abs/2609.11134) | > **제출일:** 2026-09-10 | [📝](summaries/laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos.md) |  |
-| 2026-09-09 | [Zero-Shot Temporal Localisation of Audio Deepfakes in Multi-Speaker Conversations](https://arxiv.org/abs/2609.10051) | Soumyadeep Roy |  |  |
-| 2026-09-08 | [Audio Deepfake Detection Using Temporal Coherence Analysis](https://arxiv.org/abs/2609.09489) | Justin D. Norman et al. |  |  |
-| 2026-09-08 | [Disentangled Global-Local Feature Learning with E-Branchformer for Audio Deepfake Detection](https://arxiv.org/abs/2609.08948) | Phuong Tuan Dat et al. |  |  |
-| 2026-09-08 | [From Scores to Evidence: Auditable Decisions Can Improve Speech Deepfake Detection](https://arxiv.org/abs/2609.08899) | Mengzhe Geng et al. |  |  |
-| 2026-09-04 | [KanAdapter: A Kolmogorov-Arnold Network-based Plug-and-Play Module for Efficient Fine-tuning of Foundation Speech Models](https://arxiv.org/abs/2609.05281) | Phuong Tuan Dat et al. |  |  |
-| 2026-09-03 | [ToolDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection](https://arxiv.org/abs/2609.03620) | Taewoo Kim et al. |  |  |
-| 2026-09-01 | [Perceptible or Not? Diagnosing Passive Fingerprints for Speech Deepfake Attribution](https://arxiv.org/abs/2609.00765) | Yupei Li et al. |  |  |
-| 2026-08-31 | [Textual Acoustic Grounding for Generalizable LLM-Based Deepfake Voice Detection](https://arxiv.org/abs/2608.30622) | Yassine El Kheir et al. |  |  |
-| 2026-08-29 | [Beyond Speech: Dual-Domain SSL Fusion for Unified All-Type Audio Deepfake Detection](https://arxiv.org/abs/2608.29021) | Cunhang Fan et al. |  |  |
-| 2026-08-26 | [Combining Self-Embedding Audio Watermarking with Ultra-Low-Bitrate Neural Codecs](https://arxiv.org/abs/2608.25289) | Yigitcan Özer et al. |  |  |
-| 2026-08-26 | [A Training-Free Proactive Defense Against Partial Speech Manipulation via Self-Embedding Steganography](https://arxiv.org/abs/2608.25285) | Yigitcan Özer et al. |  |  |
-| 2026-08-25 | [Investigating voiced and unvoiced regions of speech for audio deepfake detection](https://arxiv.org/abs/2608.24639) | Ganesh Sivaraman et al. |  |  |
-| 2026-08-25 | [On the Robustness of Audio Deepfake Detection under Audio Watermarking](https://arxiv.org/abs/2608.24159) | Zi Qian Yong et al. |  |  |
-| 2026-08-24 | [AT-ADD: A Benchmark and Challenge for Robust and All-Type Audio Deepfake Detection](https://arxiv.org/abs/2608.23437) | Yuankun Xie et al. |  |  |
-| 2026-08-20 | [Explainability by Design: Structured Kolmogorov-Arnold Networks over Probabilistic Attributes for Speech Deepfake Source Tracing](https://arxiv.org/abs/2608.20213) | Hoang H. Pham et al. |  |  |
-| 2026-08-20 | [Tracking the Trend in How Speech Synthesizers Deceive People](https://arxiv.org/abs/2608.19959) | Milan Šalko et al. |  |  |
-| 2026-08-18 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) | Anton Firc et al. | [📝](summaries/the-last-mile-of-deepfake-speech-detection-an-industry-academia-experience-repor.md) |  |
-| 2026-08-14 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](https://arxiv.org/abs/2608.14249) | Yuankun Xie et al. | [📝](summaries/at-add-all-type-audio-deepfake-detection-challenge-summary.md) |  |
-| 2026-08-13 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](https://arxiv.org/abs/2608.13817) | Tomás Andrade Weber | [📝](summaries/trajectory-dynamics-in-self-supervised-learning-latent-space-for-audio-deepfake.md) |  |
-| 2026-08-12 | [Evaluating Pre-trained Speech Encoders for Spontaneous Speech Detection and Out of Domain Synthetic Speech Generalisation in Indic Languages](https://arxiv.org/abs/2608.12536) | Varun Rai et al. | [📝](summaries/evaluating-pre-trained-speech-encoders-for-spontaneous-speech-detection-and-out.md) |  |
-| 2026-08-10 | [MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593) | Yanqiu Li et al. | [📝](summaries/madbench-a-benchmark-for-modality-aware-audio-deepfake-detection.md) |  |
-| 2026-08-08 | [The Voiceprint Fallacy: Why Voices Are Not Unique Biometric Imprints](https://arxiv.org/abs/2608.07980) | Tianle Yang et al. | [📝](summaries/the-voiceprint-fallacy-why-voices-are-not-unique-biometric-imprints.md) |  |
-| 2026-08-06 | [AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks](https://arxiv.org/abs/2608.05507) | Aurosweta Mahapatra et al. | [📝](summaries/affectdf-the-most-comprehensive-benchmark-for-speech-deepfake-detection-against.md) |  |
-| 2026-08-03 | [Multi-Backbone Self-Supervised Ensembles for Audio Deepfake Detection and a Cross-Track Analysis of Generation-Detection Asymmetry](https://arxiv.org/abs/2608.01796) | Seunghyun Kim et al. | [📝](summaries/multi-backbone-self-supervised-ensembles-for-audio-deepfake-detection-and-a-cros.md) |  |
-| 2026-07 | [Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil](https://arxiv.org/abs/2607.28770) | Lucas Rafael Gris | [📝](summaries/cloned-voices-real-consequences-evaluating-bias-in-political-deepfake-detection.md) |  |
-| 2026-07-30 | [Teffic-Audio: Tell Fact from Fiction](https://arxiv.org/abs/2607.28351) | Wan Lin et al. | [📝](summaries/teffic-audio-tell-fact-from-fiction.md) |  |
-| 2026-07-29 | [ThinkOmni: A Reasoning-Driven Omni-Modal LLM Framework for Audio Forgery Detection and Localization](https://arxiv.org/abs/2607.26553) | Yuxiong Xu et al. | [📝](summaries/thinkomni-a-reasoning-driven-omni-modal-llm-framework-for-audio-forgery-detectio.md) |  |
+| 2026-10-02 | [Interpretable Deepfake Detection in Videos via Explicit Forensic Features and Temporal Modeling](https://arxiv.org/abs/2610.03380) | > **제출일:** 2026-10-02 |  |  |
+| 2026-10-01 | [Revisiting Cross-Reconstruction for Generalizable Deepfake Detection](https://arxiv.org/abs/2610.01544) | > **제출일:** 2026-10-01 |  |  |
+| 2026-10-01 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) | Yingjian Yu et al. |  |  |
+| 2026-10-01 | [FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching](https://arxiv.org/abs/2610.01242) | Yingjian Yu et al. |  |  |
+| 2026-09-30 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) | Lisan Al Amin et al. |  |  |
+| 2026-09-30 | [Collapse, Not Invariance: Diagnosing Auxiliary Objectives in Speech Anti-Spoofing](https://arxiv.org/abs/2610.00539) | Ksenia Lysikova et al. |  |  |
+| 2026-09-30 | [SEAR: Spoofing Evidence-Grounded Audio Reasoning Benchmark for Audio Language Models](https://arxiv.org/abs/2609.39847) | Rong Wan et al. |  |  |
+| 2026-09-30 | [SE-ADD: Self-Evolving Audio Deepfake Detection with Mistake-Driven Supervision](https://arxiv.org/abs/2609.39679) | Rong Wan et al. |  |  |
+| 2026-09-30 | [Neural Audio Codec for Robust Audio Deepfake Detection](https://arxiv.org/abs/2609.39651) | Jungwoo Kim et al. |  |  |
+| 2026-09-30 | [Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection](https://arxiv.org/abs/2609.39066) | > **제출일:** 2026-09-30 |  |  |
+| 2026-09-29 | [Learning as Deepfakes Evolve: RF-Prompt for Continual Audio Deepfake Detection](https://arxiv.org/abs/2609.37586) | Yuankun Xie et al. |  |  |
+| 2026-09-29 | [MedForge-RSI: Medical Deepfake Detection via Recursive Self-Improvement](https://arxiv.org/abs/2609.36549) | > **제출일:** 2026-09-29 |  |  |
+| 2026-09-28 | [Look Before You Judge: Training-Free Region Mining for Grounded and Explainable Deepfake Detection](https://arxiv.org/abs/2609.35536) | > **제출일:** 2026-09-28 |  |  |
+| 2026-09-28 | [GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection](https://arxiv.org/abs/2609.35411) | Zelin Zhao et al. |  |  |
+| 2026-09-28 | [DF-CBM: Region-Aware Concept Bottleneck Models for Deepfake Detection](https://arxiv.org/abs/2609.35096) | > **제출일:** 2026-09-28 |  |  |
+| 2026-09-28 | [DBCF: Dual-Branch Complementary Fusion of Foundation Models for Generalized Deepfake Detection](https://arxiv.org/abs/2609.34720) | > **제출일:** 2026-09-28 |  |  |
+| 2026-09-27 | [Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2609.33709) | Siqing Qin et al. |  |  |
+| 2026-09-27 | [DGS-MLDG: Domain Gradient Surgery Guided Meta-Learning for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2609.33706) | Siqing Qin et al. |  |  |
+| 2026-09-27 | [What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375) | Jiajun Xu et al. |  |  |
+| 2026-09-25 | [Tracing and Relearning Detection Evidence in Text-to-Speech Systems](https://arxiv.org/abs/2609.30983) | Eunji Shin et al. |  |  |
+| 2026-09-24 | [VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching](https://arxiv.org/abs/2609.30005) | > **제출일:** 2026-09-24 |  |  |
+| 2026-09-24 | [Is Broader Better? A Controlled Study of Multilingual Coverage and Pretraining Objective in Frozen SSL Encoders for Speech Deepfake Detection](https://arxiv.org/abs/2609.29138) | > **제출일:** 2026-09-24 |  |  |
+| 2026-09-23 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) | > **제출일:** 2026-09-23 |  |  |
+| 2026-09-23 | [ASAP: Visual Analytics for Identifying and Analyzing Image Patterns in AI-generated Images](https://arxiv.org/abs/2609.27371) | > **제출일:** 2026-09-23 |  |  |
+| 2026-09-22 | [UE-Side Location Privacy for 5G NR Uplink Positioning: Mechanisms and Trade-offs](https://arxiv.org/abs/2609.25941) | > **제출일:** 2026-09-22 |  |  |
+| 2026-09-22 | [Boundary and Intra-Segment Learning for Partial Audio Deepfake Localization](https://arxiv.org/abs/2609.25822) | > **제출일:** 2026-09-22 |  |  |
+| 2026-09-21 | [SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization](https://arxiv.org/abs/2609.25197) | > **제출일:** 2026-09-21 |  |  |
+| 2026-09-21 | [Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model](https://arxiv.org/abs/2609.25154) | > **제출일:** 2026-09-21 |  |  |
+| 2026-09-20 | [DFD-Lab: A Modular Audio-Visual Deepfake Detection Pipeline](https://arxiv.org/abs/2609.23830) | > **제출일:** 2026-09-20 | [📝](summaries/dfd-lab-a-modular-audio-visual-deepfake-detection-pipeline.md) |  |
+| 2026-09-20 | [Synthetic speech detection in Brazilian Portuguese through accent-related features](https://arxiv.org/abs/2609.23807) | > **제출일:** 2026-09-20 | [📝](summaries/synthetic-speech-detection-in-brazilian-portuguese-through-accent-related-featur.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 194 |
+| 2026 | 236 |
 | 2025 | 276 |
 | 2024 | 192 |
 | 2023 | 135 |

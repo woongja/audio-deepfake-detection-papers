@@ -1,6 +1,6 @@
 # Adapters, LoRA & MoE
 
-> 21 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-15
+> 28 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-06
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -11,6 +11,13 @@
 | 2026 | [From Self-Supervised Speech Models to Mixture-of-Experts for Robust Anti-Spoofing](https://arxiv.org/abs/2606.14639) · [📝 요약](../summaries/from-self-supervised-speech-models-to-mixture-of-experts-for-robust-anti-spoofin.md) | Hugo Daumain et al. | arXiv |  |
 | 2026 | [Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection](https://arxiv.org/abs/2607.23961) · [📝 요약](../summaries/leveraging-gradient-reversal-loss-and-multitask-learning-for-datasets-aware-audi.md) | Mingrui Liang et al. | arXiv |  |
 | 2026 | [KanAdapter: A Kolmogorov-Arnold Network-based Plug-and-Play Module for Efficient Fine-tuning of Foundation Speech Models](https://arxiv.org/abs/2609.05281) | Phuong Tuan Dat et al. | arXiv |  |
+| 2026 | [Graph Attention Design Choices Matter: A Controlled Study of LoRA-Adapted Audio Anti-Spoofing](https://arxiv.org/abs/2609.15650) · [📝 요약](../summaries/graph-attention-design-choices-matter-a-controlled-study-of-lora-adapted-audio-a.md) | Haoyu Wang et al. | arXiv |  |
+| 2026 | [Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics](https://arxiv.org/abs/2609.16778) · [📝 요약](../summaries/unifying-semantic-priors-and-high-frequency-traces-enhancing-v-jepa-with-mixture.md) | > **제출일:** 2026-09-15 | arXiv |  |
+| 2026 | [CoRELoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection](https://arxiv.org/abs/2609.19818) · [📝 요약](../summaries/coreloop-parameter-efficient-controlled-recurrent-refinement-for-audio-deepfake.md) | > **제출일:** 2026-09-17 | arXiv |  |
+| 2026 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) | > **제출일:** 2026-09-23 | arXiv |  |
+| 2026 | [Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2609.33709) | Siqing Qin et al. | arXiv |  |
+| 2026 | [DBCF: Dual-Branch Complementary Fusion of Foundation Models for Generalized Deepfake Detection](https://arxiv.org/abs/2609.34720) | > **제출일:** 2026-09-28 | arXiv |  |
+| 2026 | [SE-ADD: Self-Evolving Audio Deepfake Detection with Mistake-Driven Supervision](https://arxiv.org/abs/2609.39679) | Rong Wan et al. | arXiv |  |
 | 2025 | [WaveSP-Net: Learnable Wavelet-Domain Sparse Prompt Tuning for Speech Deepfake Detection](https://arxiv.org/abs/2510.05305) · [📝 요약](../summaries/wavesp-net-learnable-wavelet-domain-sparse-prompt-tuning-for-speech-deepfake-det.md) | Xi Xuan et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 6 |
 | 2025 | [Generalizable speech deepfake detection via meta-learned LoRA](https://arxiv.org/abs/2502.10838) · [📝 요약](../summaries/generalizable-speech-deepfake-detection-via-meta-learned-lora.md) | Janne Laakkonen et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 5 |
 | 2025 | [MoLEx: Mixture of LoRA Experts in Speech Self-Supervised Models for Audio Deepfake Detection](https://arxiv.org/abs/2509.09175) · [📝 요약](../summaries/molex-mixture-of-lora-experts-in-speech-self-supervised-models-for-audio-deepfak.md) | Zihan Pan et al. | Automatic Speech Recognition & Understanding | 4 |

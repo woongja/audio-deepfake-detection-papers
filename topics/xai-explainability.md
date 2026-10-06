@@ -1,6 +1,6 @@
 # Explainability & Attribution
 
-> 87 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-15
+> 103 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-06
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -37,6 +37,22 @@
 | 2026 | [Perceptible or Not? Diagnosing Passive Fingerprints for Speech Deepfake Attribution](https://arxiv.org/abs/2609.00765) | Yupei Li et al. | arXiv |  |
 | 2026 | [ToolDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection](https://arxiv.org/abs/2609.03620) | Taewoo Kim et al. | arXiv |  |
 | 2026 | [Audio Deepfake Detection Using Temporal Coherence Analysis](https://arxiv.org/abs/2609.09489) | Justin D. Norman et al. | arXiv |  |
+| 2026 | [CRAF: Cross-View Residual-Aware Fusion for Deepfake Speech Detection](https://arxiv.org/abs/2609.13842) · [📝 요약](../summaries/craf-cross-view-residual-aware-fusion-for-deepfake-speech-detection.md) | Minh-Xuan Phan et al. | arXiv |  |
+| 2026 | [IMFD: End-to-end Multi-Face Forgery Detection through Instruction-based Large Vision-Language Models](https://arxiv.org/abs/2609.19693) · [📝 요약](../summaries/imfd-end-to-end-multi-face-forgery-detection-through-instruction-based-large-vis.md) | > **제출일:** 2026-09-17 | arXiv |  |
+| 2026 | [Towards Zero-Shot Attribution of Synthetic Speech via Audio-Text Contrastive Retrieval](https://arxiv.org/abs/2609.21581) · [📝 요약](../summaries/towards-zero-shot-attribution-of-synthetic-speech-via-audio-text-contrastive-ret.md) | > **제출일:** 2026-09-18 | arXiv |  |
+| 2026 | [GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages](https://arxiv.org/abs/2609.21738) · [📝 요약](../summaries/gentracebench-a-benchmark-for-tracing-audio-deepfakes-across-pre-and-post-traini.md) | > **제출일:** 2026-09-18 | arXiv |  |
+| 2026 | [Synthetic speech detection in Brazilian Portuguese through accent-related features](https://arxiv.org/abs/2609.23807) · [📝 요약](../summaries/synthetic-speech-detection-in-brazilian-portuguese-through-accent-related-featur.md) | > **제출일:** 2026-09-20 | arXiv |  |
+| 2026 | [Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model](https://arxiv.org/abs/2609.25154) | > **제출일:** 2026-09-21 | arXiv |  |
+| 2026 | [ASAP: Visual Analytics for Identifying and Analyzing Image Patterns in AI-generated Images](https://arxiv.org/abs/2609.27371) | > **제출일:** 2026-09-23 | arXiv |  |
+| 2026 | [Tracing and Relearning Detection Evidence in Text-to-Speech Systems](https://arxiv.org/abs/2609.30983) | Eunji Shin et al. | arXiv |  |
+| 2026 | [What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375) | Jiajun Xu et al. | arXiv |  |
+| 2026 | [DF-CBM: Region-Aware Concept Bottleneck Models for Deepfake Detection](https://arxiv.org/abs/2609.35096) | > **제출일:** 2026-09-28 | arXiv |  |
+| 2026 | [Look Before You Judge: Training-Free Region Mining for Grounded and Explainable Deepfake Detection](https://arxiv.org/abs/2609.35536) | > **제출일:** 2026-09-28 | arXiv |  |
+| 2026 | [MedForge-RSI: Medical Deepfake Detection via Recursive Self-Improvement](https://arxiv.org/abs/2609.36549) | > **제출일:** 2026-09-29 | arXiv |  |
+| 2026 | [Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection](https://arxiv.org/abs/2609.39066) | > **제출일:** 2026-09-30 | arXiv |  |
+| 2026 | [SEAR: Spoofing Evidence-Grounded Audio Reasoning Benchmark for Audio Language Models](https://arxiv.org/abs/2609.39847) | Rong Wan et al. | arXiv |  |
+| 2026 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) | Lisan Al Amin et al. | arXiv |  |
+| 2026 | [Interpretable Deepfake Detection in Videos via Explicit Forensic Features and Temporal Modeling](https://arxiv.org/abs/2610.03380) | > **제출일:** 2026-10-02 | arXiv |  |
 | 2025 | [Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition](https://arxiv.org/abs/2501.06514) · [📝 요약](../summaries/neural-codec-source-tracing-toward-comprehensive-attribution-in-open-set-conditi.md) | Yuankun Xie et al. | arXiv.org | 15 |
 | 2025 | [Multilingual Source Tracing of Speech Deepfakes: A First Benchmark](https://arxiv.org/abs/2508.04143) · [📝 요약](../summaries/multilingual-source-tracing-of-speech-deepfakes-a-first-benchmark.md) | Xi Xuan et al. | 5th Symposium on Security and Privacy in Speech Communication | 10 |
 | 2025 | [Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis](https://arxiv.org/abs/2502.14726) · [📝 요약](../summaries/pitch-imperfect-detecting-audio-deepfakes-through-acoustic-prosodic-analysis.md) | Kevin Warren et al. | arXiv.org | 9 |

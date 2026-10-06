@@ -1,6 +1,6 @@
 # LLM-Based Detection
 
-> 17 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-15
+> 23 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-06
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -16,6 +16,12 @@
 | 2026 | [MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593) · [📝 요약](../summaries/madbench-a-benchmark-for-modality-aware-audio-deepfake-detection.md) | Yanqiu Li et al. | arXiv |  |
 | 2026 | [Textual Acoustic Grounding for Generalizable LLM-Based Deepfake Voice Detection](https://arxiv.org/abs/2608.30622) | Yassine El Kheir et al. | arXiv |  |
 | 2026 | [ToolDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection](https://arxiv.org/abs/2609.03620) | Taewoo Kim et al. | arXiv |  |
+| 2026 | [CRAF: Cross-View Residual-Aware Fusion for Deepfake Speech Detection](https://arxiv.org/abs/2609.13842) · [📝 요약](../summaries/craf-cross-view-residual-aware-fusion-for-deepfake-speech-detection.md) | Minh-Xuan Phan et al. | arXiv |  |
+| 2026 | [MarkSec: Capability-Aware Evaluation of Adversarial Attacks Against LLM Watermarks](https://arxiv.org/abs/2609.16681) · [📝 요약](../summaries/marksec-capability-aware-evaluation-of-adversarial-attacks-against-llm-watermark.md) | > **제출일:** 2026-09-15 | arXiv |  |
+| 2026 | [GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages](https://arxiv.org/abs/2609.21738) · [📝 요약](../summaries/gentracebench-a-benchmark-for-tracing-audio-deepfakes-across-pre-and-post-traini.md) | > **제출일:** 2026-09-18 | arXiv |  |
+| 2026 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) | > **제출일:** 2026-09-23 | arXiv |  |
+| 2026 | [Look Before You Judge: Training-Free Region Mining for Grounded and Explainable Deepfake Detection](https://arxiv.org/abs/2609.35536) | > **제출일:** 2026-09-28 | arXiv |  |
+| 2026 | [Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection](https://arxiv.org/abs/2609.39066) | > **제출일:** 2026-09-30 | arXiv |  |
 | 2025 | [𝒜LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection](https://www.semanticscholar.org/paper/ed3bd8bccc63e59e45d938ae864ab08f360a8137) | Hao Gu et al. | arXiv.org | 5 |
 | 2025 | [IndicFake Meets SAFARI-LLM: Unifying Semantic and Acoustic Intelligence for Multilingual Deepfake Detection](https://www.semanticscholar.org/paper/2f61a3fdb350795e50d0849fd686863fb056ba8e) | Rishabh Ranjan et al. | Trans. Mach. Learn. Res. | 2 |
 | 2025 | [𝒜​L​L​M​4​A​D​D\mathcal{A}LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake DetectionDOI: [XXXXXXX.XXXXXXX](https://doi.org/XXXXXXX.XXXXXXX)Conference: Make sure to enter the correct conference title from your rights confirmation email; June 03–05, 2018; Woodstock](https://arxiv.org/abs/2505.11079) | Hao Gu | arXiv |  |

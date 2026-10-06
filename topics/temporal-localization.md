@@ -1,6 +1,6 @@
 # Temporal Localization & Partial Spoof
 
-> 40 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-15
+> 49 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-06
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -16,6 +16,15 @@
 | 2026 | [ToolDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection](https://arxiv.org/abs/2609.03620) | Taewoo Kim et al. | arXiv |  |
 | 2026 | [KanAdapter: A Kolmogorov-Arnold Network-based Plug-and-Play Module for Efficient Fine-tuning of Foundation Speech Models](https://arxiv.org/abs/2609.05281) | Phuong Tuan Dat et al. | arXiv |  |
 | 2026 | [Not All Attacks Are Learned Equally in Speech Deepfake Detection](https://arxiv.org/abs/2609.11763) | Avantika Singh et al. | arXiv |  |
+| 2026 | [IMFD: End-to-end Multi-Face Forgery Detection through Instruction-based Large Vision-Language Models](https://arxiv.org/abs/2609.19693) · [📝 요약](../summaries/imfd-end-to-end-multi-face-forgery-detection-through-instruction-based-large-vis.md) | > **제출일:** 2026-09-17 | arXiv |  |
+| 2026 | [SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization](https://arxiv.org/abs/2609.25197) | > **제출일:** 2026-09-21 | arXiv |  |
+| 2026 | [Boundary and Intra-Segment Learning for Partial Audio Deepfake Localization](https://arxiv.org/abs/2609.25822) | > **제출일:** 2026-09-22 | arXiv |  |
+| 2026 | [UE-Side Location Privacy for 5G NR Uplink Positioning: Mechanisms and Trade-offs](https://arxiv.org/abs/2609.25941) | > **제출일:** 2026-09-22 | arXiv |  |
+| 2026 | [DBCF: Dual-Branch Complementary Fusion of Foundation Models for Generalized Deepfake Detection](https://arxiv.org/abs/2609.34720) | > **제출일:** 2026-09-28 | arXiv |  |
+| 2026 | [DF-CBM: Region-Aware Concept Bottleneck Models for Deepfake Detection](https://arxiv.org/abs/2609.35096) | > **제출일:** 2026-09-28 | arXiv |  |
+| 2026 | [GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection](https://arxiv.org/abs/2609.35411) | Zelin Zhao et al. | arXiv |  |
+| 2026 | [Look Before You Judge: Training-Free Region Mining for Grounded and Explainable Deepfake Detection](https://arxiv.org/abs/2609.35536) | > **제출일:** 2026-09-28 | arXiv |  |
+| 2026 | [Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection](https://arxiv.org/abs/2609.39066) | > **제출일:** 2026-09-30 | arXiv |  |
 | 2025 | [GNCL: A Graph Neural Network with Consistency Loss for Segment-Level Spoofed Speech Detection](https://www.semanticscholar.org/paper/366a4d0cb09348fd69c84a33731de08af8dde171) | Zirui Ge et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 6 |
 | 2025 | [Adversarial Training and Gradient Optimization for Partially Deepfake Audio Localization](https://www.semanticscholar.org/paper/f8d617542fc9f051f2d827100e83b8be0423b81f) | Siding Zeng et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 5 |
 | 2025 | [LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech](https://arxiv.org/abs/2507.16220) · [📝 요약](../summaries/lens-df-deepfake-detection-and-temporal-localization-for-long-form-noisy-speech.md) | Xuechen Liu et al. | 2025 IEEE International Joint Conference on Biometrics (IJCB) | 2 |

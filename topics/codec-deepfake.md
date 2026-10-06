@@ -1,6 +1,6 @@
 # Neural Codec Deepfakes
 
-> 22 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-15
+> 26 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-06
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -15,6 +15,10 @@
 | 2026 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) · [📝 요약](../summaries/the-last-mile-of-deepfake-speech-detection-an-industry-academia-experience-repor.md) | Anton Firc et al. | arXiv |  |
 | 2026 | [A Training-Free Proactive Defense Against Partial Speech Manipulation via Self-Embedding Steganography](https://arxiv.org/abs/2608.25285) | Yigitcan Özer et al. | arXiv |  |
 | 2026 | [Combining Self-Embedding Audio Watermarking with Ultra-Low-Bitrate Neural Codecs](https://arxiv.org/abs/2608.25289) | Yigitcan Özer et al. | arXiv |  |
+| 2026 | [Tracing the Origins: Legacy Codec Identification in Neural Audio Transcoding](https://arxiv.org/abs/2609.14916) · [📝 요약](../summaries/tracing-the-origins-legacy-codec-identification-in-neural-audio-transcoding.md) | Wonje Heo et al. | arXiv |  |
+| 2026 | [What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375) | Jiajun Xu et al. | arXiv |  |
+| 2026 | [Neural Audio Codec for Robust Audio Deepfake Detection](https://arxiv.org/abs/2609.39651) | Jungwoo Kim et al. | arXiv |  |
+| 2026 | [Collapse, Not Invariance: Diagnosing Auxiliary Objectives in Speech Anti-Spoofing](https://arxiv.org/abs/2610.00539) | Ksenia Lysikova et al. | arXiv |  |
 | 2025 | [Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition](https://arxiv.org/abs/2501.06514) · [📝 요약](../summaries/neural-codec-source-tracing-toward-comprehensive-attribution-in-open-set-conditi.md) | Yuankun Xie et al. | arXiv.org | 15 |
 | 2025 | [Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy](https://arxiv.org/abs/2505.12994) · [📝 요약](../summaries/codec-based-deepfake-source-tracing-via-neural-audio-codec-taxonomy.md) | Xuan-Bo Chen et al. | Interspeech | 6 |
 | 2025 | [Towards Generalized Source Tracing for Codec-Based Deepfake Speech](https://arxiv.org/abs/2506.07294) · [📝 요약](../summaries/towards-generalized-source-tracing-for-codec-based-deepfake-speech.md) | Xuan-Bo Chen et al. | Automatic Speech Recognition & Understanding | 5 |

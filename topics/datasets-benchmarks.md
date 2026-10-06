@@ -1,6 +1,6 @@
 # Datasets & Benchmarks
 
-> 158 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-09-15
+> 182 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-06
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -59,6 +59,30 @@
 | 2026 | [LAION-Mobile: Evaluating Deepfake Detectors On One Million Smartphone Photos](https://arxiv.org/abs/2609.11134) · [📝 요약](../summaries/laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos.md) | > **제출일:** 2026-09-10 | arXiv |  |
 | 2026 | [Not All Attacks Are Learned Equally in Speech Deepfake Detection](https://arxiv.org/abs/2609.11763) | Avantika Singh et al. | arXiv |  |
 | 2026 | [Beyond Ambiguous Visual Cues: Studying Physiological Disruptions and Cross-Modal Inconsistencies in Deepfake Videos](https://arxiv.org/abs/2609.12668) · [📝 요약](../summaries/beyond-ambiguous-visual-cues-studying-physiological-disruptions-and-cross-modal.md) | > **제출일:** 2026-09-11 | arXiv |  |
+| 2026 | [Lightweight Generalized DeepFake Face Detection with WAVIE: Wavelet Augmented Vision Intermediate Embeddings](https://arxiv.org/abs/2609.14437) · [📝 요약](../summaries/lightweight-generalized-deepfake-face-detection-with-wavie-wavelet-augmented-vis.md) | > **제출일:** 2026-09-13 | arXiv |  |
+| 2026 | [MarkSec: Capability-Aware Evaluation of Adversarial Attacks Against LLM Watermarks](https://arxiv.org/abs/2609.16681) · [📝 요약](../summaries/marksec-capability-aware-evaluation-of-adversarial-attacks-against-llm-watermark.md) | > **제출일:** 2026-09-15 | arXiv |  |
+| 2026 | [Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics](https://arxiv.org/abs/2609.16778) · [📝 요약](../summaries/unifying-semantic-priors-and-high-frequency-traces-enhancing-v-jepa-with-mixture.md) | > **제출일:** 2026-09-15 | arXiv |  |
+| 2026 | [IMFD: End-to-end Multi-Face Forgery Detection through Instruction-based Large Vision-Language Models](https://arxiv.org/abs/2609.19693) · [📝 요약](../summaries/imfd-end-to-end-multi-face-forgery-detection-through-instruction-based-large-vis.md) | > **제출일:** 2026-09-17 | arXiv |  |
+| 2026 | [Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection](https://arxiv.org/abs/2609.20063) · [📝 요약](../summaries/robust-workflow-generation-via-adversarial-learning-for-audio-deepfake-detection.md) | > **제출일:** 2026-09-17 | arXiv |  |
+| 2026 | [GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages](https://arxiv.org/abs/2609.21738) · [📝 요약](../summaries/gentracebench-a-benchmark-for-tracing-audio-deepfakes-across-pre-and-post-traini.md) | > **제출일:** 2026-09-18 | arXiv |  |
+| 2026 | [Synthetic speech detection in Brazilian Portuguese through accent-related features](https://arxiv.org/abs/2609.23807) · [📝 요약](../summaries/synthetic-speech-detection-in-brazilian-portuguese-through-accent-related-featur.md) | > **제출일:** 2026-09-20 | arXiv |  |
+| 2026 | [DFD-Lab: A Modular Audio-Visual Deepfake Detection Pipeline](https://arxiv.org/abs/2609.23830) · [📝 요약](../summaries/dfd-lab-a-modular-audio-visual-deepfake-detection-pipeline.md) | > **제출일:** 2026-09-20 | arXiv |  |
+| 2026 | [Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model](https://arxiv.org/abs/2609.25154) | > **제출일:** 2026-09-21 | arXiv |  |
+| 2026 | [SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization](https://arxiv.org/abs/2609.25197) | > **제출일:** 2026-09-21 | arXiv |  |
+| 2026 | [Boundary and Intra-Segment Learning for Partial Audio Deepfake Localization](https://arxiv.org/abs/2609.25822) | > **제출일:** 2026-09-22 | arXiv |  |
+| 2026 | [ASAP: Visual Analytics for Identifying and Analyzing Image Patterns in AI-generated Images](https://arxiv.org/abs/2609.27371) | > **제출일:** 2026-09-23 | arXiv |  |
+| 2026 | [VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching](https://arxiv.org/abs/2609.30005) | > **제출일:** 2026-09-24 | arXiv |  |
+| 2026 | [DGS-MLDG: Domain Gradient Surgery Guided Meta-Learning for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2609.33706) | Siqing Qin et al. | arXiv |  |
+| 2026 | [Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2609.33709) | Siqing Qin et al. | arXiv |  |
+| 2026 | [DBCF: Dual-Branch Complementary Fusion of Foundation Models for Generalized Deepfake Detection](https://arxiv.org/abs/2609.34720) | > **제출일:** 2026-09-28 | arXiv |  |
+| 2026 | [Learning as Deepfakes Evolve: RF-Prompt for Continual Audio Deepfake Detection](https://arxiv.org/abs/2609.37586) | Yuankun Xie et al. | arXiv |  |
+| 2026 | [Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection](https://arxiv.org/abs/2609.39066) | > **제출일:** 2026-09-30 | arXiv |  |
+| 2026 | [SEAR: Spoofing Evidence-Grounded Audio Reasoning Benchmark for Audio Language Models](https://arxiv.org/abs/2609.39847) | Rong Wan et al. | arXiv |  |
+| 2026 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) | Lisan Al Amin et al. | arXiv |  |
+| 2026 | [FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching](https://arxiv.org/abs/2610.01242) | Yingjian Yu et al. | arXiv |  |
+| 2026 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) | Yingjian Yu et al. | arXiv |  |
+| 2026 | [Revisiting Cross-Reconstruction for Generalizable Deepfake Detection](https://arxiv.org/abs/2610.01544) | > **제출일:** 2026-10-01 | arXiv |  |
+| 2026 | [Interpretable Deepfake Detection in Videos via Explicit Forensic Features and Temporal Modeling](https://arxiv.org/abs/2610.03380) | > **제출일:** 2026-10-02 | arXiv |  |
 | 2025 | [ASVspoof 5: Design, collection and validation of resources for spoofing, deepfake, and adversarial attack detection using crowdsourced speech](https://arxiv.org/abs/2502.08857) · [📝 요약](../summaries/asvspoof-5-design-collection-and-validation-of-resources-for-spoofing-deepfake-a.md) | Xin Wang et al. | Computer Speech and Language | 48 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) · [📝 요약](../summaries/envsdd-benchmarking-environmental-sound-deepfake-detection.md) | Han Yin et al. | Interspeech | 21 |
 | 2025 | [SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://arxiv.org/abs/2507.21463) · [📝 요약](../summaries/speechfake-a-large-scale-multilingual-speech-deepfake-dataset-incorporating-cutt.md) | Wen Huang et al. | Annual Meeting of the Association for Computational Linguistics | 17 |
