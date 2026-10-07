@@ -1,6 +1,6 @@
 # Cross-Domain & Multimodal
 
-> 25 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 26 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@
 | 2025 | [An Explainable Deep Learning Framework for Robust Face Anti-Spoofing via Shapley-Guided Feature Selection](https://www.semanticscholar.org/paper/63f4337a30ecb46173d96f5c1e3986036b1a4260) | Anisha Soni et al. | International Journal of Computational and Experimental Science and Engineering | 0 |
 | 2025 | [Fake Media Forensics:AI – Driven Forensic Analysis of Fake Multimedia Content](https://www.semanticscholar.org/paper/c9b2686113d66ebfedd7da6df30df953c0378cc5) | .Deepak Naik | INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT | 0 |
 | 2025 | [Deeflyzer: Enhancing Media Integrity Through Advanced Deepfake Detection](https://www.semanticscholar.org/paper/f995ade59a49a1b5d4acdf96c7dee93022416c54) | Charudatta Sunil Thakare et al. | 2025 International Conference on Knowledge Engineering and Communication Systems (ICKECS) | 0 |
+| 2024 | [Harder or Different? Understanding Generalization of Audio Deepfake Detection](https://arxiv.org/abs/2406.03512) · [📝 요약](../summaries/harder-or-different-understanding-generalization-of-audio-deepfake-detection.md) | Nicolas M. Muller et al. | Interspeech | 18 |
 | 2024 | [Efficiently Identifying Fake Audio and Images Using Transfer Learning](https://www.semanticscholar.org/paper/6942cab52693b93bbe26db336517e719d7a5a55e) | B. S et al. | 2024 International Conference on System, Computation, Automation and Networking (ICSCAN) | 1 |
 | 2023 | [Cross-modal information fusion for voice spoofing detection](https://www.semanticscholar.org/paper/a5aef509f0bde2c058c9f12eab51cd76644df359) | Junxiao Xue et al. | Speech Communication | 25 |
 | 2022 | [Detection of Morphed Face, Body, Audio signals using Deep Neural Networks](https://www.semanticscholar.org/paper/a13b10d6299e83c151a080de69a3590ed2c667fb) | Dheeraj Gharde et al. | 2022 IEEE 7th International conference for Convergence in Technology (I2CT) | 0 |

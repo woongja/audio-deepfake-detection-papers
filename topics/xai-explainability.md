@@ -1,6 +1,6 @@
 # Explainability & Attribution
 
-> 103 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 104 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -83,6 +83,7 @@
 | 2025 | [The Interpretable and Transferable Adversarial Attack against Synthetic Speech Detectors](https://www.semanticscholar.org/paper/ddec8819a286cdd5019ceeba5ee8f1a8f3563801) | Jiacheng Deng et al. | ACM Trans. Multim. Comput. Commun. Appl. | 0 |
 | 2025 | [Spectro-Temporal-CNN Fusion for Deepfake Speech Detection and Spoof System Attribution](https://www.semanticscholar.org/paper/fa1c93cbd16cf97c9055c69e2776af1f0bb76c38) | Zuhal Can et al. | IEEE Access | 0 |
 | 2024 | [Source Tracing of Audio Deepfake Systems](https://arxiv.org/abs/2407.08016) · [📝 요약](../summaries/source-tracing-of-audio-deepfake-systems.md) | Nicholas Klein et al. | Interspeech | 43 |
+| 2024 | [SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection](https://arxiv.org/abs/2407.18517) · [📝 요약](../summaries/slim-style-linguistics-mismatch-model-for-generalized-audio-deepfake-detection.md) | Yi Zhu et al. | Neural Information Processing Systems | 34 |
 | 2024 | [ADD 2023: Towards Audio Deepfake Detection and Analysis in the Wild](https://arxiv.org/abs/2408.04967) · [📝 요약](../summaries/add-2023-towards-audio-deepfake-detection-and-analysis-in-the-wild.md) | Jiangyan Yi et al. | arXiv.org | 17 |
 | 2024 | [Generalized Source Tracing: Detecting Novel Audio Deepfake Algorithm with Real Emphasis and Fake Dispersion Strategy](https://arxiv.org/abs/2406.03240) · [📝 요약](../summaries/generalized-source-tracing-detecting-novel-audio-deepfake-algorithm-with-real-em.md) | Yuankun Xie et al. | Interspeech | 16 |
 | 2024 | [VFD-Net: Vocoder Fingerprints Detection for Fake Audio](https://www.semanticscholar.org/paper/b53da17b7d71e40d6597a2020e0fc34216253157) | Junlong Deng et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 12 |
