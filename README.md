@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1263-blue) ![updated](https://img.shields.io/badge/updated-2026--10--07-green)
+![papers](https://img.shields.io/badge/papers-1266-blue) ![updated](https://img.shields.io/badge/updated-2026--10--07-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,19 +8,19 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (161)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (162)
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (426)
 - [Detection Architectures & Encoders](topics/architectures.md) (143)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (28)
 - [LLM-Based Detection](topics/llm-based.md) (23)
 - [Explainability & Attribution](topics/xai-explainability.md) (104)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (129)
-- [Generalization & OOD](topics/generalization-ood.md) (269)
-- [Neural Codec Deepfakes](topics/codec-deepfake.md) (26)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (130)
+- [Generalization & OOD](topics/generalization-ood.md) (271)
+- [Neural Codec Deepfakes](topics/codec-deepfake.md) (27)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (51)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (183)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (184)
 - [Training Strategies](topics/training-strategies.md) (182)
-- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (26)
+- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (28)
 
 ## Latest 30 Papers
 
@@ -28,6 +28,9 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-10-06 | [CCDF: A Benchmark Dataset for Deepfake Detection in Real-World Surveillance Footage](https://arxiv.org/abs/2610.07939) | > **제출일:** 2026-10-06 | [📝](summaries/ccdf-a-benchmark-dataset-for-deepfake-detection-in-real-world-surveillance-foota.md) |  |
+| 2026-10-05 | [Deep Defence on Wheels: A Dual Intrusion Detection System Architecture for Comprehensive In-Vehicle Network Security](https://arxiv.org/abs/2610.07489) | > **제출일:** 2026-10-05 | [📝](summaries/deep-defence-on-wheels-a-dual-intrusion-detection-system-architecture-for-compre.md) |  |
+| 2026-10-05 | [Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection](https://arxiv.org/abs/2610.07216) | Abdullah et al. | [📝](summaries/exposing-and-mitigating-neural-codec-vulnerabilities-in-audio-deepfake-detection.md) |  |
 | 2026-10-04 | [Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264) | Miao He et al. |  |  |
 | 2026-10-03 | [Temporal Anchors and Editing Sensitivity in Partial Speech Spoofing: A Controlled Study](https://arxiv.org/abs/2610.04479) | Xiaosu Su et al. |  |  |
 | 2026-10-02 | [Interpretable Deepfake Detection in Videos via Explicit Forensic Features and Temporal Modeling](https://arxiv.org/abs/2610.03380) | > **제출일:** 2026-10-02 |  |  |
@@ -55,15 +58,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-09-23 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) | > **제출일:** 2026-09-23 |  |  |
 | 2026-09-23 | [ASAP: Visual Analytics for Identifying and Analyzing Image Patterns in AI-generated Images](https://arxiv.org/abs/2609.27371) | > **제출일:** 2026-09-23 |  |  |
 | 2026-09-22 | [UE-Side Location Privacy for 5G NR Uplink Positioning: Mechanisms and Trade-offs](https://arxiv.org/abs/2609.25941) | > **제출일:** 2026-09-22 |  |  |
-| 2026-09-22 | [Boundary and Intra-Segment Learning for Partial Audio Deepfake Localization](https://arxiv.org/abs/2609.25822) | > **제출일:** 2026-09-22 |  |  |
-| 2026-09-21 | [SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization](https://arxiv.org/abs/2609.25197) | > **제출일:** 2026-09-21 |  |  |
-| 2026-09-21 | [Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model](https://arxiv.org/abs/2609.25154) | > **제출일:** 2026-09-21 |  |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 238 |
+| 2026 | 241 |
 | 2025 | 276 |
 | 2024 | 192 |
 | 2023 | 135 |

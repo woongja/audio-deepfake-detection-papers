@@ -1,6 +1,6 @@
 # Noise & Real-World Robustness
 
-> 129 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 130 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -57,6 +57,7 @@
 | 2026 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) | Yingjian Yu et al. | arXiv |  |
 | 2026 | [Revisiting Cross-Reconstruction for Generalizable Deepfake Detection](https://arxiv.org/abs/2610.01544) | > **제출일:** 2026-10-01 | arXiv |  |
 | 2026 | [Interpretable Deepfake Detection in Videos via Explicit Forensic Features and Temporal Modeling](https://arxiv.org/abs/2610.03380) | > **제출일:** 2026-10-02 | arXiv |  |
+| 2026 | [Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection](https://arxiv.org/abs/2610.07216) · [📝 요약](../summaries/exposing-and-mitigating-neural-codec-vulnerabilities-in-audio-deepfake-detection.md) | Abdullah et al. | arXiv |  |
 | 2025 | [Transferable Adversarial Attacks on Audio Deepfake Detection](https://arxiv.org/abs/2501.11902) · [📝 요약](../summaries/transferable-adversarial-attacks-on-audio-deepfake-detection.md) | Muhammad Umar Farooq et al. | 2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW) | 22 |
 | 2025 | [Measuring the Robustness of Audio Deepfake Detectors](https://arxiv.org/abs/2503.17577) · [📝 요약](../summaries/measuring-the-robustness-of-audio-deepfake-detectors.md) | Xiang Li et al. | arXiv.org | 10 |
 | 2025 | [Perturbed Public Voices (P2V): A Dataset for Robust Audio Deepfake Detection](https://arxiv.org/abs/2508.10949) · [📝 요약](../summaries/perturbed-public-voices-p2v-a-dataset-for-robust-audio-deepfake-detection.md) | Chongyang Gao et al. | arXiv.org | 7 |

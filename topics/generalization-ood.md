@@ -1,6 +1,6 @@
 # Generalization & OOD
 
-> 269 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 271 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -84,6 +84,8 @@
 | 2026 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) | Yingjian Yu et al. | arXiv |  |
 | 2026 | [Revisiting Cross-Reconstruction for Generalizable Deepfake Detection](https://arxiv.org/abs/2610.01544) | > **제출일:** 2026-10-01 | arXiv |  |
 | 2026 | [Interpretable Deepfake Detection in Videos via Explicit Forensic Features and Temporal Modeling](https://arxiv.org/abs/2610.03380) | > **제출일:** 2026-10-02 | arXiv |  |
+| 2026 | [Deep Defence on Wheels: A Dual Intrusion Detection System Architecture for Comprehensive In-Vehicle Network Security](https://arxiv.org/abs/2610.07489) · [📝 요약](../summaries/deep-defence-on-wheels-a-dual-intrusion-detection-system-architecture-for-compre.md) | > **제출일:** 2026-10-05 | arXiv |  |
+| 2026 | [CCDF: A Benchmark Dataset for Deepfake Detection in Real-World Surveillance Footage](https://arxiv.org/abs/2610.07939) · [📝 요약](../summaries/ccdf-a-benchmark-dataset-for-deepfake-detection-in-real-world-surveillance-foota.md) | > **제출일:** 2026-10-06 | arXiv |  |
 | 2025 | [Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation](https://arxiv.org/abs/2501.14240) · [📝 요약](../summaries/generalizable-audio-deepfake-detection-via-latent-space-refinement-and-augmentat.md) | Wen Huang et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 19 |
 | 2025 | [Wave-Spectrogram Cross-Modal Aggregation for Audio Deepfake Detection](https://www.semanticscholar.org/paper/66e254939cb8e364d5f4660d4260559ce3b29ed5) | Zehui Jin et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 16 |
 | 2025 | [Hybrid CNN-LSTM Architectures for Deepfake Audio Detection Using Mel Frequency Cepstral Coefficients and Spectogram Analysis](https://www.semanticscholar.org/paper/a1d8a2d09de50a032dac6da58f9b7a79904215ac) | Clive Asuai et al. | American Journal of Mathematical and Computer Modelling | 11 |

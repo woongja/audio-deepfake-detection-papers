@@ -1,6 +1,6 @@
 # SSL Front-Ends (wav2vec2 / WavLM / HuBERT)
 
-> 161 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 162 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@
 | 2026 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) | Lisan Al Amin et al. | arXiv |  |
 | 2026 | [Temporal Anchors and Editing Sensitivity in Partial Speech Spoofing: A Controlled Study](https://arxiv.org/abs/2610.04479) | Xiaosu Su et al. | arXiv |  |
 | 2026 | [Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264) | Miao He et al. | arXiv |  |
+| 2026 | [Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection](https://arxiv.org/abs/2610.07216) · [📝 요약](../summaries/exposing-and-mitigating-neural-codec-vulnerabilities-in-audio-deepfake-detection.md) | Abdullah et al. | arXiv |  |
 | 2025 | [Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-Spoofing](https://arxiv.org/abs/2504.05657) · [📝 요약](../summaries/nes2net-a-lightweight-nested-architecture-for-foundation-model-driven-speech-ant.md) | Tianchi Liu et al. | IEEE Transactions on Information Forensics and Security | 26 |
 | 2025 | [Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection](https://arxiv.org/abs/2502.03559) · [📝 요약](../summaries/comprehensive-layer-wise-analysis-of-ssl-models-for-audio-deepfake-detection.md) | Y. E. Kheir et al. | North American Chapter of the Association for Computational Linguistics | 25 |
 | 2025 | [Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception](https://arxiv.org/abs/2504.06753) · [📝 요약](../summaries/detect-all-type-deepfake-audio-wavelet-prompt-tuning-for-enhanced-auditory-perce.md) | Yuankun Xie et al. | AAAI Conference on Artificial Intelligence | 12 |

@@ -1,6 +1,6 @@
 # Cross-Domain & Multimodal
 
-> 26 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 28 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -15,6 +15,8 @@
 | 2026 | [AI Generated Media Classification Using Deep Learning](https://www.semanticscholar.org/paper/e4a5035a95236e6f6760d768dce2c37171fd03dd) | Nizampatnam Sai Siri | International Journal for Research in Applied Science and Engineering Technology | 0 |
 | 2026 | [Secure Vision-Unified Spoofing Prevention and Deepfake Identification Framework](https://www.semanticscholar.org/paper/f2cc260fa91e59dd595d069cee7604891aa885d2) | Lakkakula Ashwitha et al. | 2026 International Conference on Next-Gen Quantum and Advanced Computing: Algorithms, Security, and Beyond (NQComp) | 0 |
 | 2026 | [Teacher-Student Structure for Domain Adaptation in Ensemble Audio-Visual Video Deepfake Detection](https://arxiv.org/abs/2606.15117) · [📝 요약](../summaries/teacher-student-structure-for-domain-adaptation-in-ensemble-audio-visual-video-d.md) | Elham Abolhasani et al. | arXiv |  |
+| 2026 | [Deep Defence on Wheels: A Dual Intrusion Detection System Architecture for Comprehensive In-Vehicle Network Security](https://arxiv.org/abs/2610.07489) · [📝 요약](../summaries/deep-defence-on-wheels-a-dual-intrusion-detection-system-architecture-for-compre.md) | > **제출일:** 2026-10-05 | arXiv |  |
+| 2026 | [CCDF: A Benchmark Dataset for Deepfake Detection in Real-World Surveillance Footage](https://arxiv.org/abs/2610.07939) · [📝 요약](../summaries/ccdf-a-benchmark-dataset-for-deepfake-detection-in-real-world-surveillance-foota.md) | > **제출일:** 2026-10-06 | arXiv |  |
 | 2025 | [A Unified Neural Framework for Real-Time Deepfake Detection Across Multimedia Modalities to Combat Misleading Content](https://www.semanticscholar.org/paper/714608ba4cc6b81909f24c6190b295b668fa219f) | Ayan Sar et al. | IEEE Access | 8 |
 | 2025 | [Are Multimodal Foundation Models All That Is Needed for Emofake Detection?](https://arxiv.org/abs/2509.16193) · [📝 요약](../summaries/are-multimodal-foundation-models-all-that-is-needed-for-emofake-detection.md) | Mohd Mujtaba Akhtar et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 1 |
 | 2025 | [Unified Deepfake Detection System for Image, Video and Audio Media](https://www.semanticscholar.org/paper/1076d986068b630aa3a19e331cb8580e9bb8a087) | Neelakantappa T T et al. | International Journal For Multidisciplinary Research | 0 |
