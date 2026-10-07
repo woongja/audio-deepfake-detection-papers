@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1261-blue) ![updated](https://img.shields.io/badge/updated-2026--10--06-green)
+![papers](https://img.shields.io/badge/papers-1263-blue) ![updated](https://img.shields.io/badge/updated-2026--10--07-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,7 +8,7 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (157)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (159)
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (426)
 - [Detection Architectures & Encoders](topics/architectures.md) (142)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (28)
@@ -17,8 +17,8 @@ Generated from a personally maintained research corpus.
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (129)
 - [Generalization & OOD](topics/generalization-ood.md) (269)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (26)
-- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (49)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (182)
+- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (50)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (183)
 - [Training Strategies](topics/training-strategies.md) (182)
 - [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (25)
 
@@ -28,6 +28,8 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-10-04 | [Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264) | Miao He et al. |  |  |
+| 2026-10-03 | [Temporal Anchors and Editing Sensitivity in Partial Speech Spoofing: A Controlled Study](https://arxiv.org/abs/2610.04479) | Xiaosu Su et al. |  |  |
 | 2026-10-02 | [Interpretable Deepfake Detection in Videos via Explicit Forensic Features and Temporal Modeling](https://arxiv.org/abs/2610.03380) | > **제출일:** 2026-10-02 |  |  |
 | 2026-10-01 | [Revisiting Cross-Reconstruction for Generalizable Deepfake Detection](https://arxiv.org/abs/2610.01544) | > **제출일:** 2026-10-01 |  |  |
 | 2026-10-01 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) | Yingjian Yu et al. |  |  |
@@ -56,14 +58,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-09-22 | [Boundary and Intra-Segment Learning for Partial Audio Deepfake Localization](https://arxiv.org/abs/2609.25822) | > **제출일:** 2026-09-22 |  |  |
 | 2026-09-21 | [SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization](https://arxiv.org/abs/2609.25197) | > **제출일:** 2026-09-21 |  |  |
 | 2026-09-21 | [Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model](https://arxiv.org/abs/2609.25154) | > **제출일:** 2026-09-21 |  |  |
-| 2026-09-20 | [DFD-Lab: A Modular Audio-Visual Deepfake Detection Pipeline](https://arxiv.org/abs/2609.23830) | > **제출일:** 2026-09-20 | [📝](summaries/dfd-lab-a-modular-audio-visual-deepfake-detection-pipeline.md) |  |
-| 2026-09-20 | [Synthetic speech detection in Brazilian Portuguese through accent-related features](https://arxiv.org/abs/2609.23807) | > **제출일:** 2026-09-20 | [📝](summaries/synthetic-speech-detection-in-brazilian-portuguese-through-accent-related-featur.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 236 |
+| 2026 | 238 |
 | 2025 | 276 |
 | 2024 | 192 |
 | 2023 | 135 |
