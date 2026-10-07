@@ -1,6 +1,6 @@
 # Training Strategies
 
-> 184 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 182 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -51,7 +51,6 @@
 | 2025 | [Learning to Fuse: A Gated Multi-Stream Framework for Generalized Audio Deepfake Detection](https://www.semanticscholar.org/paper/1863e660407f9fa14c4acc9f277aa3858d622fb3) | T. Wani et al. | DFF@MM | 1 |
 | 2025 | [Deepfake Voice Detection Using Machine Learning](https://www.semanticscholar.org/paper/58d061fc7f558358d44446ce43917f1bdbb9c927) | Amruthesh S G | INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT | 1 |
 | 2025 | [Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing](https://www.semanticscholar.org/paper/d954a322cfb03fdbb399491eaf4f44a633819a32) | Ruiteng Zhang et al. | IEEE Transactions on Audio, Speech, and Language Processing | 1 |
-| 2025 | Audio Deepfake Detection Using Deep Learning |  | Engineering Reports |  |
 | 2025 | [SIGNL: A label-efficient audio deepfake detection system via spectral-temporal graph non-contrastive learning](https://arxiv.org/abs/2501.04942) · [📝 요약](../summaries/signl-a-label-efficient-audio-deepfake-detection-system-via-spectral-temporal-gr.md) | F. Febrinanto et al. | Expert systems with applications | 0 |
 | 2025 | [Generalizable Detection of Audio Deepfakes](https://arxiv.org/abs/2507.01750) · [📝 요약](../summaries/generalizable-detection-of-audio-deepfakes.md) | Jose A. Lopez et al. | arXiv.org | 0 |
 | 2025 | [Addressing Gradient Misalignment in Data-Augmented Training for Robust Speech Deepfake Detection](https://arxiv.org/abs/2509.20682) · [📝 요약](../summaries/addressing-gradient-misalignment-in-data-augmented-training-for-robust-speech-de.md) | Duc-Tuan Truong et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 0 |
@@ -183,7 +182,6 @@
 | 2019 | [Deep domain adaptation for anti-spoofing in speaker verification systems](https://www.semanticscholar.org/paper/e6e5d8264ce86a87f00622984c0c50f3238e8c4f) | Ivan Himawan et al. | Computer Speech and Language | 15 |
 | 2019 | [Self-supervised pre-training with acoustic configurations for replay spoofing detection](https://arxiv.org/abs/1910.09778) · [📝 요약](../summaries/self-supervised-pre-training-with-acoustic-configurations-for-replay-spoofing-de.md) | Hye-jin Shim et al. | Interspeech | 8 |
 | 2019 | [Data augmentation and post selection for improved replay attack detection](https://www.semanticscholar.org/paper/81f747760e87b3e528e8f455fe4d316565f7d79c) | Yuanjun Zhao et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 3 |
-| 2019 | Light CNN Architecture Enhancement for Different Types Spoofing Attack Detection |  | SPECOM 2019 |  |
 | 2018 | [Data selection for i-vector based automatic speaker verification anti-spoofing](https://www.semanticscholar.org/paper/b82e78cdc6d13c560e8a240c1796faa6816b07b0) | C. Hanilçi | Digit. Signal Process. | 18 |
 | 2017 | [Countermeasures for Automatic Speaker Verification Replay Spoofing Attack : On Data Augmentation, Feature Representation, Classification and Fusion](https://www.semanticscholar.org/paper/3da78ce05b00b16aae951563bb9ec30831d3cb65) | Weicheng Cai et al. | Interspeech | 73 |
 | 2017 | [Improving Speaker Verification Performance in Presence of Spoofing Attacks Using Out-of-Domain Spoofed Data](https://www.semanticscholar.org/paper/c324b3a178898f74252a3b1cf216d7423934993b) | A. K. Sarkar et al. | Interspeech | 6 |

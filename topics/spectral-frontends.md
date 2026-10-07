@@ -1,6 +1,6 @@
 # Spectral & Signal-Processing Front-Ends
 
-> 429 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 426 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -68,7 +68,6 @@
 | 2025 | [Deep-fake Detection for Recognising Altered Audio using Deep Learning Approach](https://www.semanticscholar.org/paper/d50fc8ce41cc0cdf1c445e57f8677852fbe5534b) | Sanjula Giri et al. | 2025 International Conference on Artificial Intelligence and Machine Vision (AIMV) | 1 |
 | 2025 | [Enhancing Deepfake Audio Detection: A Performance Evaluation of Machine Learning and Deep Learning Models](https://www.semanticscholar.org/paper/ec69fe95d0fc969f22720b0aea102209a4fd0391) | Neethu Prem et al. | IEEE International Conference on Electronics, Computing and Communication Technologies | 1 |
 | 2025 | [Deep Fake Audio Recognition Using Deep Learning](https://www.semanticscholar.org/paper/f6967ee9891ffe288a7ac2acf0c998841ba81e90) | Madhuri Borawake | International Scientific Journal of Engineering and Management | 1 |
-| 2025 | Audio Deepfake Detection Using Deep Learning |  | Engineering Reports |  |
 | 2025 | [Audio Deepfake Detection: Leveraging Deep Learning for Automatic Speaker Verification and Spoofing Prevention](https://www.semanticscholar.org/paper/12cbeb0a114e53d701984c2cd407b7435a43da29) | Ferry Irwanto et al. | 2025 IEEE 2nd International Conference on Cryptography, Informatics, and Cybersecurity (ICoCICs) | 0 |
 | 2025 | [Automatic DeepFake Voice Recognition Using Deep Learning](https://www.semanticscholar.org/paper/152651ceeb39a21cfc2635c37668f595fea499a2) | Yashika Girdhar et al. | 2025 IEEE 6th Global Conference for Advancement in Technology (GCAT) | 0 |
 | 2025 | [Detecting Deep Fake Audio: A Hybrid CNN-LSTM Approach Leveraging Spectrogram Analysis](https://www.semanticscholar.org/paper/1a98560d67fa3d1bb5a75b1d9739af0f0adc9700) | Kashika Jain | 2025 IEEE DELCON - International Conference on Recent Smart Technologies in Engineering for Sustainable Development | 0 |
@@ -321,7 +320,6 @@
 | 2020 | [Exploiting Magnitude and Phase Aware Deep Neural Network for Replay Attack Detection](https://www.semanticscholar.org/paper/f3ec34786d9e135cb144bf5c14295949f55eec54) | Khomdet Phapatanaburi et al. |  | 3 |
 | 2020 | [Texture-based Presentation Attack Detection for Automatic Speaker Verification](https://arxiv.org/abs/2010.04038) · [📝 요약](../summaries/texture-based-presentation-attack-detection-for-automatic-speaker-verification.md) | Lázaro J. González Soler et al. | International Workshop on Information Forensics and Security | 2 |
 | 2020 | [Research on speech replay attack detection using approach of multi-feature and multi-classifier fusion](https://www.semanticscholar.org/paper/a563a6084ca633d34f81681fcbc658d639b89634) | Ziheng Cheng et al. | 2020 International Conference on Computer Communication and Network Security (CCNS) | 1 |
-| 2020 | GRU-SVM Model for Synthetic Speech Detection |  | IWDW 2019 (LNCS 12022) |  |
 | 2020 | [Spectro-temporal features for audio replay attack detection](https://www.semanticscholar.org/paper/a0a10912ae99018fd9a28a28b8254711030f30d6) | R. Hemavathi et al. | International Journal of High Performance Computing and Networking | 0 |
 | 2019 | [Detecting Spoofing Attacks Using VGG and SincNet: BUT-Omilia Submission to ASVspoof 2019 Challenge](https://arxiv.org/abs/1907.12908) · [📝 요약](../summaries/detecting-spoofing-attacks-using-vgg-and-sincnet-but-omilia-submission-to-asvspo.md) | Hossein Zeinali et al. | Interspeech | 73 |
 | 2019 | [Long Range Acoustic and Deep Features Perspective on ASVspoof 2019](https://www.semanticscholar.org/paper/56654fa6ef8623191e4fef4348172b420fce4cc6) | Rohan Kumar Das et al. | Automatic Speech Recognition & Understanding | 70 |
@@ -360,7 +358,6 @@
 | 2019 | [An Adaptive-Q Cochlear Model for Replay Spoofing Detection](https://www.semanticscholar.org/paper/929ca3bfa014d43c40e456eda0f9c5f5764d43b4) | Tharshini Gunendradasan et al. | Interspeech | 3 |
 | 2019 | [Improved Processing of LP-residual Information for Detection of Replay Signals](https://www.semanticscholar.org/paper/711476b82033a3dcc40d6902f9e05b361a09a8ed) | Krishna Dutta et al. | IEEE India Conference | 2 |
 | 2019 | [Speech Demodulation-based Techniques for Replay and Presentation Attack Detection](https://www.semanticscholar.org/paper/aa58e997c07f701eea27732ecb49c03487287665) | Madhu R. Kamble et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 1 |
-| 2019 | Light CNN Architecture Enhancement for Different Types Spoofing Attack Detection |  | SPECOM 2019 |  |
 | 2019 | [Investigation of the performance of high-frequency phase spectrum components in audio replay spoofing attack detection](https://www.semanticscholar.org/paper/125f129e96976994560602284aec1d36e4ab5a7c) | Burak Kasapoğlu et al. | International Conference on Electrical and Electronics Engineering | 0 |
 | 2019 | [Discriminative feature based on FWMW for playback speech detection](https://www.semanticscholar.org/paper/7a749eabf16be50156122645e1f8316cef784870) | Jichen Yang et al. | Electronics Letters | 0 |
 | 2019 | [Replay attack detection by channel frequency response difference enhancement](https://www.semanticscholar.org/paper/b17f381ad72639a640815fdb3c57bcfb3e0c33df) | Xingchen Guo et al. | International Workshop on Pattern Recognition | 0 |

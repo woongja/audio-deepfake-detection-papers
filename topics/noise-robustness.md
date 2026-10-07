@@ -1,6 +1,6 @@
 # Noise & Real-World Robustness
 
-> 131 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 129 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -111,8 +111,6 @@
 | 2022 | [Low Pass Filtering and Bandwidth Extension for Robust Anti-spoofing Countermeasure Against Codec Variabilities](https://arxiv.org/abs/2211.06546) · [📝 요약](../summaries/low-pass-filtering-and-bandwidth-extension-for-robust-anti-spoofing-countermeasu.md) | Yikang Wang et al. | International Symposium on Chinese Spoken Language Processing | 5 |
 | 2022 | [Multi-branch Network with Circle Loss Using Voice Conversion and Channel Robust Data Augmentation for Synthetic Speech Detection](https://www.semanticscholar.org/paper/544b6abd373cf06300e0c8e0f1cbf699d307b59f) | Ruoyu Wang et al. | Chinese Conference on Biometric Recognition | 1 |
 | 2022 | [Robust Spoofed Speech Detection with Denoised I-vectors](https://www.semanticscholar.org/paper/90f45fac05df9b510369bb1a6bb4b06ee23d192d) | Gökay Dişken | GAZI UNIVERSITY JOURNAL OF SCIENCE | 1 |
-| 2022 | [SA: Sliding attack for synthetic speech detection with resistance to clipping and self-splicing](https://arxiv.org/abs/2208.13066) |  | arXiv |  |
-| 2022 | [PSVRF: Learning to restore Pitch-Shifted Voice without reference](https://arxiv.org/abs/2210.02731) |  | arXiv |  |
 | 2022 | [The Impact of Room Acoustics on Replay Speech Signal](https://www.semanticscholar.org/paper/a57de03cdbb7e9193abebca1d3d087cadd8615e3) | Madhu R. Kamble et al. | International Symposium on Chinese Spoken Language Processing | 0 |
 | 2022 | [Benchmarking Adversarial Transferability on Synthetic Speech Detection](https://www.semanticscholar.org/paper/bcc70db14364685b96f51f1f50e53758e2796cc9) | Shunyi Chen et al. | Social Science Research Network | 0 |
 | 2022 | [Smoothed Teager Energy Cepstral Feature for Replay Attack Detection on Voice Assistants](https://www.semanticscholar.org/paper/f8ca77595105e078f5ffdbda1eb116cdf23cae30) | Madhu R. Kamble et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 0 |

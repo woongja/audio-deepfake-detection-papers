@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1268-blue) ![updated](https://img.shields.io/badge/updated-2026--10--07-green)
+![papers](https://img.shields.io/badge/papers-1263-blue) ![updated](https://img.shields.io/badge/updated-2026--10--07-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -9,17 +9,17 @@ Generated from a personally maintained research corpus.
 ## Topics
 
 - [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (161)
-- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (429)
+- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (426)
 - [Detection Architectures & Encoders](topics/architectures.md) (143)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (28)
 - [LLM-Based Detection](topics/llm-based.md) (23)
 - [Explainability & Attribution](topics/xai-explainability.md) (104)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (131)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (129)
 - [Generalization & OOD](topics/generalization-ood.md) (269)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (26)
-- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (53)
+- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (51)
 - [Datasets & Benchmarks](topics/datasets-benchmarks.md) (183)
-- [Training Strategies](topics/training-strategies.md) (184)
+- [Training Strategies](topics/training-strategies.md) (182)
 - [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (26)
 
 ## Latest 30 Papers
@@ -64,13 +64,13 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | Year | Papers |
 |---|---|
 | 2026 | 238 |
-| 2025 | 277 |
+| 2025 | 276 |
 | 2024 | 192 |
 | 2023 | 135 |
-| 2022 | 113 |
+| 2022 | 111 |
 | 2021 | 76 |
-| 2020 | 66 |
-| 2019 | 68 |
+| 2020 | 65 |
+| 2019 | 67 |
 | 2018 | 34 |
 | 2017 | 34 |
 | 2016 | 14 |
