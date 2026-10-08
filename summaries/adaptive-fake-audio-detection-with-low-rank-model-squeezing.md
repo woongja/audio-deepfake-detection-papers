@@ -1,28 +1,12 @@
 # Adaptive Fake Audio Detection with Low-Rank Model Squeezing
 
-> ⚠ AI-generated summary (local LLM, **Korean**, unverified) — auto-generated from the paper, not fact-checked. Verify against the source.
+> Claude 분석 노트(wiki)의 한 줄 요약 — one-line summary from a Claude analysis note of the paper; verify against the source.
 
 **arXiv:** https://arxiv.org/abs/2306.04956 · Xiaohui Zhang et al. · 2023
 
-## 한 줄 요약
+## 한 줄
 
-본 논문에서는 새로운 유형의 가짜 오디오 탐지에 대한 기존 모델의 성능 저하 문제를 해결하기 위해, 기존 모델의 파라미터를 고정하고 새로운 데이터에 특화된 저랭크 적응 행렬을 학습하는 새로운 방법을 제안합니다.
-
-## 문제 정의
-
-기존의 가짜 오디오 탐지 모델은 학습 데이터에 포함되지 않은 새로운 유형의 가짜 오디오에 대해 탐지 정확도가 크게 저하되는 문제가 있습니다. 이러한 문제를 해결하기 위해 기존 모델을 새로운 데이터에 맞게 파인튜닝하는 방법이 있지만, 이는 기존에 학습된 지식을 훼손하고 컴퓨팅 자원 소모가 크다는 단점이 있습니다.
-
-## 제안 방법
-
-본 논문에서는 기존 모델의 파라미터를 고정하고 새로운 유형의 가짜 오디오에 특화된 두 개의 저랭크 적응 행렬(A, B)을 학습하는 Low-Rank Adaptation (LoRA) 방법을 제안합니다. 학습 시에는 기존 모델(Source Model, SoM)을 고정하고, 새로운 데이터셋을 사용하여 A와 B만을 학습합니다. 추론 시에는 SoM과 학습된 A, B를 함께 사용하여 예측을 수행합니다.
-
-## 실험·결과
-
-실험에서는 Low-Level Cepstral Coefficients (LFCC) 특징을 사용하고, Squeeze-and-Excitation Network (SENet) 구조의 분류기를 활용했습니다. 실험 결과, 제안된 LoRA 방법은 기존 모델의 성능을 유지하면서 특정 유형의 새로운 가짜 오디오에 대해 더 낮은 동일 오류율(EER)을 달성했습니다. 또한, 파인튜닝 방식에 비해 저장 메모리 요구량이 적고, 더 적은 수의 학습 가능한 파라미터를 가집니다.
-
-## 한계
-
-본 연구는 특정 유형의 새로운 가짜 오디오에 대해서는 효과적이지만, 모든 유형의 새로운 가짜 오디오에 대해 동일한 성능을 보장하지 않을 수 있습니다. 또한, 실험에서는 LFCC 특징과 SENet 분류기를 사용했지만, 다른 특징이나 분류기 구조에 대해서는 성능이 달라질 수 있습니다.
+기존 탐지 모델(SoM)을 고정한 채 새 spoofing 데이터셋마다 LoRA 저랭크 행렬 한 쌍만 학습합니다. 이 방식으로 catastrophic forgetting 없이 새 유형의 fake audio를 탐지하고 저장 용량도 줄입니다.
 
 ---
 _Part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · AI-generated summary, unverified._

@@ -1,11 +1,12 @@
 # LLM-Based Detection
 
-> 23 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-08
+> 20 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-09
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
-| 2026 | [SARA: Stress Test Reasoning in Audio Deepfake Detection](https://arxiv.org/abs/2601.03615) · [📝 요약](../summaries/sara-stress-test-reasoning-in-audio-deepfake-detection.md) | Binh Nguyen et al. | arXiv | 4 |
+| 2026 | [Analyzing Reasoning Shifts in Audio Deepfake Detection under Adversarial Attacks: The Reasoning Tax versus Shield Bifurcation](https://arxiv.org/abs/2601.03615) · [📝 요약](../summaries/analyzing-reasoning-shifts-in-audio-deepfake-detection-under-adversarial-attacks.md) | Binh Nguyen et al. | arXiv | 4 |
 | 2026 | [HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing](https://arxiv.org/abs/2602.04535) · [📝 요약](../summaries/holiantispoof-audio-llm-for-holistic-speech-anti-spoofing.md) | Xuenan Xu et al. | arXiv.org | 4 |
+| 2026 | [Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection](https://arxiv.org/abs/2601.00777) · [📝 요약](../summaries/investigating-the-viability-of-employing-multi-modal-large-language-models-in-th.md) | Akanksha Chuchra et al. | 2025 IEEE International Joint Conference on Biometrics (IJCB) | 0 |
 | 2026 | [Interpretable All-Type Audio Deepfake Detection with Audio LLMs via Frequency–Time Reinforcement Learning](https://arxiv.org/abs/2601.02983) · [📝 요약](../summaries/interpretable-all-type-audio-deepfake-detection-with-audio-llms-via-frequencytim.md) | Yuankun Xie | arXiv |  |
 | 2026 | [Towards Explicit Acoustic Evidence Perception in Audio LLMs for Speech Deepfake Detection](https://arxiv.org/abs/2601.23066) · [📝 요약](../summaries/towards-explicit-acoustic-evidence-perception-in-audio-llms-for-speech-deepfake.md) | Xiaoxuan Guo | arXiv |  |
 | 2026 | [Towards Robust Speech Deepfake Detection via Human-Inspired Reasoning](https://arxiv.org/abs/2603.10725) · [📝 요약](../summaries/towards-robust-speech-deepfake-detection-via-human-inspired-reasoning.md) | Artem Dvirniak et al. | arXiv | 0 |
@@ -17,13 +18,9 @@
 | 2026 | [Textual Acoustic Grounding for Generalizable LLM-Based Deepfake Voice Detection](https://arxiv.org/abs/2608.30622) | Yassine El Kheir et al. | arXiv |  |
 | 2026 | [ToolDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection](https://arxiv.org/abs/2609.03620) | Taewoo Kim et al. | arXiv |  |
 | 2026 | [CRAF: Cross-View Residual-Aware Fusion for Deepfake Speech Detection](https://arxiv.org/abs/2609.13842) · [📝 요약](../summaries/craf-cross-view-residual-aware-fusion-for-deepfake-speech-detection.md) | Minh-Xuan Phan et al. | arXiv |  |
-| 2026 | [MarkSec: Capability-Aware Evaluation of Adversarial Attacks Against LLM Watermarks](https://arxiv.org/abs/2609.16681) · [📝 요약](../summaries/marksec-capability-aware-evaluation-of-adversarial-attacks-against-llm-watermark.md) | > **제출일:** 2026-09-15 | arXiv |  |
 | 2026 | [GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages](https://arxiv.org/abs/2609.21738) · [📝 요약](../summaries/gentracebench-a-benchmark-for-tracing-audio-deepfakes-across-pre-and-post-traini.md) | > **제출일:** 2026-09-18 | arXiv |  |
 | 2026 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) | > **제출일:** 2026-09-23 | arXiv |  |
-| 2026 | [Look Before You Judge: Training-Free Region Mining for Grounded and Explainable Deepfake Detection](https://arxiv.org/abs/2609.35536) | > **제출일:** 2026-09-28 | arXiv |  |
-| 2026 | [Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection](https://arxiv.org/abs/2609.39066) | > **제출일:** 2026-09-30 | arXiv |  |
 | 2025 | [𝒜LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection](https://www.semanticscholar.org/paper/ed3bd8bccc63e59e45d938ae864ab08f360a8137) | Hao Gu et al. | arXiv.org | 5 |
 | 2025 | [IndicFake Meets SAFARI-LLM: Unifying Semantic and Acoustic Intelligence for Multilingual Deepfake Detection](https://www.semanticscholar.org/paper/2f61a3fdb350795e50d0849fd686863fb056ba8e) | Rishabh Ranjan et al. | Trans. Mach. Learn. Res. | 2 |
-| 2025 | [𝒜​L​L​M​4​A​D​D\mathcal{A}LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake DetectionDOI: [XXXXXXX.XXXXXXX](https://doi.org/XXXXXXX.XXXXXXX)Conference: Make sure to enter the correct conference title from your rights confirmation email; June 03–05, 2018; Woodstock](https://arxiv.org/abs/2505.11079) | Hao Gu | arXiv |  |
+| 2025 | [ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection](https://arxiv.org/abs/2505.11079) · [📝 요약](../summaries/allm4add-unlocking-the-capabilities-of-audio-large-language-models-for-audio-dee.md) | Hao Gu | arXiv |  |
 | 2025 | [DFALLM: Achieving Generalizable Multitask Deepfake Detection by Optimizing Audio LLM Components](https://arxiv.org/abs/2512.08403) · [📝 요약](../summaries/dfallm-achieving-generalizable-multitask-deepfake-detection-by-optimizing-audio.md) | Yupei Li | arXiv |  |
-| 2025 | [Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection](https://arxiv.org/abs/2601.00777) · [📝 요약](../summaries/investigating-the-viability-of-employing-multi-modal-large-language-models-in-th.md) | Akanksha Chuchra et al. | 2025 IEEE International Joint Conference on Biometrics (IJCB) | 0 |

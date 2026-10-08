@@ -1,28 +1,12 @@
 # Attentive Filtering Networks for Audio Replay Attack Detection
 
-> ⚠ AI-generated summary (local LLM, **Korean**, unverified) — auto-generated from the paper, not fact-checked. Verify against the source.
+> Claude 분석 노트(wiki)의 한 줄 요약 — one-line summary from a Claude analysis note of the paper; verify against the source.
 
 **arXiv:** https://arxiv.org/abs/1810.13048 · Cheng-I Lai et al. · 2018
 
-## 한 줄 요약
+## 한 줄
 
-본 논문에서는 시간 및 주파수 영역의 특징을 효과적으로 활용하여 오디오 재연 공격을 탐지하는 Attentive Filtering Network(AFN)을 제안합니다.
-
-## 문제 정의
-
-자동 음성 확인(ASV) 시스템은 음성 지원 및 스마트 홈 기기 확산과 함께 중요해지고 있지만, 공격자가 실제 사용자의 음성 특징을 모방하여 시스템을 속이는 Presentation 공격에 취약할 수 있습니다. 특히 ASRspoof 2017 챌린지는 재연 공격에 초점을 맞추고 있으며, 이러한 공격에 대한 탐지 기술 개발이 필요합니다.
-
-## 제안 방법
-
-본 논문에서는 시간 및 주파수 영역의 특징을 강화하는 Attention 메커니즘 기반 필터와 Dilated Residual Network(DRN) 기반 분류기를 결합한 Attentive Filtering Network(AFN)을 제안합니다. AF는 스펙트로그램의 시간-주파수 정보를 활용하여 중요한 특징을 강조하고, DRN은 이러한 강화된 특징을 효과적으로 학습합니다.
-
-## 실험·결과
-
-실험은 ASRspoof 2017 버전 2.0 데이터셋에서 수행되었으며, 제안하는 AFN은 단일 시스템에서 8.99%의 평가 EER을 달성했습니다. 또한, 다양한 활성화 함수를 적용하고 여러 AF 시스템을 융합한 결과, 30% 이상의 성능 향상을 얻을 수 있었습니다. 특히, AF와 SoftmaxT를 융합한 시스템이 가장 좋은 성능을 보였습니다.
-
-## 한계
-
-본 연구는 ASRspoof 2017 버전 2.0 데이터셋에 국한되어 있으며, 실제 환경에서의 다양한 공격 유형 및 데이터 분포에 대한 일반화 성능은 추가적인 검증이 필요합니다. 또한, Attention 메커니즘의 해석 가능성을 높이기 위한 추가적인 연구가 필요합니다.
+logspec 입력에 U-net형 attention 필터(AF)를 붙인 뒤 Dilated Residual Network(DRN)로 분류해, ASVspoof 2017 V2.0 eval에서 단일 시스템 EER 8.99%를 얻었다.
 
 ---
 _Part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · AI-generated summary, unverified._
