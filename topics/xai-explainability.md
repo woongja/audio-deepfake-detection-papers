@@ -1,6 +1,6 @@
 # Explainability & Attribution
 
-> 104 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 108 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-08
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -102,9 +102,13 @@
 | 2023 | [DSVAE: Interpretable Disentangled Representation for Synthetic Speech Detection](https://arxiv.org/abs/2304.03323) · [📝 요약](../summaries/dsvae-interpretable-disentangled-representation-for-synthetic-speech-detection.md) | Amit Kumar Singh Yadav et al. | arXiv.org | 10 |
 | 2023 | [The Clever Hans Effect in Voice Spoofing Detection](https://www.semanticscholar.org/paper/56745bea5790f6c288398f8ac117a76526d2b20e) | Bhusan Chettri | Spoken Language Technology Workshop | 8 |
 | 2023 | [Generalized Spoof Detection and Incremental Algorithm Recognition for Voice Spoofing](https://www.semanticscholar.org/paper/25e2c52cd62e00d3489ffa5733c9ba16ad50fc6c) | Jinlin Guo et al. | Applied Sciences | 6 |
-| 2022 | [An Initial Investigation for Detecting Vocoder Fingerprints of Fake Audio](https://arxiv.org/abs/2208.09646) · [📝 요약](../summaries/an-initial-investigation-for-detecting-vocoder-fingerprints-of-fake-audio.md) | Xin Yan et al. | DDAM@MM | 47 |
+| 2022 | [An Initial Investigation for Detecting Vocoder Fingerprints of Fake Audio](https://arxiv.org/abs/2208.09646) · [📝 요약](../summaries/an-initial-investigation-for-detecting-vocoder-fingerprints-of-fake-audio.md) | Xin Yan et al. | DDAM '22 (1st International Workshop on Deepfake Detection for Audio Multimedia) | 47 |
 | 2022 | [Source Tracing: Detecting Voice Spoofing](https://arxiv.org/abs/2212.08601) · [📝 요약](../summaries/source-tracing-detecting-voice-spoofing.md) | Tinglong Zhu et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 22 |
 | 2022 | [Exploring the Synthetic Speech Attribution Problem Through Data-Driven Detectors](https://www.semanticscholar.org/paper/d5876edd93aa4c51044df02bb834db8b7d1944bd) | Davide Salvi et al. | International Workshop on Information Forensics and Security | 18 |
+| 2021 | [Investigating self-supervised front ends for speech spoofing countermeasures](https://arxiv.org/abs/2111.07725) · [📝 요약](../summaries/investigating-self-supervised-front-ends-for-speech-spoofing-countermeasures.md) | Xin Wang et al. | The Speaker and Language Recognition Workshop | 190 |
 | 2021 | [Speech is Silver, Silence is Golden: What do ASVspoof-trained Models Really Learn?](https://arxiv.org/abs/2106.12914) · [📝 요약](../summaries/speech-is-silver-silence-is-golden-what-do-asvspoof-trained-models-really-learn.md) | N. Müller et al. | 2021 Edition of the Automatic Speaker Verification and Spoofing Countermeasures Challenge | 93 |
 | 2021 | [Secure Automatic Speaker Verification (SASV) System Through sm-ALTP Features and Asymmetric Bagging](https://www.semanticscholar.org/paper/6583239ed1f9637d4eea8c5563aa13d719b712d5) | Muteb Aljasem et al. | IEEE Transactions on Information Forensics and Security | 35 |
+| 2021 | [Efficient Attention Branch Network with Combined Loss Function for Automatic Speaker Verification Spoof Detection](https://arxiv.org/abs/2109.02051) · [📝 요약](../summaries/efficient-attention-branch-network-with-combined-loss-function-for-automatic-spe.md) | A. Rostami et al. | Circuits, systems, and signal processing | 13 |
+| 2021 | [Data Quality as Predictor of Voice Anti-Spoofing Generalization](https://arxiv.org/abs/2103.14602) · [📝 요약](../summaries/data-quality-as-predictor-of-voice-anti-spoofing-generalization.md) | Bhusan Chettri et al. | Interspeech | 9 |
 | 2020 | [An explainability study of the constant Q cepstral coefficient spoofing countermeasure for automatic speaker verification](https://arxiv.org/abs/2004.06422) · [📝 요약](../summaries/an-explainability-study-of-the-constant-q-cepstral-coefficient-spoofing-counterm.md) | Hemlata Tak et al. | The Speaker and Language Recognition Workshop | 52 |
+| 2020 | [Dataset artefacts in anti-spoofing systems: a case study on the ASVspoof 2017 benchmark](https://arxiv.org/abs/2010.07913) · [📝 요약](../summaries/dataset-artefacts-in-anti-spoofing-systems-a-case-study-on-the-asvspoof-2017-ben.md) | Bhusan Chettri et al. | IEEE/ACM Transactions on Audio Speech and Language Processing | 34 |

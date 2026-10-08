@@ -1,28 +1,12 @@
 # Speech is Silver, Silence is Golden: What do ASVspoof-trained Models Really Learn?
 
-> ⚠ AI-generated summary (local LLM, **Korean**, unverified) — auto-generated from the paper, not fact-checked. Verify against the source.
+> Claude 분석 노트(wiki)의 한 줄 요약 — one-line summary from a Claude analysis note of the paper; verify against the source.
 
 **arXiv:** https://arxiv.org/abs/2106.12914 · N. Müller et al. · 2021
 
-## 한 줄 요약
+## 한 줄
 
-ASVspoof 2019 데이터셋의 선행 침묵 길이 분포의 불균형이 모델이 선행 침묵 길이에 의존하여 보디파이드/스포프 식별을 학습할 가능성을 야기하며, 이는 관련 연구의 일반화에 어려움을 초래할 수 있습니다.
-
-## 문제 정의
-
-ASVspoof 2019 데이터셋에는 보디파이드와 스포프 음성 데이터가 혼합되어 있으며, 특히 선행 침묵의 길이가 이러한 두 유형의 데이터 간의 구별에 유용한 정보를 제공하는 것으로 나타났습니다. 이는 모델이 실제 음성 특징보다는 선행 침묵의 길이에 의존하여 학습할 가능성을 시사하며, 이는 보디파이드/스포프 식별 시스템의 일반화에 부정적인 영향을 미칠 수 있습니다.
-
-## 제안 방법
-
-본 연구에서는 ASVspoof 2019 데이터셋의 선행 침묵 길이를 변경하여 모델을 훈련하고 평가하는 실험을 수행했습니다. 이를 통해 모델이 선행 침묵 길이에 얼마나 의존하는지, 그리고 선행 침묵을 제거했을 때 모델의 성능이 어떻게 변화하는지 분석했습니다.
-
-## 실험·결과
-
-선행 침묵 길이에만 의존하여 훈련된 간단한 FCNN 모델은 15.12%의 EER을 달성했습니다. 이는 무작위 모델의 50% EER보다 훨씬 뛰어난 성능입니다. 반면, 훈련 시 선행 침묵을 제거하면 ResNet, LSTM, CNN-GRU와 같은 강력한 모델의 EER이 크게 증가했습니다. 특히, 2021년 데이터셋에서도 이러한 경향이 관찰되었으며, 모델의 성능이 5배 이상 저하되는 결과도 나타났습니다.
-
-## 한계
-
-본 연구는 ASVspoof 2019 데이터셋의 선행 침묵 길이 분포의 불균형이 모델 학습에 미치는 영향을 분석하는 데 초점을 맞추었습니다. 따라서 실제 음성 특징과 같은 다른 요인들이 모델 성능에 미치는 영향은 자세히 다루지 않았습니다. 또한, 본 연구에서 제안한 해결책(데이터셋 재배포 또는 데이터 증강)의 구체적인 방법론은 제시하지 않았습니다.
+ASVspoof 2019 LA에서는 앞뒤 무음 길이가 정답 라벨과 강하게 상관되어 있다. 무음 길이 하나만 입력해도 Eval EER 15.12%가 나오고, 무음을 잘라내면 RawNet2 등 기존 모델의 EER이 약 5배로 뛴다.
 
 ---
 _Part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · AI-generated summary, unverified._

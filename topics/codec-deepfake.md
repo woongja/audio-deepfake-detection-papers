@@ -1,6 +1,6 @@
 # Neural Codec Deepfakes
 
-> 27 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 30 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-08
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -31,3 +31,6 @@
 | 2024 | [Leveraging Neural Vocoder Artifacts for Improved Synthetic Speech Detection](https://www.semanticscholar.org/paper/51cc58f354d8c8eec9532dc4e253c77199eb2e9d) | Jingxi Xue et al. | International Conference on Sensors, Signal and Image Processing | 2 |
 | 2024 | [The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio](https://arxiv.org/abs/2405.04880) · [📝 요약](../summaries/the-codecfake-dataset-and-countermeasures-for-the-universally-detection-of-deepf.md) | Yuankun Xie | arXiv |  |
 | 2023 | [ASSD: Synthetic Speech Detection in the AAC Compressed Domain](https://www.semanticscholar.org/paper/ed2e63a5ca30599df2cda0414373719446f11c26) | Amit Kumar Singh Yadav et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 13 |
+| 2022 | [CFAD: A Chinese Dataset for Fake Audio Detection](https://arxiv.org/abs/2207.12308) · [📝 요약](../summaries/cfad-a-chinese-dataset-for-fake-audio-detection.md) | Haoxin Ma et al. | Speech Communication | 66 |
+| 2022 | [Low Pass Filtering and Bandwidth Extension for Robust Anti-spoofing Countermeasure Against Codec Variabilities](https://arxiv.org/abs/2211.06546) · [📝 요약](../summaries/low-pass-filtering-and-bandwidth-extension-for-robust-anti-spoofing-countermeasu.md) | Yikang Wang et al. | International Symposium on Chinese Spoken Language Processing | 5 |
+| 2021 | [ASVspoof 2021: accelerating progress in spoofed and deepfake speech detection](https://arxiv.org/abs/2109.00537) · [📝 요약](../summaries/asvspoof-2021-accelerating-progress-in-spoofed-and-deepfake-speech-detection.md) | J. Yamagishi et al. | ASVspoof 2021 Workshop (INTERSPEECH satellite) | 519 |

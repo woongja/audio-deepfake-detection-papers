@@ -1,28 +1,12 @@
 # Efficient Attention Branch Network with Combined Loss Function for Automatic Speaker Verification Spoof Detection
 
-> ⚠ AI-generated summary (local LLM, **Korean**, unverified) — auto-generated from the paper, not fact-checked. Verify against the source.
+> Claude 분석 노트(wiki)의 한 줄 요약 — one-line summary from a Claude analysis note of the paper; verify against the source.
 
 **arXiv:** https://arxiv.org/abs/2109.02051 · A. Rostami et al. · 2021
 
-## 한 줄 요약
+## 한 줄
 
-본 논문은 ASR 시스템의 스포프 탐지에 효율적인 attention branch 네트워크(EABN) 아키텍처와 combined loss function을 제안하며, 특히 EfficientNet-A0 모델과 LFCC feature를 사용하여 Logical Access scenario에서 최첨단 성능을 달성했습니다.
-
-## 문제 정의
-
-자동 음성 인식(ASR) 시스템은 스포프 공격에 취약하며, 이는 원본 화자의 음성을 녹음하거나 변조하는 등의 방식으로 시스템을 속이는 행위를 의미합니다. 기존의 ASR 시스템은 이러한 스포프 공격에 대한 일반화 능력이 부족하고, 스포프 탐지 성능이 낮다는 문제가 있습니다. 또한, 기존 연구들은 스포프 탐지 메커니즘의 해석 가능성이 낮고, 다양한 공격 유형에 대한 포괄적인 처리를 제공하지 못하는 경향이 있습니다.
-
-## 제안 방법
-
-본 연구에서는 ASR 시스템의 스포프 탐지 성능을 향상시키기 위해 Efficient Attention Branch Network (EABN)이라는 새로운 모듈형 아키텍처를 제안합니다. EABN은 attention branch와 perception branch로 구성되며, attention branch는 인간의 인지 과정을 모방하여 분류 성능 향상에 기여하고, perception branch는 스포프 탐지를 주요 목적으로 합니다. 특히, perception branch에는 연산량이 적고 효율적인 EfficientNet-A0 아키텍처를 사용합니다. 또한, ASR 시스템과 스포프 탐지 시스템의 통합을 용이하게 하기 위해 combined loss function을 도입합니다.
-
-## 실험·결과
-
-제안하는 EABN 아키텍처와 combined loss function은 ASVspoof 2019 데이터셋을 사용하여 실험되었습니다. 실험은 Physical Access (PA) 및 Logical Access (LA) 두 가지 시나리오에서 수행되었으며, LogPowSpec 및 LFCC feature를 입력으로 사용했습니다. 실험 결과, LA 시나리오에서 LFCC feature, EfficientNet-A0, combined loss function 조합이 EER 1.89%, t-DCF 0.507을 달성하여 기존 연구 중 가장 우수한 성능을 보였습니다. PA 시나리오에서는 LogPowSpec feature, EfficientNet-A0, combined loss function 조합이 EER 0.86%, t-DCF 0.0239를 달성하여 기존 모델의 90% 이상을 능가하는 성능을 나타냈습니다.
-
-## 한계
-
-본 연구에서 제안한 모델은 특정 feature에 더 민감하게 반응할 수 있으며, 모든 유형의 스포프 공격에 대해 동일한 성능을 보장하지 않을 수 있습니다. 또한, combined loss function의 하이퍼파라미터 튜닝이 필요하며, 실제 환경에서의 성능 검증이 추가적으로 요구될 수 있습니다. 더불어, attention mask의 해석 가능성을 높이기 위한 추가적인 연구가 필요합니다.
+Attention Branch Network를 음성 spoof 탐지에 옮긴 EABN을 제안한다. 경량 EfficientNet-A0 perception branch, Triplet Center Loss 중심의 combined loss를 결합해 ASVspoof 2019 PA에서 EER 0.86%, LA에서 EER 1.89%를 냈다.
 
 ---
 _Part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · AI-generated summary, unverified._

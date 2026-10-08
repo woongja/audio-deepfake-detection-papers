@@ -1,6 +1,6 @@
 # Cross-Domain & Multimodal
 
-> 28 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-07
+> 29 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-08
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@
 | 2023 | [Cross-modal information fusion for voice spoofing detection](https://www.semanticscholar.org/paper/a5aef509f0bde2c058c9f12eab51cd76644df359) | Junxiao Xue et al. | Speech Communication | 25 |
 | 2022 | [Detection of Morphed Face, Body, Audio signals using Deep Neural Networks](https://www.semanticscholar.org/paper/a13b10d6299e83c151a080de69a3590ed2c667fb) | Dheeraj Gharde et al. | 2022 IEEE 7th International conference for Convergence in Technology (I2CT) | 0 |
 | 2021 | [Audio-Visual Biometric Recognition and Presentation Attack Detection: A Comprehensive Survey](https://arxiv.org/abs/2101.09725) · [📝 요약](../summaries/audio-visual-biometric-recognition-and-presentation-attack-detection-a-comprehen.md) | Hareesh Mandalapu et al. | IEEE Access | 39 |
+| 2021 | [Physiological-Physical Feature Fusion for Automatic Voice Spoofing Detection](https://arxiv.org/abs/2109.00913) · [📝 요약](../summaries/physiological-physical-feature-fusion-for-automatic-voice-spoofing-detection.md) | Junxiao Xue et al. | Frontiers of Computer Science | 18 |
 | 2020 | [Recurrent Convolutional Structures for Audio Spoof and Video Deepfake Detection](https://www.semanticscholar.org/paper/87568d5e64bc7ff95e7c6cb0df11cb150ebb0d7f) | Akash Chintha et al. | IEEE Journal on Selected Topics in Signal Processing | 184 |
 | 2020 | [Video and audio deepfakes detection using Deep Learning](https://www.semanticscholar.org/paper/3808d76bcec74685a254ddd430bb01b74be73b89) | D. Bing et al. |  | 0 |
 | 2019 | [Smartphone Multi-modal Biometric Authentication: Database and Evaluation](https://arxiv.org/abs/1912.02487) · [📝 요약](../summaries/smartphone-multi-modal-biometric-authentication-database-and-evaluation.md) | Raghavendra Ramachandra et al. | arXiv.org | 21 |

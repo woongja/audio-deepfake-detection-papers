@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1266-blue) ![updated](https://img.shields.io/badge/updated-2026--10--07-green)
+![papers](https://img.shields.io/badge/papers-1266-blue) ![updated](https://img.shields.io/badge/updated-2026--10--08-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,19 +8,19 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (162)
-- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (426)
-- [Detection Architectures & Encoders](topics/architectures.md) (143)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (164)
+- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (455)
+- [Detection Architectures & Encoders](topics/architectures.md) (144)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (28)
 - [LLM-Based Detection](topics/llm-based.md) (23)
-- [Explainability & Attribution](topics/xai-explainability.md) (104)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (130)
-- [Generalization & OOD](topics/generalization-ood.md) (271)
-- [Neural Codec Deepfakes](topics/codec-deepfake.md) (27)
-- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (51)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (184)
-- [Training Strategies](topics/training-strategies.md) (182)
-- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (28)
+- [Explainability & Attribution](topics/xai-explainability.md) (108)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (139)
+- [Generalization & OOD](topics/generalization-ood.md) (282)
+- [Neural Codec Deepfakes](topics/codec-deepfake.md) (30)
+- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (52)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (191)
+- [Training Strategies](topics/training-strategies.md) (197)
+- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (29)
 
 ## Latest 30 Papers
 
@@ -65,9 +65,9 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 |---|---|
 | 2026 | 241 |
 | 2025 | 276 |
-| 2024 | 192 |
-| 2023 | 135 |
-| 2022 | 111 |
+| 2024 | 193 |
+| 2023 | 137 |
+| 2022 | 108 |
 | 2021 | 76 |
 | 2020 | 65 |
 | 2019 | 67 |
