@@ -1,41 +1,12 @@
 # Probing Speaker Identity Sensitivity in Audio Deepfake Detectors
 
-> ⚠ AI-generated summary (local LLM, **Korean**, unverified) — auto-generated from the paper, not fact-checked. Verify against the source.
+> Claude 분석 노트(wiki)의 한 줄 요약 — one-line summary from a Claude analysis note of the paper; verify against the source.
 
 **arXiv:** https://arxiv.org/abs/2607.21820 · Daniyal Kabir Dar · 2026
 
-## 한 줄 요약
+## 한 줄
 
-본 연구에서는 음성 변조된 오디오의 화자 식별자 변화에 따른 음성 위조 탐지기의 예측 점수 변화(ISS)를 측정하는 새로운 방법론을 제안합니다. ISS는 오류 예측 및 화자 식별자 의존성 분석에 유용하며, 음성 위조 탐지기의 안정성 평가에 기여합니다.
-
-## 문제 정의
-
-음성 위조 탐지기는 실제 음성과 합성 음성을 구분하는 역할을 하지만, 동일한 탐지기가 데이터셋에 따라 성능이 크게 달라지는 문제가 있습니다. 이는 탐지기가 합성 음성 특징뿐만 아니라 화자 식별자와 같은 다른 정보에 의존할 수 있기 때문입니다. 본 연구는 이러한 화자 식별자 의존성이 탐지기의 성능 저하에 미치는 영향을 분석하고, 이를 측정할 수 있는 방법을 제시합니다.
-
-## 제안 방법
-
-본 연구에서는 Identity Sensitivity Score (ISS)라는 새로운 지표를 제안합니다. ISS는 동일한 오디오 샘플에 다양한 화자 식별자를 적용하고, 탐지기의 예측 점수 변화를 측정하여 계산됩니다. ISS 값은 탐지기가 화자 식별자에 얼마나 민감하게 반응하는지를 나타내며, 높은 ISS 값은 오류로 분류될 가능성이 높다는 것을 의미합니다. ISS는 추론 시 오류 예측, 화자 민감성 감사, 분포 변화 모니터링 등에 활용될 수 있습니다.
-
-## 실험·결과
-
-본 연구에서는 AASIST와 RawNet2 두 가지 음성 위조 탐지기에 대해 ISS를 실험했습니다. 실험 데이터셋은 AVSpoof 2019 LA와 AVSpoof 2021 LA 두 가지입니다.
-
-* **ISS 값:** 오류로 분류된 샘플은 올바르게 분류된 샘플보다 29배에서 52배 높은 ISS 값을 보였습니다.
-* **AUC:** ISS를 오류 예측 지표로 사용했을 때 AUC는 최대 0.954였습니다.
-* **음성 변환 실험:** ISS 값이 높은 샘플은 음성 변환 시 더 큰 변화를 보였으며, 이는 화자 식별자에 민감하게 반응한다는 것을 의미합니다.
-* **음성 변조 방식:** TTS와 VC 모두에서 ISS는 일관된 결과를 보였습니다.
-* **Ablation Study:** ISS 값의 안정성은 실험에 사용된 화자 수(K)와 α 값에 대해 일관되게 나타났습니다.
-
-## 한계
-
-본 연구는 ISS가 화자 식별자 의존성을 측정하는 효과적인 방법임을 보여주지만, ISS 값이 높은 이유가 항상 화자 식별자 의존성 때문이라고 단정하기는 어렵습니다. 또한, ISS는 음성 위조 탐지기의 전반적인 성능을 평가하는 지표가 아니며, 다른 성능 지표와 함께 고려되어야 합니다.
-
-## 참고
-
-* **Figure 1:** ISS 개념도
-* **Table 5:** 공격 유형별 ISS 비율
-* **Table 6:** K 값에 따른 ISS 안정성
-* **Table 7:** α 값에 따른 ISS 변화
+화자 정체성 문맥을 바꿔 detector 점수의 IQR을 재는 label-free 진단 ISS를 제안했고, 2019 LA에서 AASIST 오분류를 AUC 0.954로 예측했다.
 
 ---
 _Part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · AI-generated summary, unverified._

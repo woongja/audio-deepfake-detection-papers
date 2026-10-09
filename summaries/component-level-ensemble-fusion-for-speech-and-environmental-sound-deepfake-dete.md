@@ -1,28 +1,12 @@
 # Component-Level Ensemble Fusion for Speech and Environmental Sound Deepfake Detection
 
-> ⚠ AI-generated summary (local LLM, **Korean**, unverified) — auto-generated from the paper, not fact-checked. Verify against the source.
+> Claude 분석 노트(wiki)의 한 줄 요약 — one-line summary from a Claude analysis note of the paper; verify against the source.
 
 **arXiv:** https://arxiv.org/abs/2607.16369 · André Runewicz et al. · 2026
 
-## 한 줄 요약
+## 한 줄
 
-본 논문에서는 환경음 및 스피치 디테이크 감지를 위한 컴포넌트 수준의 앙상블 융합 시스템을 제안합니다. 네 개의 사전 훈련된 anti-spoofing 모델을 활용하여 각 컴포넌트의 진위 여부를 독립적으로 판단하고, 이를 융합하여 최종 분류 성능을 높였습니다.
-
-## 문제 정의
-
-음성 디테이크는 디지털 커뮤니케이션의 신뢰성을 위협하는 심각한 문제입니다. 최근 음성 합성 및 변환 기술의 발전으로 짧은 오디오 샘플만으로도 설득력 있는 합성 음성을 생성하는 것이 용이해졌습니다. 특히 실제 환경 오디오는 스피치와 환경음으로 구성되며, 이 두 컴포넌트가 독립적으로 조작될 수 있습니다. 이러한 컴포넌트 수준의 조작은 기존의 발화 수준 디테이크보다 더 어렵습니다. ESDD2 챌린지는 스피치와 환경음 컴포넌트의 진위 여부를 분류하는 문제를 다루며, 훈련 및 검증 세트와 평가 및 테스트 세트의 분포 차이로 인해 일반화 성능이 중요합니다.
-
-## 제안 방법
-
-본 논문에서는 ESDD2 챌린지에서 제시된 문제에 대응하기 위해 컴포넌트 수준의 앙상블 시스템을 제안합니다. 기존의 5개 클래스 분류 문제를 원래 오디오, 스피치, 환경음, 스피치 디테이크, 환경음 디테이크의 5가지 이진 분류 문제로 분해합니다. 각 오디오 웨이브폼에 대해 원래 오디오 여부, 스피치 진위 여부, 환경음 진위 여부를 추정하는 세 가지 컴포넌트 수준의 양을 계산합니다. 네 개의 공개된 사전 훈련된 anti-spoofing 모델(XLSR-Mamba, DF-Arena, SLS, TCM-ADD)을 사용하고, 각 모델에 원래, 스피치, 환경음 감지를 위한 세 개의 이진 헤드를 추가하여 미세 조정합니다. 또한, RawBoost를 사용하여 모델을 변형하고, 선택된 체크포인트를 마진 공간 점수 융합을 통해 결합합니다. 마지막으로, 헤드 및 클래스 편향 보정을 적용하여 5개 클래스 최종 의사 결정을 개선합니다.
-
-## 실험·결과
-
-제안된 컴포넌트 수준 앙상블 시스템은 ESDD2 평가 세트에서 0.7715의 마크로-F1 점수를, 테스트 세트에서 0.7828의 마크로-F1 점수를 달성했습니다. 이는 31개 팀 중 5위의 순위이며, 공식 벤치마크 대비 상당한 성능 향상을 보여줍니다. 특히, 컴포넌트 수준 융합은 개별 모델보다 더 나은 성능을 보였으며, 헤드 및 클래스 편향 보정은 추가적인 성능 향상을 가져왔습니다.
-
-## 한계
-
-본 연구는 컴포넌트 수준의 디테이크 감지에 초점을 맞추고 있으며, 다른 유형의 디테이크 공격이나 복잡한 오디오 환경에서의 성능은 충분히 검증되지 않았습니다. 또한, 앙상블 시스템은 여러 모델을 동시에 실행해야 하므로 계산 비용이 높다는 단점이 있습니다. 훈련 및 검증 세트와 평가 및 테스트 세트의 분포 차이로 인해 실제 환경에서의 일반화 성능은 추가적인 검증이 필요합니다.
+사전학습 ADD 모델 4종을 original/speech/environment 3개 binary head로 파인튜닝하고 head별 가중 margin 융합을 적용해, ESDD2 test macro-F1 0.7828로 5위를 기록했다.
 
 ---
 _Part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · AI-generated summary, unverified._

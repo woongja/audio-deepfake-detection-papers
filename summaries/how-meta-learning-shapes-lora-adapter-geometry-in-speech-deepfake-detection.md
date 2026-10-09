@@ -1,28 +1,12 @@
 # How Meta-Learning Shapes LoRA Adapter Geometry in Speech Deepfake Detection
 
-> ⚠ AI-generated summary (local LLM, **Korean**, unverified) — auto-generated from the paper, not fact-checked. Verify against the source.
+> Claude 분석 노트(wiki)의 한 줄 요약 — one-line summary from a Claude analysis note of the paper; verify against the source.
 
 **arXiv:** https://arxiv.org/abs/2607.22010 · Ivan Kukanov et al. · 2026
 
-## 한 줄 요약
+## 한 줄
 
-본 논문은 학습 목표가 어댑터의 기하학적 구조에 미치는 영향을 분석하는 새로운 방법론을 제시하고, 이를 통해 Meta-Learning for Domain Generalization (MLDG)이 손실 관련 용량을 쿼리 및 키 투영에 집중시키고 출력 투영에 분산시키는 특징을 확인했다.
-
-## 문제 정의
-
-음성 디프페이크 탐지는 합성된 음성 생성기들의 특징적인 아티팩트를 감지하는 문제이며, 새로운 생성기가 등장함에 따라 기존에 학습된 특징이 더 이상 유효하지 않을 수 있다. 따라서 탐지기는 다양한 생성기에서 공통적으로 나타나는 특징을 학습해야 하는 도메인 일반화 문제이다. 기존 연구에서는 오류율을 통해 학습 목표의 효과를 평가했지만, 학습된 어댑터의 실제 기하학적 구조는 제대로 분석되지 않았다.
-
-## 제안 방법
-
-본 논문에서는 학습된 LoRA 어댑터의 기하학적 구조를 분석하기 위해, 학습 목표를 변경하면서 어댑터의 효과적인 랭크를 측정하는 새로운 방법론을 제안한다. 이는 학습된 어댑터가 초기화로부터 얼마나 변화했는지, 그리고 그 변화가 손실에 얼마나 민감한지를 파악하는 데 사용된다. 특히, empirical Fisher와 effective rank를 결합하여 어댑터 업데이트의 손실 민감도를 분석하고, 이를 통해 학습 목표가 어댑터의 어떤 부분을 어떻게 변화시키는지 시각적으로 보여준다.
-
-## 실험·결과
-
-본 연구에서는 음성 디프페이크 탐지 태스크를 사용하여 제안된 방법론을 실험했다. ASVspoof 2019 LA Eval, ASVspoof 2021 LA, ASVspoof 5, InTheWild, FakeAVCeleb 등 다양한 코퍼스를 사용하여 leave-one-domain-out 방식으로 실험을 진행했다. 실험 결과, MLDG를 사용한 경우 ERM을 사용한 경우에 비해 쿼리 및 키 투영에서 손실 관련 업데이트가 집중되고, 출력 투영에서는 분산되는 경향이 두드러지게 나타났다. 이러한 패턴은 6개의 코퍼스에서 일관적으로 관찰되었으며, 특히 상위 레이어에서 더욱 강하게 나타났다. 또한, LoRA 요소들을 효과적인 업데이트에 통합해도 동일한 패턴이 유지되는 것을 확인했다.
-
-## 한계
-
-본 연구는 학습 목표와 어댑터 기하학적 구조 간의 상관관계를 보여주는 데 초점을 맞추고 있으며, 제안된 방법론이 모든 학습 목표 및 모델 아키텍처에 적용될 수 있을지는 추가적인 연구가 필요하다. 또한, 관찰된 어댑터 기하학적 변화가 실제 out-of-distribution 성능 향상의 원인인지, 아니면 단순히 부수적인 현상인지는 본 연구의 한계점이다. 더 나아가, 단일 코퍼스에서의 분석은 일반화된 결론을 내리기에는 부족할 수 있다.
+동일한 LoRA 구조에서 ERM과 MLDG의 학습 목적만 바꿔 Fisher 유효 랭크를 비교했고, MLDG는 q/k_proj를 약 19% 집중시키고 out_proj를 29.4% 분산시켰다.
 
 ---
 _Part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · AI-generated summary, unverified._

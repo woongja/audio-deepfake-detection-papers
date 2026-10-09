@@ -1,28 +1,12 @@
 # Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil
 
-> ⚠ AI-generated summary (local LLM, **Korean**, unverified) — auto-generated from the paper, not fact-checked. Verify against the source.
+> Claude 분석 노트(wiki)의 한 줄 요약 — one-line summary from a Claude analysis note of the paper; verify against the source.
 
 **arXiv:** https://arxiv.org/abs/2607.28770 · Lucas Rafael Gris · 2026
 
-## 한 줄 요약
+## 한 줄
 
-본 논문은 브라질 국회의원 회의 녹음을 기반으로 구축된 2,000개의 유창한 발언 데이터셋(ParlaSpoof-BR)을 소개하며, 기존 오디오 딥페이크 탐지기의 성능을 평가하고, 특히 브라질 포르투갈어 정치 발언에 대한 편향성을 분석한다.
-
-## 문제 정의
-
-정치적 허위 정보는 민주적 과정에 지속적인 위협이 되며, 선거 제도에 대한 신뢰를 약화시키고 유권자의 인식과 신념에 영향을 미친다. 최근 생성 AI 기술의 발전으로 인해 허위 콘텐츠 제작 비용이 낮아지면서 이러한 위협은 더욱 심각해지고 있다. 특히 정치인의 목소리를 위조하는 오디오 딥페이크는 허위 정보가 언론과 사실 확인 기관의 대응 전에 대중의 의견 형성에 영향을 미칠 수 있다는 점에서 우려된다. 이러한 위험은 2022년 브라질 선거와 2026년 대통령 선거에서 AI 기반 정치 오디오 조작 사례를 통해 더욱 명확해졌다.
-
-## 제안 방법
-
-본 연구에서는 브라질 국회의원 회의 녹음을 활용하여 오디오 딥페이크 벤치마크 데이터셋인 ParlaSpoof-BR을 구축하였다. 이 데이터셋은 TTS, voice conversion, 의미론적 부분 조작 등 다양한 공격 시나리오를 포함하며, 성별 및 지역별 균형을 유지하도록 설계되었다. 또한, 기존 딥페이크 탐지기의 성능을 평가하고, 브라질 포르투갈어 정치 발언에 대한 편향성을 분석하기 위한 다양한 실험을 수행하였다. 특히, 기존 벤치마크 데이터셋의 한계를 극복하고 실제 환경에 더 가까운 데이터셋을 제공하는 데 중점을 두었다.
-
-## 실험·결과
-
-ParlaSpoof-BR 데이터셋을 사용하여 최첨단 오디오 딥페이크 탐지기들을 평가한 결과, 기존 시스템들이 다양한 인구 통계학적 특성을 가진 발언에 대해 일관성 없는 판단을 내리는 경향을 보였다. 이는 데이터셋 구축 시 사용된 TTS 모델의 선택이나 조작의 정도와 같은 메타데이터 요인이 인구 통계학적 차이보다 더 큰 영향을 미치는 것으로 나타났다. 또한, 기존 탐지기들은 실제 오디오 환경에서 성능이 크게 저하되는 경향을 보였으며, 특히 브라질 포르투갈어의 지역적 변이성에 대한 탐지 능력은 부족한 것으로 확인되었다.
-
-## 한계
-
-본 연구는 브라질 정치 발언에 특화된 딥페이크 탐지 벤치마크를 제공하지만, 데이터셋의 규모가 상대적으로 작고, 다양한 종류의 조작 기법을 포괄하지 못할 수 있다. 또한, 기존 탐지기들의 편향성 분석은 특정 모델 및 공격 유형에 국한될 수 있으며, 실제 사회적 영향에 대한 심층적인 분석은 이루어지지 않았다. 향후 연구에서는 더 다양한 데이터셋 구축과 함께, 실제 환경에서의 탐지 성능 향상을 위한 다양한 기술 개발이 필요하다.
+브라질 의회 연설 기반 ParlaSpoof-BR(TTS·VC·부분 변조)을 만들어 평가한 결과, DF-Arena-1B도 EER 32.30%에 그쳤고 성별·지역 편향보다 합성 모델·변조 비율의 영향이 컸다.
 
 ---
 _Part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · AI-generated summary, unverified._

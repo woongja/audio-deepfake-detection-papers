@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1381-blue) ![updated](https://img.shields.io/badge/updated-2026--10--09-green)
+![papers](https://img.shields.io/badge/papers-1382-blue) ![updated](https://img.shields.io/badge/updated-2026--10--10-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,19 +8,19 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (195)
-- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (491)
-- [Detection Architectures & Encoders](topics/architectures.md) (170)
-- [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (28)
-- [LLM-Based Detection](topics/llm-based.md) (20)
-- [Explainability & Attribution](topics/xai-explainability.md) (99)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (138)
-- [Generalization & OOD](topics/generalization-ood.md) (331)
-- [Neural Codec Deepfakes](topics/codec-deepfake.md) (54)
-- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (72)
-- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (272)
-- [Training Strategies](topics/training-strategies.md) (274)
-- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (55)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (212)
+- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (495)
+- [Detection Architectures & Encoders](topics/architectures.md) (173)
+- [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (29)
+- [LLM-Based Detection](topics/llm-based.md) (22)
+- [Explainability & Attribution](topics/xai-explainability.md) (101)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (126)
+- [Generalization & OOD](topics/generalization-ood.md) (363)
+- [Neural Codec Deepfakes](topics/codec-deepfake.md) (56)
+- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (74)
+- [Datasets & Benchmarks](topics/datasets-benchmarks.md) (282)
+- [Training Strategies](topics/training-strategies.md) (300)
+- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (70)
 
 ## Latest 30 Papers
 
@@ -28,12 +28,13 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
-| 2026-10-07 | [DuRe-ST: Dual-Relation Spectro-Temporal Modeling for Speech Deepfake Detection](https://arxiv.org/abs/2610.10121) | Shaole Li et al. |  |  |
-| 2026-10-07 | [Source-Directed Trajectory Perturbation at First-Order Cost for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2610.10094) | Siqing Qin et al. |  |  |
+| 2026-10-07 | [Detection-Guided Adaptive Purification with Diffusion Models for Robust Audio Deepfake Detection](https://arxiv.org/abs/2610.10752) | Muhammed Salih Kayhan et al. |  |  |
+| 2026-10-07 | [DuRe-ST: Dual-Relation Spectro-Temporal Modeling for Speech Deepfake Detection](https://arxiv.org/abs/2610.10121) | Shaole Li et al. | [📝](summaries/dure-st-dual-relation-spectro-temporal-modeling-for-speech-deepfake-detection.md) |  |
+| 2026-10-07 | [Source-Directed Trajectory Perturbation at First-Order Cost for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2610.10094) | Siqing Qin et al. | [📝](summaries/source-directed-trajectory-perturbation-at-first-order-cost-for-domain-generaliz.md) |  |
 | 2026-10-05 | [Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection](https://arxiv.org/abs/2610.07216) | Abdullah et al. | [📝](summaries/exposing-and-mitigating-neural-codec-vulnerabilities-in-audio-deepfake-detection.md) |  |
-| 2026-10-04 | [Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264) | Miao He et al. |  |  |
-| 2026-10-03 | [Temporal Anchors and Editing Sensitivity in Partial Speech Spoofing: A Controlled Study](https://arxiv.org/abs/2610.04479) | Xiaosu Su et al. |  |  |
-| 2026-10-01 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) | Yingjian Yu et al. |  |  |
+| 2026-10-04 | [Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264) | Miao He et al. | [📝](summaries/task-aware-joint-pruning-and-distillation-for-efficient-audio-deepfake-detection.md) |  |
+| 2026-10-03 | [Temporal Anchors and Editing Sensitivity in Partial Speech Spoofing: A Controlled Study](https://arxiv.org/abs/2610.04479) | Xiaosu Su et al. | [📝](summaries/temporal-anchors-and-editing-sensitivity-in-partial-speech-spoofing-a-controlled.md) |  |
+| 2026-10-01 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) | Yingjian Yu et al. | [📝](summaries/a-federated-deepfake-speech-detection-method-based-on-layer-wise-center-guided-w.md) |  |
 | 2026-10-01 | [FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching](https://arxiv.org/abs/2610.01242) | Yingjian Yu et al. |  |  |
 | 2026-09-30 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) | Lisan Al Amin et al. |  |  |
 | 2026-09-30 | [Collapse, Not Invariance: Diagnosing Auxiliary Objectives in Speech Anti-Spoofing](https://arxiv.org/abs/2610.00539) | Ksenia Lysikova et al. |  |  |
@@ -57,14 +58,13 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-09-18 | [Towards Zero-Shot Attribution of Synthetic Speech via Audio-Text Contrastive Retrieval](https://arxiv.org/abs/2609.21581) | > **제출일:** 2026-09-18 | [📝](summaries/towards-zero-shot-attribution-of-synthetic-speech-via-audio-text-contrastive-ret.md) |  |
 | 2026-09-17 | [Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection](https://arxiv.org/abs/2609.20063) | > **제출일:** 2026-09-17 | [📝](summaries/robust-workflow-generation-via-adversarial-learning-for-audio-deepfake-detection.md) |  |
 | 2026-09-17 | [CoRELoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection](https://arxiv.org/abs/2609.19818) | > **제출일:** 2026-09-17 | [📝](summaries/coreloop-parameter-efficient-controlled-recurrent-refinement-for-audio-deepfake.md) |  |
-| 2026-09-15 | [Language Orthogonalization for Zero-Shot Cross-Lingual Audio Deepfake Detection](https://arxiv.org/abs/2609.16458) | > **제출일:** 2026-09-15 | [📝](summaries/language-orthogonalization-for-zero-shot-cross-lingual-audio-deepfake-detection.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 232 |
-| 2025 | 304 |
+| 2026 | 231 |
+| 2025 | 306 |
 | 2024 | 220 |
 | 2023 | 149 |
 | 2022 | 118 |
