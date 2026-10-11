@@ -1,6 +1,6 @@
 # Training Strategies
 
-> 300 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-11
+> 300 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-12
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
