@@ -1,28 +1,12 @@
 # Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection
 
-> ⚠ AI-generated summary (local LLM, **Korean**, unverified) — auto-generated from the paper, not fact-checked. Verify against the source.
+> Claude 분석 노트(wiki)의 한 줄 요약 — one-line summary from a Claude analysis note of the paper; verify against the source.
 
 **arXiv:** https://arxiv.org/abs/2608.13817 · Tomás Andrade Weber · 2026
 
-## 한 줄 요약
+## 한 줄
 
-본 연구에서는 Self-Supervised Learning (SSL) 모델의 잠재 공간에서 음성 생산의 생리적 제약이 나타나는 구조적 트래젝토리 역학을 활용하여 음성 디페이크 탐지에 효과적인 방법을 제시합니다.
-
-## 문제 정의
-
-인공지능 기술 발전으로 인해 생성되는 현실적인 합성 음성(TTS, VC)은 사회적으로 심각한 위험을 초래할 수 있습니다. 이러한 디페이크를 효과적으로 탐지하기 위한 방법들이 개발되고 있지만, 특히 실제 환경에서 다양한 합성 방식에 대한 일반화 성능이 낮은 문제가 존재합니다. 기존 방법들은 주로 음성 특징 추출에 의존하거나, 특정 특징(예: 스플라이스 부위의 임계값)을 탐지하거나, 합성 음성과의 비교를 통해 디페이크를 식별하는 방식입니다.
-
-## 제안 방법
-
-본 연구에서는 AntiDeepfake SSL 모델의 잠재 공간에서 트래젝토리 역학을 활용하는 새로운 디페이크 탐지 방법을 제안합니다. 이 방법은 두 단계로 구성됩니다. 첫 번째 단계에서는 본인 음성 데이터만을 사용하여 다음 프레임을 예측하는 LSTM 모델을 학습합니다. 두 번째 단계에서는 첫 번째 단계에서 학습된 LSTM의 고정된 내부 상태를 입력으로 사용하여 다층 퍼셉트론(MLP)을 학습시켜 본인 음성과 합성 음성을 구별합니다. 특히, 본인 음성 데이터만을 사용하여 학습된 트래젝토리 역학은 합성 음성과의 차별적인 신호를 제공하며, 이는 기존의 static pooling 방식으로는 포착할 수 없는 중요한 정보입니다.
-
-## 실험·결과
-
-본 연구에서는 ASRspoof 2019 훈련 데이터셋을 사용하여 실험을 진행했습니다. 제안하는 방법은 6개의 벤치마크(ASRspoof 2019/2021, Codecfake, In-the-Wild, MLAAD-EN, Deepfake-Eval-2024)에서 기존의 SLiM, QAMO, BreathNet 등의 방법과 비교하여 경쟁력 있는 성능을 보였습니다. 특히, 어려운 벤치마크에서는 Static baseline 대비 Stage 1 모델이 크게 우수하며, Stage 2 모델은 supervised baseline과 유사한 성능을 나타냈습니다. UMAP 시각화 결과, 트래젝토리 역학은 벤치마크의 어려움에 따라 Static baseline 대비 점진적으로 더 큰 성능 향상을 가져오는 것으로 확인되었습니다.
-
-## 한계
-
-본 연구에서는 AntiDeepfake SSL 모델의 잠재 공간에서 트래젝토리 역학을 활용하는 방법을 제안했지만, 실제 환경에서의 다양한 합성 방식에 대한 일반화 성능을 더욱 향상시키기 위해서는 추가적인 연구가 필요합니다. 또한, 본 연구에서는 ASRspoof 2019 훈련 데이터셋을 사용했지만, 실제 디페이크 탐지 시스템에 적용하기 위해서는 더 다양한 데이터셋을 활용한 실험이 필요합니다. 마지막으로, 본 연구에서는 트래젝토리 역학에만 집중했지만, 다른 특징 정보(예: 음향 특징, 화자 특징)를 함께 활용하는 방법을 연구할 필요가 있습니다.
+bonafide만으로 학습한 causal LSTM의 다음 프레임 예측 오차로 탐지해, DE2024에서 EER 30.35%(NII-GAP 33.36%)를 얻었다.
 
 ---
 _Part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · AI-generated summary, unverified._

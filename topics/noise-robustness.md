@@ -1,6 +1,6 @@
 # Noise & Real-World Robustness
 
-> 126 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-13
+> 117 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -24,21 +24,12 @@
 | 2026 | [Assessing Vulnerability of Deepfake Detection Models to Noise-Masked Attacks](https://www.semanticscholar.org/paper/c925ee329731bd075b039623326f907d9dd3e7c4) | Artyom Galimov et al. | 2026 28th International Conference on Digital Signal Processing and its Applications (DSPA) | 0 |
 | 2026 | [Proteus: Automated Adversarial Robustness Testing for Audio Deepfake Detectors](https://arxiv.org/abs/2606.29544) · [📝 요약](../summaries/proteus-automated-adversarial-robustness-testing-for-audio-deepfake-detectors.md) | Nicolas M. Müller et al. | arXiv |  |
 | 2026 | [UniSkip-Mamba: A Frequency-Aware State Space Model for Audio-Visual Temporal Forgery Localization](https://arxiv.org/abs/2607.04498) · [📝 요약](../summaries/uniskip-mamba-a-frequency-aware-state-space-model-for-audio-visual-temporal-forg.md) | Cangjin Qiu et al. | arXiv |  |
-| 2026 | [Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction](https://arxiv.org/abs/2607.12584) · [📝 요약](../summaries/explainable-by-design-audio-deepfake-detection-via-wiener-hopf-linear-prediction.md) | Mattia Tamiazzo et al. | arXiv |  |
+| 2026 | [Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction](https://arxiv.org/abs/2607.12584) · [📝 요약](../summaries/explainable-by-design-audio-deepfake-detection-via-wiener-hopf-linear-prediction.md) | Mattia Tamiazzo et al. | ACM IH&MMSec '26 |  |
 | 2026 | [Time-Frequency Consistency Learning for Robust Speech Deepfake Detection](https://arxiv.org/abs/2607.17761) · [📝 요약](../summaries/time-frequency-consistency-learning-for-robust-speech-deepfake-detection.md) | Jun Xue et al. | ACM Multimedia (MM '26) |  |
-| 2026 | [MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593) · [📝 요약](../summaries/madbench-a-benchmark-for-modality-aware-audio-deepfake-detection.md) | Yanqiu Li et al. | arXiv |  |
-| 2026 | [Evaluating Pre-trained Speech Encoders for Spontaneous Speech Detection and Out of Domain Synthetic Speech Generalisation in Indic Languages](https://arxiv.org/abs/2608.12536) · [📝 요약](../summaries/evaluating-pre-trained-speech-encoders-for-spontaneous-speech-detection-and-out.md) | Varun Rai et al. | arXiv |  |
-| 2026 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](https://arxiv.org/abs/2608.14249) · [📝 요약](../summaries/at-add-all-type-audio-deepfake-detection-challenge-summary.md) | Yuankun Xie et al. | arXiv |  |
 | 2026 | [On the Robustness of Audio Deepfake Detection under Audio Watermarking](https://arxiv.org/abs/2608.24159) · [📝 요약](../summaries/on-the-robustness-of-audio-deepfake-detection-under-audio-watermarking.md) | Zi Qian Yong et al. | arXiv |  |
 | 2026 | [Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection](https://arxiv.org/abs/2609.20063) · [📝 요약](../summaries/robust-workflow-generation-via-adversarial-learning-for-audio-deepfake-detection.md) | > **제출일:** 2026-09-17 | arXiv |  |
-| 2026 | [SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization](https://arxiv.org/abs/2609.25197) | > **제출일:** 2026-09-21 | arXiv |  |
-| 2026 | [VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching](https://arxiv.org/abs/2609.30005) | > **제출일:** 2026-09-24 | arXiv |  |
-| 2026 | [GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection](https://arxiv.org/abs/2609.35411) | Zelin Zhao et al. | arXiv |  |
-| 2026 | [Neural Audio Codec for Robust Audio Deepfake Detection](https://arxiv.org/abs/2609.39651) | Jungwoo Kim et al. | arXiv |  |
-| 2026 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) | Lisan Al Amin et al. | arXiv |  |
-| 2026 | [FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching](https://arxiv.org/abs/2610.01242) | Yingjian Yu et al. | arXiv |  |
 | 2026 | [Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection](https://arxiv.org/abs/2610.07216) · [📝 요약](../summaries/exposing-and-mitigating-neural-codec-vulnerabilities-in-audio-deepfake-detection.md) | Abdullah et al. | arXiv |  |
-| 2026 | [Detection-Guided Adaptive Purification with Diffusion Models for Robust Audio Deepfake Detection](https://arxiv.org/abs/2610.10752) | Muhammed Salih Kayhan et al. | arXiv |  |
+| 2026 | [Detection-Guided Adaptive Purification with Diffusion Models for Robust Audio Deepfake Detection](https://arxiv.org/abs/2610.10752) · [📝 요약](../summaries/detection-guided-adaptive-purification-with-diffusion-models-for-robust-audio-de.md) | Muhammed Salih Kayhan et al. | arXiv |  |
 | 2025 | [Transferable Adversarial Attacks on Audio Deepfake Detection](https://arxiv.org/abs/2501.11902) · [📝 요약](../summaries/transferable-adversarial-attacks-on-audio-deepfake-detection.md) | Muhammad Umar Farooq et al. | 2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW) | 22 |
 | 2025 | [Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models](https://arxiv.org/abs/2509.02859) · [📝 요약](../summaries/speech-df-arena-a-leaderboard-for-speech-deepfake-detection-models.md) | Sandipana Dowerah et al. | IEEE Open Journal of Signal Processing | 16 |
 | 2025 | [Replay Attacks Against Audio Deepfake Detection](https://arxiv.org/abs/2505.14862) · [📝 요약](../summaries/replay-attacks-against-audio-deepfake-detection.md) | Nicolas M. Muller et al. | Interspeech | 15 |

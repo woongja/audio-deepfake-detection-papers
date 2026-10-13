@@ -1,6 +1,6 @@
 # Neural Codec Deepfakes
 
-> 56 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-13
+> 55 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -15,13 +15,12 @@
 | 2026 | [What Do Deepfake Speech Detectors Actually Hear?](https://arxiv.org/abs/2606.10912) · [📝 요약](../summaries/what-do-deepfake-speech-detectors-actually-hear.md) | Vojtěch Staněk et al. | arXiv |  |
 | 2026 | [Bridging the SEA Gap: An Initial Benchmark for Neural Audio Codec-Synthesized Speech Deepfakes in South-East Asian Languages](https://arxiv.org/abs/2606.15968) · [📝 요약](../summaries/bridging-the-sea-gap-an-initial-benchmark-for-neural-audio-codec-synthesized-spe.md) | Orchid Chetia Phukan et al. | arXiv |  |
 | 2026 | [Proteus: Automated Adversarial Robustness Testing for Audio Deepfake Detectors](https://arxiv.org/abs/2606.29544) · [📝 요약](../summaries/proteus-automated-adversarial-robustness-testing-for-audio-deepfake-detectors.md) | Nicolas M. Müller et al. | arXiv |  |
-| 2026 | [Trajectory Dynamics in Self-Supervised Learning Latent Space for Audio Deepfake Detection](https://arxiv.org/abs/2608.13817) · [📝 요약](../summaries/trajectory-dynamics-in-self-supervised-learning-latent-space-for-audio-deepfake.md) | Tomás Andrade Weber | arXiv |  |
-| 2026 | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) · [📝 요약](../summaries/the-last-mile-of-deepfake-speech-detection-an-industry-academia-experience-repor.md) | Anton Firc et al. | arXiv |  |
+| 2026 | [The Last Mile of Deepfake Speech Detection: An Industry–Academia Experience Report](https://arxiv.org/abs/2608.17585) · [📝 요약](../summaries/the-last-mile-of-deepfake-speech-detection-an-industryacademia-experience-report.md) | Anton Firc et al. | arXiv |  |
 | 2026 | [Combining Self-Embedding Audio Watermarking with Ultra-Low-Bitrate Neural Codecs](https://arxiv.org/abs/2608.25289) · [📝 요약](../summaries/combining-self-embedding-audio-watermarking-with-ultra-low-bitrate-neural-codecs.md) | Yigitcan Özer et al. | arXiv |  |
 | 2026 | [Tracing the Origins: Legacy Codec Identification in Neural Audio Transcoding](https://arxiv.org/abs/2609.14916) · [📝 요약](../summaries/tracing-the-origins-legacy-codec-identification-in-neural-audio-transcoding.md) | Wonje Heo et al. | arXiv |  |
-| 2026 | [What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375) | Jiajun Xu et al. | arXiv |  |
-| 2026 | [Neural Audio Codec for Robust Audio Deepfake Detection](https://arxiv.org/abs/2609.39651) | Jungwoo Kim et al. | arXiv |  |
-| 2026 | [Collapse, Not Invariance: Diagnosing Auxiliary Objectives in Speech Anti-Spoofing](https://arxiv.org/abs/2610.00539) | Ksenia Lysikova et al. | arXiv |  |
+| 2026 | [Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection](https://arxiv.org/abs/2609.20063) · [📝 요약](../summaries/robust-workflow-generation-via-adversarial-learning-for-audio-deepfake-detection.md) | > **제출일:** 2026-09-17 | arXiv |  |
+| 2026 | [What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375) · [📝 요약](../summaries/what-survives-the-codec-shift-pooled-no-vocals-residuals-for-speech-deepfake-det.md) | Jiajun Xu et al. | arXiv |  |
+| 2026 | [Neural Audio Codec for Robust Audio Deepfake Detection](https://arxiv.org/abs/2609.39651) · [📝 요약](../summaries/neural-audio-codec-for-robust-audio-deepfake-detection.md) | Jungwoo Kim et al. | arXiv |  |
 | 2026 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) · [📝 요약](../summaries/a-federated-deepfake-speech-detection-method-based-on-layer-wise-center-guided-w.md) | Yingjian Yu et al. | arXiv |  |
 | 2026 | [Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection](https://arxiv.org/abs/2610.07216) · [📝 요약](../summaries/exposing-and-mitigating-neural-codec-vulnerabilities-in-audio-deepfake-detection.md) | Abdullah et al. | arXiv |  |
 | 2025 | [ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech](https://arxiv.org/abs/2502.08857) · [📝 요약](../summaries/asvspoof-5-design-collection-and-validation-of-resources-for-spoofing-deepfake-a.md) | Xin Wang et al. | Computer Speech and Language | 48 |

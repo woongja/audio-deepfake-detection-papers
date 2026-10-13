@@ -1,6 +1,6 @@
 # Adapters, LoRA & MoE
 
-> 29 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-13
+> 30 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -10,13 +10,14 @@
 | 2026 | [Dynamic Noise-Aware Multi Lora Framework Towards Real-World Audio Deepfake Detection](https://www.semanticscholar.org/paper/206fced6cf644b81963ed305bbdd3eff408c9ddc) | Woongjae Lee et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 0 |
 | 2026 | [A Parameter-Efficient Multi-Scale Convolutional Adapter for Synthetic Speech Detection](https://www.semanticscholar.org/paper/36c5490ee2bb16eef209794008ae6bcae92a5c63) | Yassine El Kheir et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 0 |
 | 2026 | [Robust Spoofed Speech Detection via Temporal Pyramid Modeling](https://arxiv.org/abs/2606.16837) · [📝 요약](../summaries/robust-spoofed-speech-detection-via-temporal-pyramid-modeling.md) | Mahtab Masoudi Nezhad et al. | arXiv |  |
+| 2026 | [Traceback Translators Against Forgetting in Continual Fake Speech Detection](https://arxiv.org/abs/2607.12569) · [📝 요약](../summaries/traceback-translators-against-forgetting-in-continual-fake-speech-detection.md) | Enrico Gottardis et al. | arXiv |  |
 | 2026 | [Explainability by Design: Structured Kolmogorov–Arnold Networks over Probabilistic Attributes for Speech Deepfake Source Tracing](https://arxiv.org/abs/2608.20213) · [📝 요약](../summaries/explainability-by-design-structured-kolmogorovarnold-networks-over-probabilistic.md) | Hoang H. Pham et al. | arXiv |  |
 | 2026 | [KanAdapter: A Kolmogorov-Arnold Network-based Plug-and-Play Module for Efficient Fine-tuning of Foundation Speech Models](https://arxiv.org/abs/2609.05281) · [📝 요약](../summaries/kanadapter-a-kolmogorov-arnold-network-based-plug-and-play-module-for-efficient.md) | Phuong Tuan Dat et al. | arXiv |  |
 | 2026 | [Graph Attention Design Choices Matter: A Controlled Study of LoRA-Adapted Audio Anti-Spoofing](https://arxiv.org/abs/2609.15650) · [📝 요약](../summaries/graph-attention-design-choices-matter-a-controlled-study-of-lora-adapted-audio-a.md) | Haoyu Wang et al. | arXiv |  |
-| 2026 | [CoRELoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection](https://arxiv.org/abs/2609.19818) · [📝 요약](../summaries/coreloop-parameter-efficient-controlled-recurrent-refinement-for-audio-deepfake.md) | > **제출일:** 2026-09-17 | arXiv |  |
-| 2026 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) | > **제출일:** 2026-09-23 | arXiv |  |
-| 2026 | [Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2609.33709) | Siqing Qin et al. | arXiv |  |
-| 2026 | [SE-ADD: Self-Evolving Audio Deepfake Detection with Mistake-Driven Supervision](https://arxiv.org/abs/2609.39679) | Rong Wan et al. | arXiv |  |
+| 2026 | [CoReLoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection](https://arxiv.org/abs/2609.19818) · [📝 요약](../summaries/coreloop-parameter-efficient-controlled-recurrent-refinement-for-audio-deepfake.md) | > **제출일:** 2026-09-17 | arXiv |  |
+| 2026 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) · [📝 요약](../summaries/spooftral-can-voxtral-audio-language-model-detect-speech-spoofing.md) | > **제출일:** 2026-09-23 | arXiv |  |
+| 2026 | [Learning as Deepfakes Evolve: RF-Prompt for Continual Audio Deepfake Detection](https://arxiv.org/abs/2609.37586) · [📝 요약](../summaries/learning-as-deepfakes-evolve-rf-prompt-for-continual-audio-deepfake-detection.md) | Yuankun Xie et al. | arXiv |  |
+| 2026 | [Neural Audio Codec for Robust Audio Deepfake Detection](https://arxiv.org/abs/2609.39651) · [📝 요약](../summaries/neural-audio-codec-for-robust-audio-deepfake-detection.md) | Jungwoo Kim et al. | arXiv |  |
 | 2026 | [DuRe-ST: Dual-Relation Spectro-Temporal Modeling for Speech Deepfake Detection](https://arxiv.org/abs/2610.10121) · [📝 요약](../summaries/dure-st-dual-relation-spectro-temporal-modeling-for-speech-deepfake-detection.md) | Shaole Li et al. | arXiv |  |
 | 2025 | [Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception](https://arxiv.org/abs/2504.06753) · [📝 요약](../summaries/detect-all-type-deepfake-audio-wavelet-prompt-tuning-for-enhanced-auditory-perce.md) | Yuankun Xie et al. | ACM Multimedia 2025 | 12 |
 | 2025 | [WaveSP-Net: Learnable Wavelet-Domain Sparse Prompt Tuning for Speech Deepfake Detection](https://arxiv.org/abs/2510.05305) · [📝 요약](../summaries/wavesp-net-learnable-wavelet-domain-sparse-prompt-tuning-for-speech-deepfake-det.md) | Xi Xuan et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 6 |

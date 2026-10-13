@@ -1,9 +1,10 @@
 # Cross-Domain & Multimodal
 
-> 70 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-13
+> 71 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
+| 2026 | [Context and Transcripts Improve Detection of Deepfake Audios of Public Figures](https://arxiv.org/abs/2601.13464) · [📝 요약](../summaries/context-and-transcripts-improve-detection-of-deepfake-audios-of-public-figures.md) | Chongyang Gao et al. | arXiv | 1 |
 | 2026 | [Multi model Deep Fake Detection using Vision Transformers (ViT) and Hybrid Deep Learning Techniques](https://www.semanticscholar.org/paper/b558f768461b10a0a46e6c756c637a6ee3ba8cbf) | Mr. R. Adinarayana¹ et al. | International Journal of Data Science and IoT Management System | 1 |
 | 2026 | [How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?](https://arxiv.org/abs/2603.05852) · [📝 요약](../summaries/how-well-do-current-speech-deepfake-detection-methods-generalize-to-the-real-wor.md) | Daixian Li et al. | arXiv | 0 |
 | 2026 | [Unsupervised Domain Adaptation for Audio Deepfake Detection with Modular Statistical Transformations](https://arxiv.org/abs/2603.07935) · [📝 요약](../summaries/unsupervised-domain-adaptation-for-audio-deepfake-detection-with-modular-statist.md) | Urawee Thani et al. | arXiv | 0 |
@@ -27,6 +28,7 @@
 | 2026 | [AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks](https://arxiv.org/abs/2608.05507) · [📝 요약](../summaries/affectdf-the-most-comprehensive-benchmark-for-speech-deepfake-detection-against.md) | Aurosweta Mahapatra et al. | arXiv |  |
 | 2026 | [Beyond Speech: Dual-Domain SSL Fusion for Unified All-Type Audio Deepfake Detection](https://arxiv.org/abs/2608.29021) · [📝 요약](../summaries/beyond-speech-dual-domain-ssl-fusion-for-unified-all-type-audio-deepfake-detecti.md) | Cunhang Fan et al. | ACM Multimedia (MM '26) |  |
 | 2026 | [Language Orthogonalization for Zero-Shot Cross-Lingual Audio Deepfake Detection](https://arxiv.org/abs/2609.16458) · [📝 요약](../summaries/language-orthogonalization-for-zero-shot-cross-lingual-audio-deepfake-detection.md) | > **제출일:** 2026-09-15 | arXiv |  |
+| 2026 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) · [📝 요약](../summaries/on-evaluating-quantum-kernel-robustness-for-low-resource-cross-corpus-audio-deep.md) | Lisan Al Amin et al. | arXiv |  |
 | 2026 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) · [📝 요약](../summaries/a-federated-deepfake-speech-detection-method-based-on-layer-wise-center-guided-w.md) | Yingjian Yu et al. | arXiv |  |
 | 2026 | [Source-Directed Trajectory Perturbation at First-Order Cost for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2610.10094) · [📝 요약](../summaries/source-directed-trajectory-perturbation-at-first-order-cost-for-domain-generaliz.md) | Siqing Qin et al. | arXiv |  |
 | 2025 | [Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection](https://arxiv.org/abs/2502.03559) · [📝 요약](../summaries/comprehensive-layer-wise-analysis-of-ssl-models-for-audio-deepfake-detection.md) | Y. E. Kheir et al. | North American Chapter of the Association for Computational Linguistics | 25 |
@@ -48,7 +50,6 @@
 | 2025 | [Unified Deepfake Detection System for Image, Video and Audio Media](https://www.semanticscholar.org/paper/1076d986068b630aa3a19e331cb8580e9bb8a087) | Neelakantappa T T et al. | International Journal For Multidisciplinary Research | 0 |
 | 2025 | [Blue Sky: Expert-in-the-Loop Representation Learning Framework for Audio Anti-Spoofing: Multimodal, Multilingual, Multi-speaker, Multi-attack (4M) Scenarios](https://www.semanticscholar.org/paper/4ea4dc41f1d1dbc4ad764383c6ee5ac4a8065ae1) | Zahra Khanjani et al. | SDM | 0 |
 | 2025 | [VAD-Lip: Visual and Audio Deepfake Detection via Lip Features](https://www.semanticscholar.org/paper/617801fb43a8a91719f7643dd415f1e813c25c42) | Jinyu Wang et al. | DFF@MM | 0 |
-| 2025 | [An Explainable Deep Learning Framework for Robust Face Anti-Spoofing via Shapley-Guided Feature Selection](https://www.semanticscholar.org/paper/63f4337a30ecb46173d96f5c1e3986036b1a4260) | Anisha Soni et al. | International Journal of Computational and Experimental Science and Engineering | 0 |
 | 2025 | [Fake Media Forensics:AI – Driven Forensic Analysis of Fake Multimedia Content](https://www.semanticscholar.org/paper/c9b2686113d66ebfedd7da6df30df953c0378cc5) | .Deepak Naik | INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT | 0 |
 | 2025 | [Deeflyzer: Enhancing Media Integrity Through Advanced Deepfake Detection](https://www.semanticscholar.org/paper/f995ade59a49a1b5d4acdf96c7dee93022416c54) | Charudatta Sunil Thakare et al. | 2025 International Conference on Knowledge Engineering and Communication Systems (ICKECS) | 0 |
 | 2024 | [MLAAD: The Multi-Language Audio Anti-Spoofing Dataset](https://arxiv.org/abs/2401.09512) · [📝 요약](../summaries/mlaad-the-multi-language-audio-anti-spoofing-dataset.md) | Nicolas M. Muller et al. | IEEE International Joint Conference on Neural Network | 134 |

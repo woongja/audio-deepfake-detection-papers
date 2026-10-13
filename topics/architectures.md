@@ -1,6 +1,6 @@
 # Detection Architectures & Encoders
 
-> 173 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-13
+> 176 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -27,6 +27,8 @@
 | 2026 | [Textual Acoustic Grounding for Generalizable LLM-Based Deepfake Voice Detection](https://arxiv.org/abs/2608.30622) · [📝 요약](../summaries/textual-acoustic-grounding-for-generalizable-llm-based-deepfake-voice-detection.md) | Yassine El Kheir et al. | arXiv |  |
 | 2026 | [Disentangled Global-Local Feature Learning with E-Branchformer for Audio Deepfake Detection](https://arxiv.org/abs/2609.08948) · [📝 요약](../summaries/disentangled-global-local-feature-learning-with-e-branchformer-for-audio-deepfak.md) | Phuong Tuan Dat et al. | arXiv |  |
 | 2026 | [Tracing the Origins: Legacy Codec Identification in Neural Audio Transcoding](https://arxiv.org/abs/2609.14916) · [📝 요약](../summaries/tracing-the-origins-legacy-codec-identification-in-neural-audio-transcoding.md) | Wonje Heo et al. | arXiv |  |
+| 2026 | [CoReLoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection](https://arxiv.org/abs/2609.19818) · [📝 요약](../summaries/coreloop-parameter-efficient-controlled-recurrent-refinement-for-audio-deepfake.md) | > **제출일:** 2026-09-17 | arXiv |  |
+| 2026 | [Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2609.33709) · [📝 요약](../summaries/domain-adaptive-dual-gating-mixture-of-experts-for-generalizable-speech-deepfake.md) | Siqing Qin et al. | arXiv |  |
 | 2025 | [Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing](https://arxiv.org/abs/2504.05657) · [📝 요약](../summaries/nes2net-a-lightweight-nested-architecture-for-foundation-model-driven-speech-ant.md) | Tianchi Liu et al. | IEEE Transactions on Information Forensics and Security | 26 |
 | 2025 | [BiCrossMamba-ST: Speech Deepfake Detection with Bidirectional Mamba Spectro-Temporal Cross-Attention](https://arxiv.org/abs/2505.13930) · [📝 요약](../summaries/bicrossmamba-st-speech-deepfake-detection-with-bidirectional-mamba-spectro-tempo.md) | Y. E. Kheir et al. | Interspeech | 10 |
 | 2025 | [Dual-Channel Deepfake Audio Detection: Leveraging Direct and Reverberant Waveforms](https://www.semanticscholar.org/paper/ac05943e197aed0a145fcff85f56a2b8472124ec) | Gunwoo Lee et al. | IEEE Access | 8 |
@@ -122,6 +124,7 @@
 | 2023 | [Bridging the Spoof Gap: A Unified Parallel Aggregation Network for Voice Presentation Attacks](https://arxiv.org/abs/2309.10560) · [📝 요약](../summaries/bridging-the-spoof-gap-a-unified-parallel-aggregation-network-for-voice-presenta.md) | Awais Khan et al. | arXiv | 1 |
 | 2023 | [Synthetic Speech Detection Based on Temporal Consistency and Distribution of Speaker Features](https://arxiv.org/abs/2309.16954) · [📝 요약](../summaries/synthetic-speech-detection-based-on-temporal-consistency-and-distribution-of-spe.md) | Yuxiang Zhang et al. | arXiv | 1 |
 | 2023 | [A Hybrid Classification Approach For Artificial Speech Detection](https://www.semanticscholar.org/paper/01b4216070862dd485611383587af2294ef7e49c) | Choon Beng Tan et al. | International Conference on Artificial Intelligence in Engineering and Technology | 1 |
+| 2023 | [Improving Computational Efficiency of Voice Anti-Spoofing Models](https://www.semanticscholar.org/paper/6ddaa645c9231d95d83c36d1fd31a4d5219f5df9) | Jian Yang et al. | IEEE International Conference on Mobile Adhoc and Sensor Systems | 0 |
 | 2023 | [Audio DeepFake Detection Employing Multiple Parametric Exponential Linear Units](https://www.semanticscholar.org/paper/6e97f35fbdfde19f555d4ab469b38c07ecfd6b2b) | Md Shahidul Alam et al. | International Conference on Speech and Computer | 0 |
 | 2023 | [Replay attack detection based on deformable convolutional neural network and temporal-frequency attention model](https://www.semanticscholar.org/paper/93c69592a825a090eee2e0fcc8b02f608d29e217) | Dang-en Xie et al. | Journal of Intelligent Systems | 0 |
 | 2022 | [Fully Automated End-to-End Fake Audio Detection](https://arxiv.org/abs/2208.09618) · [📝 요약](../summaries/fully-automated-end-to-end-fake-audio-detection.md) | Chenglong Wang et al. | DDAM '22 (1st International Workshop on Deepfake Detection for Audio Multimedia, ACM MM Workshop) | 36 |

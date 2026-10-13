@@ -1,30 +1,12 @@
 # AT-ADD: All-Type Audio Deepfake Detection Challenge Summary
 
-> ⚠ AI-generated summary (local LLM, **Korean**, unverified) — auto-generated from the paper, not fact-checked. Verify against the source.
+> Claude 분석 노트(wiki)의 한 줄 요약 — one-line summary from a Claude analysis note of the paper; verify against the source.
 
 **arXiv:** https://arxiv.org/abs/2608.14249 · Yuankun Xie et al. · 2026
 
-## 한 줄 요약
+## 한 줄
 
-본 논문은 ACM Multimedia 2026 AT-ADD 챌린지의 개요, 목표, 참가 시스템의 주요 특징, 그리고 챌린지 결과 및 시사점을 정리하고 있다.
-
-## 문제 정의
-
-최근 생성 모델의 발전으로 인해 현실과 구별하기 어려운 딥페이크 오디오가 등장하면서 오디오 딥페이크 탐지의 중요성이 커지고 있다. 기존의 오디오 딥페이크 탐지 연구는 특정 유형의 오디오(주로 음성)에 집중하거나, 현실적인 음향 및 채널 변화에 대한 강건성이 부족하거나, 다양한 오디오 유형에 대한 일반화 능력이 떨어진다는 한계가 있다. AT-ADD 챌린지는 이러한 문제점을 해결하기 위해 두 가지 트랙을 통해 현실적인 환경 변화에 대한 강건성과 다양한 오디오 유형에 대한 일반화 능력을 동시에 평가하고자 한다.
-
-## 제안 방법
-
-AT-ADD 챌린지는 두 개의 트랙으로 구성된다. Track 1은 음성 딥페이크 탐지에 초점을 맞추며, 다양한 딥페이크 생성 모델과 현실적인 음향 변화에 대한 강건성을 평가한다. Track 2는 음성뿐만 아니라 환경음, 노래, 음악 등 다양한 유형의 오디오에 대한 딥페이크 탐지를 목표로 한다. 참가 시스템은 제공된 학습 및 개발 데이터를 사용하여 진위 판별 모델을 구축하며, 외부 딥페이크 탐지 데이터셋은 사용할 수 없다.
-
-## 실험·결과
-
-AT-ADD 챌린지에는 두 가지 트랙이 있으며, 각 트랙은 다양한 데이터셋과 평가 세트를 제공한다. Track 1은 실제 음성과 딥페이크 음성을 포함하는 평가 세트를 통해 음성 딥페이크 탐지의 강건성을 평가한다. Track 2는 음성, 환경음, 노래, 음악 등 다양한 유형의 오디오를 포함하는 평가 세트를 통해 다양한 오디오 유형에 대한 딥페이크 탐지의 일반화 능력을 평가한다.
-
-최종 결과에서 Track 1의 최고 성능 시스템은 최종 평가 세트에서 90.71%의 Macro-F1 점수를 기록했으며, Track 2의 최고 성능 시스템은 96.10%의 Macro-F1 점수를 기록했다. 경쟁력 있는 시스템들은 대규모 자체 지도 학습 기반 오디오 표현, 데이터 증강, 다중 크롭 추론, 구조화된 융합 또는 라우팅 등의 기술을 활용하는 경향을 보였다.
-
-## 한계
-
-본 연구는 챌린지에서 제공된 데이터셋과 평가 세트에 국한되어 있으며, 실제 환경에서의 다양한 오디오 유형과 딥페이크 생성 모델에 대한 일반화 능력은 추가적인 연구가 필요하다. 또한, 현실적인 음향 변화에 대한 강건성을 더욱 향상시키고, 다양한 오디오 유형 간의 미묘한 차이를 효과적으로 탐지하는 방법에 대한 연구가 앞으로 필요하다.
+음성 강건성(Track 1)과 음성·환경음·가창·음악 통합 탐지(Track 2)를 묻는 챌린지를 요약해, 최상위 시스템이 Macro-F1 90.71%(T1), 96.10%(T2)를 기록했음을 보고한다.
 
 ---
 _Part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · AI-generated summary, unverified._

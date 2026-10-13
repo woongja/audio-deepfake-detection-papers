@@ -1,6 +1,6 @@
 # Temporal Localization & Partial Spoof
 
-> 74 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-13
+> 74 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -18,9 +18,8 @@
 | 2026 | [Combining Self-Embedding Audio Watermarking with Ultra-Low-Bitrate Neural Codecs](https://arxiv.org/abs/2608.25289) · [📝 요약](../summaries/combining-self-embedding-audio-watermarking-with-ultra-low-bitrate-neural-codecs.md) | Yigitcan Özer et al. | arXiv |  |
 | 2026 | [Audio Deepfake Detection Using Temporal Coherence Analysis](https://arxiv.org/abs/2609.09489) · [📝 요약](../summaries/audio-deepfake-detection-using-temporal-coherence-analysis.md) | Justin D. Norman et al. | arXiv |  |
 | 2026 | [Zero-Shot Temporal Localisation of Audio Deepfakes in Multi-Speaker Conversations](https://arxiv.org/abs/2609.10051) · [📝 요약](../summaries/zero-shot-temporal-localisation-of-audio-deepfakes-in-multi-speaker-conversation.md) | Soumyadeep Roy | arXiv |  |
-| 2026 | [SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization](https://arxiv.org/abs/2609.25197) | > **제출일:** 2026-09-21 | arXiv |  |
-| 2026 | [Boundary and Intra-Segment Learning for Partial Audio Deepfake Localization](https://arxiv.org/abs/2609.25822) | > **제출일:** 2026-09-22 | arXiv |  |
-| 2026 | [GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection](https://arxiv.org/abs/2609.35411) | Zelin Zhao et al. | arXiv |  |
+| 2026 | [SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization](https://arxiv.org/abs/2609.25197) · [📝 요약](../summaries/spade-a-multilingual-dataset-for-speech-partial-deepfake-detection-and-localizat.md) | > **제출일:** 2026-09-21 | arXiv |  |
+| 2026 | [Boundary and Intra-Segment Learning for Partial Audio Deepfake Localization](https://arxiv.org/abs/2609.25822) · [📝 요약](../summaries/boundary-and-intra-segment-learning-for-partial-audio-deepfake-localization.md) | > **제출일:** 2026-09-22 | arXiv |  |
 | 2026 | [Temporal Anchors and Editing Sensitivity in Partial Speech Spoofing: A Controlled Study](https://arxiv.org/abs/2610.04479) · [📝 요약](../summaries/temporal-anchors-and-editing-sensitivity-in-partial-speech-spoofing-a-controlled.md) | Xiaosu Su et al. | arXiv |  |
 | 2025 | [BiCrossMamba-ST: Speech Deepfake Detection with Bidirectional Mamba Spectro-Temporal Cross-Attention](https://arxiv.org/abs/2505.13930) · [📝 요약](../summaries/bicrossmamba-st-speech-deepfake-detection-with-bidirectional-mamba-spectro-tempo.md) | Y. E. Kheir et al. | Interspeech | 10 |
 | 2025 | [What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain](https://arxiv.org/abs/2501.13887) · [📝 요약](../summaries/what-does-an-audio-deepfake-detector-focus-on-a-study-in-the-time-domain.md) | Petr Grinberg et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 6 |
@@ -34,6 +33,7 @@
 | 2025 | [AudioFakeNet: A Model for Reliable Speaker Verification in Deepfake Audio](https://www.semanticscholar.org/paper/a446821348614ffb0ca9ef1b536a265f545dee10) | Samia Dilbar et al. | Algorithms | 1 |
 | 2025 | [Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation](https://arxiv.org/abs/2507.03468) · [📝 요약](../summaries/robust-localization-of-partially-fake-speech-metrics-models-and-out-of-domain-ev.md) | \authorblockN | arXiv |  |
 | 2025 | [Generalizable Audio Spoofing Detection using Non-Semantic Representations](https://arxiv.org/abs/2509.00186) · [📝 요약](../summaries/generalizable-audio-spoofing-detection-using-non-semantic-representations.md) | Arnab | arXiv |  |
+| 2025 | [Near Real-Time Deepfake Audio Detection based on Speaker Diarization Techniques](https://www.semanticscholar.org/paper/0a01baccd0d51e5167ab594de506e5e11e2509ec) | Muhammad Khurram Zahur Bajwa et al. | Computer Science in Cars Symposium | 0 |
 | 2025 | [Voice Spoofing Classification Using Residual Bidirectional Long Short Term Memory](https://www.semanticscholar.org/paper/30ed897c56f3dfdee09c5799a6e3f07f9acea366) | Fatan Kasyidi et al. | JURNAL TEKNIK INFORMATIKA | 0 |
 | 2025 | [Partially Fake Audio Detection Based on Mamba and Tensor Feature Fusion](https://www.semanticscholar.org/paper/602d3fde2893a82cb38e0d7f220f6b478d508f16) | Hanyue Liu et al. | 2025 Asian Conference on Artificial Intelligence Technology (ACAIT) | 0 |
 | 2025 | [Efficient Classification of Partially Faked Audio Using Deep Learning](https://www.semanticscholar.org/paper/dd3b07d7000fc4b5b46d9cc5a288373c97108713) | Abdulazeez Alali et al. | Computer Science Symposium in Russia | 0 |

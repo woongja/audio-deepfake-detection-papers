@@ -1,6 +1,6 @@
 # LLM-Based Detection
 
-> 22 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-13
+> 22 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@
 | 2026 | [GRIDEX: Grid-Grounded Forensic Explanations for Deepfake Spectrogram Analysis](https://arxiv.org/abs/2606.18738) · [📝 요약](../summaries/gridex-grid-grounded-forensic-explanations-for-deepfake-spectrogram-analysis.md) | Thi Ngan Ha Do et al. | arXiv |  |
 | 2026 | [Large Audio Language Models for Spoofing-Aware Speaker Verification](https://arxiv.org/abs/2607.14753) · [📝 요약](../summaries/large-audio-language-models-for-spoofing-aware-speaker-verification.md) | Sofya Savelyeva et al. | arXiv |  |
 | 2026 | [ThinkOmni: A Reasoning-Driven Omni-Modal LLM Framework for Audio Forgery Detection and Localization](https://arxiv.org/abs/2607.26553) · [📝 요약](../summaries/thinkomni-a-reasoning-driven-omni-modal-llm-framework-for-audio-forgery-detectio.md) | Yuxiong Xu et al. | ACM Multimedia 2026 |  |
-| 2026 | [MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593) · [📝 요약](../summaries/madbench-a-benchmark-for-modality-aware-audio-deepfake-detection.md) | Yanqiu Li et al. | arXiv |  |
 | 2026 | [Textual Acoustic Grounding for Generalizable LLM-Based Deepfake Voice Detection](https://arxiv.org/abs/2608.30622) · [📝 요약](../summaries/textual-acoustic-grounding-for-generalizable-llm-based-deepfake-voice-detection.md) | Yassine El Kheir et al. | arXiv |  |
 | 2026 | [ToolDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection](https://arxiv.org/abs/2609.03620) · [📝 요약](../summaries/tooldf-tool-integrated-reasoning-for-mixed-authenticity-audio-deepfake-detection.md) | Taewoo Kim et al. | arXiv |  |
 | 2026 | [CRAF: Cross-View Residual-Aware Fusion for Deepfake Speech Detection](https://arxiv.org/abs/2609.13842) · [📝 요약](../summaries/craf-cross-view-residual-aware-fusion-for-deepfake-speech-detection.md) | Minh-Xuan Phan et al. | arXiv |  |
-| 2026 | [GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages](https://arxiv.org/abs/2609.21738) · [📝 요약](../summaries/gentracebench-a-benchmark-for-tracing-audio-deepfakes-across-pre-and-post-traini.md) | > **제출일:** 2026-09-18 | arXiv |  |
-| 2026 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) | > **제출일:** 2026-09-23 | arXiv |  |
+| 2026 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) · [📝 요약](../summaries/spooftral-can-voxtral-audio-language-model-detect-speech-spoofing.md) | > **제출일:** 2026-09-23 | arXiv |  |
+| 2026 | [SE-ADD: Self-Evolving Audio Deepfake Detection with Mistake-Driven Supervision](https://arxiv.org/abs/2609.39679) · [📝 요약](../summaries/se-add-self-evolving-audio-deepfake-detection-with-mistake-driven-supervision.md) | Rong Wan et al. | arXiv |  |
+| 2026 | [SEAR: Spoofing Evidence-Grounded Audio Reasoning Benchmark for Audio Language Models](https://arxiv.org/abs/2609.39847) · [📝 요약](../summaries/sear-spoofing-evidence-grounded-audio-reasoning-benchmark-for-audio-language-mod.md) | Rong Wan et al. | arXiv |  |
 | 2025 | [𝒜LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection](https://www.semanticscholar.org/paper/ed3bd8bccc63e59e45d938ae864ab08f360a8137) | Hao Gu et al. | arXiv.org | 5 |
 | 2025 | [IndicFake Meets SAFARI-LLM: Unifying Semantic and Acoustic Intelligence for Multilingual Deepfake Detection](https://www.semanticscholar.org/paper/2f61a3fdb350795e50d0849fd686863fb056ba8e) | Rishabh Ranjan et al. | Trans. Mach. Learn. Res. | 2 |
 | 2025 | [ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection](https://arxiv.org/abs/2505.11079) · [📝 요약](../summaries/allm4add-unlocking-the-capabilities-of-audio-large-language-models-for-audio-dee.md) | Hao Gu | arXiv |  |
