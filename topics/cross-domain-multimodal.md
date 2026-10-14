@@ -1,6 +1,6 @@
 # Cross-Domain & Multimodal
 
-> 71 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
+> 74 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-15
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -31,6 +31,9 @@
 | 2026 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) · [📝 요약](../summaries/on-evaluating-quantum-kernel-robustness-for-low-resource-cross-corpus-audio-deep.md) | Lisan Al Amin et al. | arXiv |  |
 | 2026 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) · [📝 요약](../summaries/a-federated-deepfake-speech-detection-method-based-on-layer-wise-center-guided-w.md) | Yingjian Yu et al. | arXiv |  |
 | 2026 | [Source-Directed Trajectory Perturbation at First-Order Cost for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2610.10094) · [📝 요약](../summaries/source-directed-trajectory-perturbation-at-first-order-cost-for-domain-generaliz.md) | Siqing Qin et al. | arXiv |  |
+| 2026 | [QBFF: Deep Quantum Bottleneck for Automatic Speaker Verification Anti-Spoofing](https://arxiv.org/abs/2610.16390) · [📝 요약](../summaries/qbff-deep-quantum-bottleneck-for-automatic-speaker-verification-anti-spoofing.md) | > **제출일:** 2026-10-12 | arXiv |  |
+| 2026 | [Unsupervised Data Drift Monitoring for Deployed Deepfake Speech Detectors](https://arxiv.org/abs/2610.16826) · [📝 요약](../summaries/unsupervised-data-drift-monitoring-for-deployed-deepfake-speech-detectors.md) | Lukáš Prokeš et al. | arXiv |  |
+| 2026 | [Physics-Aware Deepfake Detection via Distance–Speech Consistency](https://arxiv.org/abs/2610.18485) · [📝 요약](../summaries/physics-aware-deepfake-detection-via-distancespeech-consistency.md) | > **제출일:** 2026-10-13 | arXiv |  |
 | 2025 | [Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection](https://arxiv.org/abs/2502.03559) · [📝 요약](../summaries/comprehensive-layer-wise-analysis-of-ssl-models-for-audio-deepfake-detection.md) | Y. E. Kheir et al. | North American Chapter of the Association for Computational Linguistics | 25 |
 | 2025 | [SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://arxiv.org/abs/2507.21463) · [📝 요약](../summaries/speechfake-a-large-scale-multilingual-speech-deepfake-dataset-incorporating-cutt.md) | Wen Huang et al. | Annual Meeting of the Association for Computational Linguistics | 17 |
 | 2025 | [Audio Features Investigation for Singing Voice Deepfake Detection](https://www.semanticscholar.org/paper/9c84e1a67d369853eb1856e3d98834daf5414b57) | Mahyar Gohari et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 13 |

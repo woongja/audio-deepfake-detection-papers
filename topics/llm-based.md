@@ -1,6 +1,6 @@
 # LLM-Based Detection
 
-> 22 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
+> 23 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-15
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@
 | 2026 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) · [📝 요약](../summaries/spooftral-can-voxtral-audio-language-model-detect-speech-spoofing.md) | > **제출일:** 2026-09-23 | arXiv |  |
 | 2026 | [SE-ADD: Self-Evolving Audio Deepfake Detection with Mistake-Driven Supervision](https://arxiv.org/abs/2609.39679) · [📝 요약](../summaries/se-add-self-evolving-audio-deepfake-detection-with-mistake-driven-supervision.md) | Rong Wan et al. | arXiv |  |
 | 2026 | [SEAR: Spoofing Evidence-Grounded Audio Reasoning Benchmark for Audio Language Models](https://arxiv.org/abs/2609.39847) · [📝 요약](../summaries/sear-spoofing-evidence-grounded-audio-reasoning-benchmark-for-audio-language-mod.md) | Rong Wan et al. | arXiv |  |
+| 2026 | [What Do Deepfake Audio Detectors Hear? From Self-Supervised Models to Audio LLMs](https://arxiv.org/abs/2610.17617) · [📝 요약](../summaries/what-do-deepfake-audio-detectors-hear-from-self-supervised-models-to-audio-llms.md) | Wanying Ge et al. | arXiv |  |
 | 2025 | [𝒜LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection](https://www.semanticscholar.org/paper/ed3bd8bccc63e59e45d938ae864ab08f360a8137) | Hao Gu et al. | arXiv.org | 5 |
 | 2025 | [IndicFake Meets SAFARI-LLM: Unifying Semantic and Acoustic Intelligence for Multilingual Deepfake Detection](https://www.semanticscholar.org/paper/2f61a3fdb350795e50d0849fd686863fb056ba8e) | Rishabh Ranjan et al. | Trans. Mach. Learn. Res. | 2 |
 | 2025 | [ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection](https://arxiv.org/abs/2505.11079) · [📝 요약](../summaries/allm4add-unlocking-the-capabilities-of-audio-large-language-models-for-audio-dee.md) | Hao Gu | arXiv |  |

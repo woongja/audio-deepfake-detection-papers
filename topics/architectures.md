@@ -1,6 +1,6 @@
 # Detection Architectures & Encoders
 
-> 176 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
+> 177 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-15
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -29,6 +29,7 @@
 | 2026 | [Tracing the Origins: Legacy Codec Identification in Neural Audio Transcoding](https://arxiv.org/abs/2609.14916) · [📝 요약](../summaries/tracing-the-origins-legacy-codec-identification-in-neural-audio-transcoding.md) | Wonje Heo et al. | arXiv |  |
 | 2026 | [CoReLoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection](https://arxiv.org/abs/2609.19818) · [📝 요약](../summaries/coreloop-parameter-efficient-controlled-recurrent-refinement-for-audio-deepfake.md) | > **제출일:** 2026-09-17 | arXiv |  |
 | 2026 | [Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2609.33709) · [📝 요약](../summaries/domain-adaptive-dual-gating-mixture-of-experts-for-generalizable-speech-deepfake.md) | Siqing Qin et al. | arXiv |  |
+| 2026 | [Adaptive Compression and Targeted Perturbation: A Unified Framework for Generalized Audio Deepfake Detection](https://arxiv.org/abs/2610.16049) · [📝 요약](../summaries/adaptive-compression-and-targeted-perturbation-a-unified-framework-for-generaliz.md) | Jianqiao Cui et al. | arXiv |  |
 | 2025 | [Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing](https://arxiv.org/abs/2504.05657) · [📝 요약](../summaries/nes2net-a-lightweight-nested-architecture-for-foundation-model-driven-speech-ant.md) | Tianchi Liu et al. | IEEE Transactions on Information Forensics and Security | 26 |
 | 2025 | [BiCrossMamba-ST: Speech Deepfake Detection with Bidirectional Mamba Spectro-Temporal Cross-Attention](https://arxiv.org/abs/2505.13930) · [📝 요약](../summaries/bicrossmamba-st-speech-deepfake-detection-with-bidirectional-mamba-spectro-tempo.md) | Y. E. Kheir et al. | Interspeech | 10 |
 | 2025 | [Dual-Channel Deepfake Audio Detection: Leveraging Direct and Reverberant Waveforms](https://www.semanticscholar.org/paper/ac05943e197aed0a145fcff85f56a2b8472124ec) | Gunwoo Lee et al. | IEEE Access | 8 |

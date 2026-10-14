@@ -1,6 +1,6 @@
 # Generalization & OOD
 
-> 365 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
+> 367 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-15
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -106,6 +106,8 @@
 | 2026 | [Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264) · [📝 요약](../summaries/task-aware-joint-pruning-and-distillation-for-efficient-audio-deepfake-detection.md) | Miao He et al. | arXiv |  |
 | 2026 | [Source-Directed Trajectory Perturbation at First-Order Cost for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2610.10094) · [📝 요약](../summaries/source-directed-trajectory-perturbation-at-first-order-cost-for-domain-generaliz.md) | Siqing Qin et al. | arXiv |  |
 | 2026 | [DuRe-ST: Dual-Relation Spectro-Temporal Modeling for Speech Deepfake Detection](https://arxiv.org/abs/2610.10121) · [📝 요약](../summaries/dure-st-dual-relation-spectro-temporal-modeling-for-speech-deepfake-detection.md) | Shaole Li et al. | arXiv |  |
+| 2026 | [Adaptive Compression and Targeted Perturbation: A Unified Framework for Generalized Audio Deepfake Detection](https://arxiv.org/abs/2610.16049) · [📝 요약](../summaries/adaptive-compression-and-targeted-perturbation-a-unified-framework-for-generaliz.md) | Jianqiao Cui et al. | arXiv |  |
+| 2026 | [Unsupervised Data Drift Monitoring for Deployed Deepfake Speech Detectors](https://arxiv.org/abs/2610.16826) · [📝 요약](../summaries/unsupervised-data-drift-monitoring-for-deployed-deepfake-speech-detectors.md) | Lukáš Prokeš et al. | arXiv |  |
 | 2025 | [Transferable Adversarial Attacks on Audio Deepfake Detection](https://arxiv.org/abs/2501.11902) · [📝 요약](../summaries/transferable-adversarial-attacks-on-audio-deepfake-detection.md) | Muhammad Umar Farooq et al. | 2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW) | 22 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) · [📝 요약](../summaries/envsdd-benchmarking-environmental-sound-deepfake-detection.md) | Han Yin et al. | Interspeech | 21 |
 | 2025 | [Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation](https://arxiv.org/abs/2501.14240) · [📝 요약](../summaries/generalizable-audio-deepfake-detection-via-latent-space-refinement-and-augmentat.md) | Wen Huang et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 19 |

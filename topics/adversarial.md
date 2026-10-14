@@ -1,6 +1,6 @@
 # Adversarial Attacks & Robustness Testing
 
-> 23 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
+> 24 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-15
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | 2026 | [Perceptible or Not? Diagnosing Passive Fingerprints for Speech Deepfake Attribution](https://arxiv.org/abs/2609.00765) · [📝 요약](../summaries/perceptible-or-not-diagnosing-passive-fingerprints-for-speech-deepfake-attributi.md) | Yupei Li et al. | arXiv |  |
 | 2026 | [Tracing and Relearning Detection Evidence in Text-to-Speech Systems](https://arxiv.org/abs/2609.30983) · [📝 요약](../summaries/tracing-and-relearning-detection-evidence-in-text-to-speech-systems.md) | Eunji Shin et al. | arXiv |  |
 | 2026 | [Detection-Guided Adaptive Purification with Diffusion Models for Robust Audio Deepfake Detection](https://arxiv.org/abs/2610.10752) · [📝 요약](../summaries/detection-guided-adaptive-purification-with-diffusion-models-for-robust-audio-de.md) | Muhammed Salih Kayhan et al. | arXiv |  |
+| 2026 | [Adaptive Compression and Targeted Perturbation: A Unified Framework for Generalized Audio Deepfake Detection](https://arxiv.org/abs/2610.16049) · [📝 요약](../summaries/adaptive-compression-and-targeted-perturbation-a-unified-framework-for-generaliz.md) | Jianqiao Cui et al. | arXiv |  |
 | 2025 | [Replay Attacks Against Audio Deepfake Detection](https://arxiv.org/abs/2505.14862) · [📝 요약](../summaries/replay-attacks-against-audio-deepfake-detection.md) | Nicolas M. Muller et al. | Interspeech | 15 |
 | 2025 | [Adaptive reverse perturbation network for audio deepfake detection](https://www.semanticscholar.org/paper/dd32fff886e44bb87584de49b3a4783599064231) | Ouyang Xue et al. | Neurocomputing | 4 |
 | 2025 | [DeePen: Penetration Testing for Audio Deepfake Detection](https://arxiv.org/abs/2502.20427) · [📝 요약](../summaries/deepen-penetration-testing-for-audio-deepfake-detection.md) | Nicolas M. Muller et al. | arXiv | 3 |

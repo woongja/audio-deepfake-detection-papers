@@ -1,6 +1,6 @@
 # Explainability & Attribution
 
-> 95 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
+> 96 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-15
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@
 | 2026 | [Audio Deepfake Detection Using Temporal Coherence Analysis](https://arxiv.org/abs/2609.09489) · [📝 요약](../summaries/audio-deepfake-detection-using-temporal-coherence-analysis.md) | Justin D. Norman et al. | arXiv |  |
 | 2026 | [Synthetic speech detection in Brazilian Portuguese through accent-related features](https://arxiv.org/abs/2609.23807) · [📝 요약](../summaries/synthetic-speech-detection-in-brazilian-portuguese-through-accent-related-featur.md) | > **제출일:** 2026-09-20 | arXiv |  |
 | 2026 | [SEAR: Spoofing Evidence-Grounded Audio Reasoning Benchmark for Audio Language Models](https://arxiv.org/abs/2609.39847) · [📝 요약](../summaries/sear-spoofing-evidence-grounded-audio-reasoning-benchmark-for-audio-language-mod.md) | Rong Wan et al. | arXiv |  |
+| 2026 | [What Do Deepfake Audio Detectors Hear? From Self-Supervised Models to Audio LLMs](https://arxiv.org/abs/2610.17617) · [📝 요약](../summaries/what-do-deepfake-audio-detectors-hear-from-self-supervised-models-to-audio-llms.md) | Wanying Ge et al. | arXiv |  |
 | 2025 | [Forensic deepfake audio detection using segmental speech features](https://arxiv.org/abs/2505.13847) · [📝 요약](../summaries/forensic-deepfake-audio-detection-using-segmental-speech-features.md) | Tianle Yang et al. | Forensic Science International | 12 |
 | 2025 | [Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis](https://arxiv.org/abs/2502.14726) · [📝 요약](../summaries/pitch-imperfect-detecting-audio-deepfakes-through-acoustic-prosodic-analysis.md) | Kevin Warren et al. | arXiv | 9 |
 | 2025 | [Anomaly Detection and Localization for Speech Deepfakes via Feature Pyramid Matching](https://arxiv.org/abs/2503.18032) · [📝 요약](../summaries/anomaly-detection-and-localization-for-speech-deepfakes-via-feature-pyramid-matc.md) | Emma Coletta et al. | European Signal Processing Conference | 7 |

@@ -1,6 +1,6 @@
 # Challenge Systems & Fusion
 
-> 46 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-14
+> 47 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-15
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | 2026 | [AT-ADD: All-Type Audio Deepfake Detection Challenge Summary](https://arxiv.org/abs/2608.14249) · [📝 요약](../summaries/at-add-all-type-audio-deepfake-detection-challenge-summary.md) | Yuankun Xie et al. | ACM Multimedia 2026 (MM '26) |  |
 | 2026 | [From Scores to Evidence: Auditable Decisions Can Improve Speech Deepfake Detection](https://arxiv.org/abs/2609.08899) · [📝 요약](../summaries/from-scores-to-evidence-auditable-decisions-can-improve-speech-deepfake-detectio.md) | Mengzhe Geng et al. | arXiv |  |
 | 2026 | [Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection](https://arxiv.org/abs/2609.20063) · [📝 요약](../summaries/robust-workflow-generation-via-adversarial-learning-for-audio-deepfake-detection.md) | > **제출일:** 2026-09-17 | arXiv |  |
+| 2026 | [Physics-Aware Deepfake Detection via Distance–Speech Consistency](https://arxiv.org/abs/2610.18485) · [📝 요약](../summaries/physics-aware-deepfake-detection-via-distancespeech-consistency.md) | > **제출일:** 2026-10-13 | arXiv |  |
 | 2025 | [Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion](https://arxiv.org/abs/2506.02085) · [📝 요약](../summaries/unveiling-audio-deepfake-origins-a-deep-metric-learning-and-conformer-network-ap.md) | Ajinkya Kulkarni et al. | Interspeech | 7 |
 | 2025 | [Multilingual Dataset Integration Strategies for Robust Audio Deepfake Detection: A SAFE Challenge System](https://arxiv.org/abs/2508.20983) · [📝 요약](../summaries/multilingual-dataset-integration-strategies-for-robust-audio-deepfake-detection.md) | Hashim Ali et al. | Automatic Speech Recognition & Understanding | 1 |
 | 2025 | [Learning to Fuse: A Gated Multi-Stream Framework for Generalized Audio Deepfake Detection](https://www.semanticscholar.org/paper/1863e660407f9fa14c4acc9f277aa3858d622fb3) | T. Wani et al. | DFF@MM | 1 |
