@@ -1,6 +1,6 @@
 # Spectral & Signal-Processing Front-Ends
 
-> 498 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-15
+> 499 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-16
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -34,6 +34,7 @@
 | 2026 | [Multi-Scale Self-Supervised Learning for Efficient Audio Deepfake Detection](https://www.semanticscholar.org/paper/e2f8a1aeb2451e107d4844882a77ed1203053f46) | T. Wani et al. | IEEE Signal Processing Letters | 0 |
 | 2026 | [Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction](https://arxiv.org/abs/2607.12584) · [📝 요약](../summaries/explainable-by-design-audio-deepfake-detection-via-wiener-hopf-linear-prediction.md) | Mattia Tamiazzo et al. | ACM IH&MMSec '26 |  |
 | 2026 | [Synthetic speech detection in Brazilian Portuguese through accent-related features](https://arxiv.org/abs/2609.23807) · [📝 요약](../summaries/synthetic-speech-detection-in-brazilian-portuguese-through-accent-related-featur.md) | > **제출일:** 2026-09-20 | arXiv |  |
+| 2026 | [An Initial Study of Physiological Markers for Deepfake Speech Detection](https://arxiv.org/abs/2610.18934) · [📝 요약](../summaries/an-initial-study-of-physiological-markers-for-deepfake-speech-detection.md) | Vojtěch Staněk et al. | arXiv |  |
 | 2025 | [Wave-Spectrogram Cross-Modal Aggregation for Audio Deepfake Detection](https://www.semanticscholar.org/paper/66e254939cb8e364d5f4660d4260559ce3b29ed5) | Zehui Jin et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 16 |
 | 2025 | [Audio Features Investigation for Singing Voice Deepfake Detection](https://www.semanticscholar.org/paper/9c84e1a67d369853eb1856e3d98834daf5414b57) | Mahyar Gohari et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 13 |
 | 2025 | [Novel transfer learning based acoustic feature engineering for scene fake audio detection](https://www.semanticscholar.org/paper/bc843f1ef9c392849505738f8bef69481b54d057) | A. S. Al-Shamayleh et al. | Scientific Reports | 13 |

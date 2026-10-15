@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1385-blue) ![updated](https://img.shields.io/badge/updated-2026--10--15-green)
+![papers](https://img.shields.io/badge/papers-1386-blue) ![updated](https://img.shields.io/badge/updated-2026--10--16-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -9,13 +9,13 @@ Generated from a personally maintained research corpus.
 ## Topics
 
 - [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (211)
-- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (498)
+- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (499)
 - [Detection Architectures & Encoders](topics/architectures.md) (177)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (30)
 - [LLM-Based Detection](topics/llm-based.md) (23)
-- [Explainability & Attribution](topics/xai-explainability.md) (96)
+- [Explainability & Attribution](topics/xai-explainability.md) (97)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (119)
-- [Generalization & OOD](topics/generalization-ood.md) (367)
+- [Generalization & OOD](topics/generalization-ood.md) (368)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (55)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (74)
 - [Datasets & Corpora](topics/datasets.md) (106)
@@ -36,6 +36,7 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-10-13 | [An Initial Study of Physiological Markers for Deepfake Speech Detection](https://arxiv.org/abs/2610.18934) | Vojtěch Staněk et al. | [📝](summaries/an-initial-study-of-physiological-markers-for-deepfake-speech-detection.md) |  |
 | 2026-10-13 | [Physics-Aware Deepfake Detection via Distance–Speech Consistency](https://arxiv.org/abs/2610.18485) | > **제출일:** 2026-10-13 | [📝](summaries/physics-aware-deepfake-detection-via-distancespeech-consistency.md) |  |
 | 2026-10-13 | [What Do Deepfake Audio Detectors Hear? From Self-Supervised Models to Audio LLMs](https://arxiv.org/abs/2610.17617) | Wanying Ge et al. | [📝](summaries/what-do-deepfake-audio-detectors-hear-from-self-supervised-models-to-audio-llms.md) |  |
 | 2026-10-12 | [Unsupervised Data Drift Monitoring for Deployed Deepfake Speech Detectors](https://arxiv.org/abs/2610.16826) | Lukáš Prokeš et al. | [📝](summaries/unsupervised-data-drift-monitoring-for-deployed-deepfake-speech-detectors.md) |  |
@@ -65,13 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-09-23 | [Spooftral: Can Voxtral Audio-Language Model Detect Speech Spoofing?](https://arxiv.org/abs/2609.28713) | > **제출일:** 2026-09-23 | [📝](summaries/spooftral-can-voxtral-audio-language-model-detect-speech-spoofing.md) |  |
 | 2026-09-22 | [Boundary and Intra-Segment Learning for Partial Audio Deepfake Localization](https://arxiv.org/abs/2609.25822) | > **제출일:** 2026-09-22 | [📝](summaries/boundary-and-intra-segment-learning-for-partial-audio-deepfake-localization.md) |  |
 | 2026-09-21 | [SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization](https://arxiv.org/abs/2609.25197) | > **제출일:** 2026-09-21 | [📝](summaries/spade-a-multilingual-dataset-for-speech-partial-deepfake-detection-and-localizat.md) |  |
-| 2026-09-20 | [DFD-Lab: A Modular Audio-Visual Deepfake Detection Pipeline](https://arxiv.org/abs/2609.23830) | > **제출일:** 2026-09-20 | [📝](summaries/dfd-lab-a-modular-audio-visual-deepfake-detection-pipeline.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 236 |
+| 2026 | 237 |
 | 2025 | 305 |
 | 2024 | 219 |
 | 2023 | 149 |
