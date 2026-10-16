@@ -1,6 +1,6 @@
 # Datasets & Corpora
 
-> 106 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-16
+> 106 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-17
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
