@@ -1,6 +1,6 @@
 # Evaluation, Metrics & Benchmarks
 
-> 103 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-19
+> 105 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-20
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -40,6 +40,8 @@
 | 2026 | [Learning as Deepfakes Evolve: RF-Prompt for Continual Audio Deepfake Detection](https://arxiv.org/abs/2609.37586) · [📝 요약](../summaries/learning-as-deepfakes-evolve-rf-prompt-for-continual-audio-deepfake-detection.md) | Yuankun Xie et al. | arXiv |  |
 | 2026 | [SEAR: Spoofing Evidence-Grounded Audio Reasoning Benchmark for Audio Language Models](https://arxiv.org/abs/2609.39847) · [📝 요약](../summaries/sear-spoofing-evidence-grounded-audio-reasoning-benchmark-for-audio-language-mod.md) | Rong Wan et al. | arXiv |  |
 | 2026 | [Collapse, Not Invariance: Diagnosing Auxiliary Objectives in Speech Anti-Spoofing](https://arxiv.org/abs/2610.00539) · [📝 요약](../summaries/collapse-not-invariance-diagnosing-auxiliary-objectives-in-speech-anti-spoofing.md) | Ksenia Lysikova et al. | arXiv (ICASSP 제출) |  |
+| 2026 | [Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors](https://arxiv.org/abs/2610.22832) · [📝 요약](../summaries/too-emotional-to-be-fake-intra-utterance-emotion-shifts-expose-failure-modes-in.md) | Jingyi Chen et al. | arXiv |  |
+| 2026 | [Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS](https://arxiv.org/abs/2610.23678) · [📝 요약](../summaries/beyond-the-benchmark-conditioning-domains-and-failure-modes-of-qwen3-tts.md) | Séverin Baroudi et al. | arXiv |  |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) · [📝 요약](../summaries/envsdd-benchmarking-environmental-sound-deepfake-detection.md) | Han Yin et al. | Interspeech | 21 |
 | 2025 | [Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models](https://arxiv.org/abs/2509.02859) · [📝 요약](../summaries/speech-df-arena-a-leaderboard-for-speech-deepfake-detection-models.md) | Sandipana Dowerah et al. | IEEE Open Journal of Signal Processing | 16 |
 | 2025 | [Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition](https://arxiv.org/abs/2501.06514) · [📝 요약](../summaries/neural-codec-source-tracing-toward-comprehensive-attribution-in-open-set-conditi.md) | Yuankun Xie et al. | arXiv | 15 |
