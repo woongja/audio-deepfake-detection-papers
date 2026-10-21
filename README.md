@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1389-blue) ![updated](https://img.shields.io/badge/updated-2026--10--20-green)
+![papers](https://img.shields.io/badge/papers-1392-blue) ![updated](https://img.shields.io/badge/updated-2026--10--22-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,27 +8,27 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (212)
-- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (499)
-- [Detection Architectures & Encoders](topics/architectures.md) (177)
-- [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (30)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (242)
+- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (614)
+- [Detection Architectures & Encoders](topics/architectures.md) (256)
+- [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (31)
 - [LLM-Based Detection](topics/llm-based.md) (23)
-- [Explainability & Attribution](topics/xai-explainability.md) (98)
-- [Noise & Real-World Robustness](topics/noise-robustness.md) (119)
-- [Generalization & OOD](topics/generalization-ood.md) (370)
-- [Neural Codec Deepfakes](topics/codec-deepfake.md) (55)
-- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (74)
-- [Datasets & Corpora](topics/datasets.md) (107)
-- [Data Augmentation & Curation](topics/data-augmentation.md) (91)
-- [Evaluation, Metrics & Benchmarks](topics/evaluation-benchmarks.md) (105)
-- [Speech Synthesis & Conversion (Attack Side)](topics/synthesis-attack-side.md) (4)
-- [Surveys & Reviews](topics/surveys.md) (35)
-- [Training Objectives & Losses](topics/training-objectives.md) (142)
-- [Continual & Federated Learning](topics/continual-federated.md) (16)
-- [Adversarial Attacks & Robustness Testing](topics/adversarial.md) (24)
-- [Challenge Systems & Fusion](topics/systems-fusion.md) (47)
-- [Transfer & Domain Adaptation](topics/transfer-adaptation.md) (49)
-- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (74)
+- [Explainability & Attribution](topics/xai-explainability.md) (118)
+- [Noise & Real-World Robustness](topics/noise-robustness.md) (142)
+- [Generalization & OOD](topics/generalization-ood.md) (483)
+- [Neural Codec Deepfakes](topics/codec-deepfake.md) (82)
+- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (81)
+- [Datasets & Corpora](topics/datasets.md) (141)
+- [Data Augmentation & Curation](topics/data-augmentation.md) (124)
+- [Evaluation, Metrics & Benchmarks](topics/evaluation-benchmarks.md) (148)
+- [Speech Synthesis & Conversion (Attack Side)](topics/synthesis-attack-side.md) (9)
+- [Surveys & Reviews](topics/surveys.md) (37)
+- [Training Objectives & Losses](topics/training-objectives.md) (195)
+- [Continual & Federated Learning](topics/continual-federated.md) (18)
+- [Adversarial Attacks & Robustness Testing](topics/adversarial.md) (39)
+- [Challenge Systems & Fusion](topics/systems-fusion.md) (133)
+- [Transfer & Domain Adaptation](topics/transfer-adaptation.md) (67)
+- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (84)
 
 ## Latest 30 Papers
 
@@ -36,6 +36,9 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-10-20 | [Media Intelligence Platform: Multimodal Detection of Synthetic and Manipulated Content](https://arxiv.org/abs/2610.27974) | David Fischinger et al. | [📝](summaries/media-intelligence-platform-multimodal-detection-of-synthetic-and-manipulated-co.md) |  |
+| 2026-10-20 | [RealComm: Benchmarking and Adapting Audio Deepfake Detection over Real Communication Channels](https://arxiv.org/abs/2610.27459) | Li Wang et al. | [📝](summaries/realcomm-benchmarking-and-adapting-audio-deepfake-detection-over-real-communicat.md) |  |
+| 2026-10-17 | [SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468) | > **제출일:** 2026-10-17 | [📝](summaries/sentry-a-streaming-edge-network-trust-engine-for-real-time-audio-deepfake-detect.md) |  |
 | 2026-10-16 | [Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS](https://arxiv.org/abs/2610.23678) | Séverin Baroudi et al. | [📝](summaries/beyond-the-benchmark-conditioning-domains-and-failure-modes-of-qwen3-tts.md) |  |
 | 2026-10-16 | [Interpreting SSL Representations for Spoof Detection: a WavLM Study](https://arxiv.org/abs/2610.23526) | Mohamed Mallat et al. | [📝](summaries/interpreting-ssl-representations-for-spoof-detection-a-wavlm-study.md) |  |
 | 2026-10-16 | [Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors](https://arxiv.org/abs/2610.22832) | Jingyi Chen et al. | [📝](summaries/too-emotional-to-be-fake-intra-utterance-emotion-shifts-expose-failure-modes-in.md) |  |
@@ -63,25 +66,22 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-09-27 | [Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2609.33709) | Siqing Qin et al. | [📝](summaries/domain-adaptive-dual-gating-mixture-of-experts-for-generalizable-speech-deepfake.md) |  |
 | 2026-09-27 | [DGS-MLDG: Domain Gradient Surgery Guided Meta-Learning for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2609.33706) | Siqing Qin et al. | [📝](summaries/dgs-mldg-domain-gradient-surgery-guided-meta-learning-for-domain-generalization.md) |  |
 | 2026-09-27 | [What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375) | Jiajun Xu et al. | [📝](summaries/what-survives-the-codec-shift-pooled-no-vocals-residuals-for-speech-deepfake-det.md) |  |
-| 2026-09-25 | [Tracing and Relearning Detection Evidence in Text-to-Speech Systems](https://arxiv.org/abs/2609.30983) | Eunji Shin et al. | [📝](summaries/tracing-and-relearning-detection-evidence-in-text-to-speech-systems.md) |  |
-| 2026-09-24 | [VIETPRISM: A Large-Scale Vietnamese Speech and Deepfake Corpus with Diverse Dialects and Code-Switching](https://arxiv.org/abs/2609.30005) | > **제출일:** 2026-09-24 | [📝](summaries/vietprism-a-large-scale-vietnamese-speech-and-deepfake-corpus-with-diverse-diale.md) |  |
-| 2026-09-24 | [Is Broader Better? A Controlled Study of Multilingual Coverage and Pretraining Objective in Frozen SSL Encoders for Speech Deepfake Detection](https://arxiv.org/abs/2609.29138) | > **제출일:** 2026-09-24 | [📝](summaries/is-broader-better-a-controlled-study-of-multilingual-coverage-and-pretraining-ob.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 240 |
-| 2025 | 305 |
-| 2024 | 219 |
-| 2023 | 149 |
-| 2022 | 118 |
-| 2021 | 85 |
+| 2026 | 246 |
+| 2025 | 304 |
+| 2024 | 217 |
+| 2023 | 146 |
+| 2022 | 124 |
+| 2021 | 82 |
 | 2020 | 70 |
 | 2019 | 70 |
-| 2018 | 43 |
+| 2018 | 44 |
 | 2017 | 38 |
-| 2016 | 18 |
+| 2016 | 17 |
 | 2015 | 23 |
 | 2014 | 5 |
 | 2013 | 4 |

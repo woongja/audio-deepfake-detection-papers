@@ -1,14 +1,16 @@
 # Continual & Federated Learning
 
-> 16 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-20
+> 18 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-22
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
+| 2026 | [ForenVoice-Secure: Robust and Privacy-Aware Audio Data Mining for Forensic Speaker Identification](https://www.semanticscholar.org/paper/bb8d99b6a6fc7671a3b0db400d55e0869fdee2f3) | M. Albathan | IJACSA Vol. 17, No. 1 | 0 |
 | 2026 | [Traceback Translators Against Forgetting in Continual Fake Speech Detection](https://arxiv.org/abs/2607.12569) · [📝 요약](../summaries/traceback-translators-against-forgetting-in-continual-fake-speech-detection.md) | Enrico Gottardis et al. | arXiv |  |
 | 2026 | [Learning as Deepfakes Evolve: RF-Prompt for Continual Audio Deepfake Detection](https://arxiv.org/abs/2609.37586) · [📝 요약](../summaries/learning-as-deepfakes-evolve-rf-prompt-for-continual-audio-deepfake-detection.md) | Yuankun Xie et al. | arXiv |  |
 | 2026 | [SE-ADD: Self-Evolving Audio Deepfake Detection with Mistake-Driven Supervision](https://arxiv.org/abs/2609.39679) · [📝 요약](../summaries/se-add-self-evolving-audio-deepfake-detection-with-mistake-driven-supervision.md) | Rong Wan et al. | arXiv |  |
 | 2026 | [FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching](https://arxiv.org/abs/2610.01242) · [📝 요약](../summaries/fedcfm-federated-continual-domain-generalization-for-fake-speech-detection-via-c.md) | Yingjian Yu et al. | arXiv |  |
 | 2026 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) · [📝 요약](../summaries/a-federated-deepfake-speech-detection-method-based-on-layer-wise-center-guided-w.md) | Yingjian Yu et al. | arXiv |  |
+| 2025 | [Continual Unsupervised Domain Adaptation for Audio Deepfake Detection](https://www.semanticscholar.org/paper/f4bcd1a20f8250a22b8cf6ebdfbb486823c88d46) | Xiaohuan Chen et al. | ICASSP 2025 | 9 |
 | 2025 | [Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing](https://arxiv.org/abs/2505.14601) · [📝 요약](../summaries/listen-analyze-and-adapt-to-learn-new-attacks-an-exemplar-free-class-incremental.md) | Yang Xiao et al. | Interspeech | 4 |
 | 2025 | [Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection](https://arxiv.org/abs/2505.24486) · [📝 요약](../summaries/rehearsal-with-auxiliary-informed-sampling-for-audio-deepfake-detection.md) | F. Febrinanto et al. | Interspeech | 2 |
 | 2025 | [Continual Audio Deepfake Detection via Universal Adversarial Perturbation](https://arxiv.org/abs/2511.19974) · [📝 요약](../summaries/continual-audio-deepfake-detection-via-universal-adversarial-perturbation.md) | Wangjie Li et al. | Asia-Pacific Signal and Information Processing Association Annual Summit and Conference | 0 |
@@ -18,5 +20,5 @@
 | 2024 | [Towards Robust Audio Deepfake Detection: A Evolving Benchmark for Continual Learning](https://arxiv.org/abs/2405.08596) · [📝 요약](../summaries/towards-robust-audio-deepfake-detection-a-evolving-benchmark-for-continual-learn.md) | Xiaohui Zhang et al. | arXiv | 2 |
 | 2023 | [What to Remember: Self-Adaptive Continual Learning for Audio Deepfake Detection](https://arxiv.org/abs/2312.09651) · [📝 요약](../summaries/what-to-remember-self-adaptive-continual-learning-for-audio-deepfake-detection.md) | Xiaohui Zhang et al. | AAAI Conference on Artificial Intelligence | 45 |
 | 2023 | [Do You Remember? Overcoming Catastrophic Forgetting for Fake Audio Detection](https://arxiv.org/abs/2308.03300) · [📝 요약](../summaries/do-you-remember-overcoming-catastrophic-forgetting-for-fake-audio-detection.md) | Xiaohui Zhang et al. | International Conference on Machine Learning | 34 |
+| 2023 | [Generalized Spoof Detection and Incremental Algorithm Recognition for Voice Spoofing](https://www.semanticscholar.org/paper/25e2c52cd62e00d3489ffa5733c9ba16ad50fc6c) | Jinlin Guo et al. | Applied Sciences (MDPI), 13, 7773 | 6 |
 | 2021 | [Continual Learning for Fake Audio Detection](https://arxiv.org/abs/2104.07286) · [📝 요약](../summaries/continual-learning-for-fake-audio-detection.md) | Haoxin Ma et al. | Interspeech | 57 |
-| 2021 | [Privacy-Preserving Voice Anti-Spoofing Using Secure Multi-Party Computation](https://www.semanticscholar.org/paper/b419209b1b34847b42ed80b52b7ce50ba3d08713) | Oubaïda Chouchane et al. | Interspeech | 9 |

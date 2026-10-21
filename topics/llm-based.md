@@ -1,6 +1,6 @@
 # LLM-Based Detection
 
-> 23 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-20
+> 23 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-22
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -25,5 +25,5 @@
 | 2026 | [What Do Deepfake Audio Detectors Hear? From Self-Supervised Models to Audio LLMs](https://arxiv.org/abs/2610.17617) · [📝 요약](../summaries/what-do-deepfake-audio-detectors-hear-from-self-supervised-models-to-audio-llms.md) | Wanying Ge et al. | arXiv |  |
 | 2025 | [𝒜LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection](https://www.semanticscholar.org/paper/ed3bd8bccc63e59e45d938ae864ab08f360a8137) | Hao Gu et al. | arXiv.org | 5 |
 | 2025 | [IndicFake Meets SAFARI-LLM: Unifying Semantic and Acoustic Intelligence for Multilingual Deepfake Detection](https://www.semanticscholar.org/paper/2f61a3fdb350795e50d0849fd686863fb056ba8e) | Rishabh Ranjan et al. | Trans. Mach. Learn. Res. | 2 |
-| 2025 | [ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection](https://arxiv.org/abs/2505.11079) · [📝 요약](../summaries/allm4add-unlocking-the-capabilities-of-audio-large-language-models-for-audio-dee.md) | Hao Gu | arXiv |  |
+| 2025 | ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection | Hao Gu | ACM MM 2025 |  |
 | 2025 | [DFALLM: Achieving Generalizable Multitask Deepfake Detection by Optimizing Audio LLM Components](https://arxiv.org/abs/2512.08403) · [📝 요약](../summaries/dfallm-achieving-generalizable-multitask-deepfake-detection-by-optimizing-audio.md) | Yupei Li | arXiv |  |
