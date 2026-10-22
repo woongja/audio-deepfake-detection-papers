@@ -1,6 +1,6 @@
 # Generalization & OOD
 
-> 483 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-22
+> 483 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-23
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
