@@ -1,6 +1,6 @@
 # Noise & Real-World Robustness
 
-> 142 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-23
+> 142 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-24
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
