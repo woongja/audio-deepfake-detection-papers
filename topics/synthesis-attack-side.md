@@ -1,6 +1,6 @@
 # Speech Synthesis & Conversion (Attack Side)
 
-> 9 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-25
+> 9 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-26
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
