@@ -1,6 +1,6 @@
 # SSL Front-Ends (wav2vec2 / WavLM / HuBERT)
 
-> 242 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-27
+> 242 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-28
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Temporal Localization & Partial Spoof
 
-> 81 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-27
+> 83 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-28
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -25,6 +25,8 @@
 | 2026 | [SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization](https://arxiv.org/abs/2609.25197) · [📝 요약](../summaries/spade-a-multilingual-dataset-for-speech-partial-deepfake-detection-and-localizat.md) | > **제출일:** 2026-09-21 | arXiv |  |
 | 2026 | [Boundary and Intra-Segment Learning for Partial Audio Deepfake Localization](https://arxiv.org/abs/2609.25822) · [📝 요약](../summaries/boundary-and-intra-segment-learning-for-partial-audio-deepfake-localization.md) | > **제출일:** 2026-09-22 | arXiv |  |
 | 2026 | [Temporal Anchors and Editing Sensitivity in Partial Speech Spoofing: A Controlled Study](https://arxiv.org/abs/2610.04479) · [📝 요약](../summaries/temporal-anchors-and-editing-sensitivity-in-partial-speech-spoofing-a-controlled.md) | Xiaosu Su et al. | arXiv |  |
+| 2026 | [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://arxiv.org/abs/2610.33413) · [📝 요약](../summaries/av-fable-audio-visual-manipulation-forensics-in-long-form-videos.md) | > **제출일:** 2026-10-24 | arXiv |  |
+| 2026 | [ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing](https://arxiv.org/abs/2610.34156) · [📝 요약](../summaries/asr-protected-fusion-and-reference-anchored-policy-optimization-for-joint-asr-an.md) | Xueping Zhang et al. | arXiv |  |
 | 2025 | [Hybrid CNN-LSTM Architectures for Deepfake Audio Detection Using Mel Frequency Cepstral Coefficients and Spectogram Analysis](https://www.semanticscholar.org/paper/a1d8a2d09de50a032dac6da58f9b7a79904215ac) | Clive Asuai et al. | American Journal of Mathematical and Computer Modelling | 11 |
 | 2025 | [BiCrossMamba-ST: Speech Deepfake Detection with Bidirectional Mamba Spectro-Temporal Cross-Attention](https://arxiv.org/abs/2505.13930) · [📝 요약](../summaries/bicrossmamba-st-speech-deepfake-detection-with-bidirectional-mamba-spectro-tempo.md) | Y. E. Kheir et al. | Interspeech | 10 |
 | 2025 | [Deep Fake Audio Detection Using a Hybrid CNN-BiLSTM Model with Attention Mechanism](https://www.semanticscholar.org/paper/84443458975c8336c2a9bda5322b7bd46215323d) | Shubham Chapagain et al. | KEC Conference 2025 (InJET Special Issue) | 10 |

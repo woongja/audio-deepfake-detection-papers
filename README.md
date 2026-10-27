@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1392-blue) ![updated](https://img.shields.io/badge/updated-2026--10--27-green)
+![papers](https://img.shields.io/badge/papers-1394-blue) ![updated](https://img.shields.io/badge/updated-2026--10--28-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -12,18 +12,18 @@ Generated from a personally maintained research corpus.
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (614)
 - [Detection Architectures & Encoders](topics/architectures.md) (256)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (31)
-- [LLM-Based Detection](topics/llm-based.md) (23)
+- [LLM-Based Detection](topics/llm-based.md) (25)
 - [Explainability & Attribution](topics/xai-explainability.md) (118)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (142)
 - [Generalization & OOD](topics/generalization-ood.md) (483)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (82)
-- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (81)
-- [Datasets & Corpora](topics/datasets.md) (141)
+- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (83)
+- [Datasets & Corpora](topics/datasets.md) (142)
 - [Data Augmentation & Curation](topics/data-augmentation.md) (124)
 - [Evaluation, Metrics & Benchmarks](topics/evaluation-benchmarks.md) (148)
 - [Speech Synthesis & Conversion (Attack Side)](topics/synthesis-attack-side.md) (9)
 - [Surveys & Reviews](topics/surveys.md) (37)
-- [Training Objectives & Losses](topics/training-objectives.md) (195)
+- [Training Objectives & Losses](topics/training-objectives.md) (196)
 - [Continual & Federated Learning](topics/continual-federated.md) (18)
 - [Adversarial Attacks & Robustness Testing](topics/adversarial.md) (39)
 - [Challenge Systems & Fusion](topics/systems-fusion.md) (133)
@@ -36,6 +36,8 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-10-25 | [ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing](https://arxiv.org/abs/2610.34156) | Xueping Zhang et al. | [📝](summaries/asr-protected-fusion-and-reference-anchored-policy-optimization-for-joint-asr-an.md) |  |
+| 2026-10-24 | [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://arxiv.org/abs/2610.33413) | > **제출일:** 2026-10-24 | [📝](summaries/av-fable-audio-visual-manipulation-forensics-in-long-form-videos.md) |  |
 | 2026-10-20 | [Media Intelligence Platform: Multimodal Detection of Synthetic and Manipulated Content](https://arxiv.org/abs/2610.27974) | David Fischinger et al. | [📝](summaries/media-intelligence-platform-multimodal-detection-of-synthetic-and-manipulated-co.md) |  |
 | 2026-10-20 | [RealComm: Benchmarking and Adapting Audio Deepfake Detection over Real Communication Channels](https://arxiv.org/abs/2610.27459) | Li Wang et al. | [📝](summaries/realcomm-benchmarking-and-adapting-audio-deepfake-detection-over-real-communicat.md) |  |
 | 2026-10-17 | [SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468) | > **제출일:** 2026-10-17 | [📝](summaries/sentry-a-streaming-edge-network-trust-engine-for-real-time-audio-deepfake-detect.md) |  |
@@ -64,14 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-09-29 | [Learning as Deepfakes Evolve: RF-Prompt for Continual Audio Deepfake Detection](https://arxiv.org/abs/2609.37586) | Yuankun Xie et al. | [📝](summaries/learning-as-deepfakes-evolve-rf-prompt-for-continual-audio-deepfake-detection.md) |  |
 | 2026-09-28 | [GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection](https://arxiv.org/abs/2609.35411) | Zelin Zhao et al. | [📝](summaries/glad-global-local-adaptive-detector-for-robust-speech-deepfake-detection.md) |  |
 | 2026-09-27 | [Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2609.33709) | Siqing Qin et al. | [📝](summaries/domain-adaptive-dual-gating-mixture-of-experts-for-generalizable-speech-deepfake.md) |  |
-| 2026-09-27 | [DGS-MLDG: Domain Gradient Surgery Guided Meta-Learning for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2609.33706) | Siqing Qin et al. | [📝](summaries/dgs-mldg-domain-gradient-surgery-guided-meta-learning-for-domain-generalization.md) |  |
-| 2026-09-27 | [What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection](https://arxiv.org/abs/2609.33375) | Jiajun Xu et al. | [📝](summaries/what-survives-the-codec-shift-pooled-no-vocals-residuals-for-speech-deepfake-det.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 246 |
+| 2026 | 248 |
 | 2025 | 304 |
 | 2024 | 217 |
 | 2023 | 146 |

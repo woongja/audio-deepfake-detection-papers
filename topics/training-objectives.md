@@ -1,6 +1,6 @@
 # Training Objectives & Losses
 
-> 195 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-27
+> 196 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-28
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -38,6 +38,7 @@
 | 2026 | [Collapse, Not Invariance: Diagnosing Auxiliary Objectives in Speech Anti-Spoofing](https://arxiv.org/abs/2610.00539) · [📝 요약](../summaries/collapse-not-invariance-diagnosing-auxiliary-objectives-in-speech-anti-spoofing.md) | Ksenia Lysikova et al. | arXiv (ICASSP 제출) |  |
 | 2026 | [Source-Directed Trajectory Perturbation at First-Order Cost for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2610.10094) · [📝 요약](../summaries/source-directed-trajectory-perturbation-at-first-order-cost-for-domain-generaliz.md) | Siqing Qin et al. | arXiv |  |
 | 2026 | [Media Intelligence Platform: Multimodal Detection of Synthetic and Manipulated Content](https://arxiv.org/abs/2610.27974) · [📝 요약](../summaries/media-intelligence-platform-multimodal-detection-of-synthetic-and-manipulated-co.md) | David Fischinger et al. | arXiv (workshop submission) |  |
+| 2026 | [ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing](https://arxiv.org/abs/2610.34156) · [📝 요약](../summaries/asr-protected-fusion-and-reference-anchored-policy-optimization-for-joint-asr-an.md) | Xueping Zhang et al. | arXiv |  |
 | 2025 | [Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation](https://arxiv.org/abs/2501.14240) · [📝 요약](../summaries/generalizable-audio-deepfake-detection-via-latent-space-refinement-and-augmentat.md) | Wen Huang et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 19 |
 | 2025 | [VoiceRadar: Voice Deepfake Detection using Micro-Frequency and Compositional Analysis](https://www.semanticscholar.org/paper/b6a63c5902acbb80e95d8412e248d0c5f6e514d7) | Kavita Kumari et al. | NDSS 2025 | 11 |
 | 2025 | [Anomaly Detection and Localization for Speech Deepfakes via Feature Pyramid Matching](https://arxiv.org/abs/2503.18032) · [📝 요약](../summaries/anomaly-detection-and-localization-for-speech-deepfakes-via-feature-pyramid-matc.md) | Emma Coletta et al. | European Signal Processing Conference | 7 |
