@@ -1,6 +1,6 @@
 # Continual & Federated Learning
 
-> 18 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-28
+> 18 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-29
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
