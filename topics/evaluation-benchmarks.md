@@ -1,6 +1,6 @@
 # Evaluation, Metrics & Benchmarks
 
-> 148 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-30
+> 148 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-31
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
