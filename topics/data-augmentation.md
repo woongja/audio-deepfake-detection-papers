@@ -1,6 +1,6 @@
 # Data Augmentation & Curation
 
-> 124 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-10-31
+> 124 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-01
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
