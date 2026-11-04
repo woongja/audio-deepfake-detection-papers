@@ -1,6 +1,6 @@
 # Explainability & Attribution
 
-> 118 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-04
+> 119 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-05
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -56,6 +56,7 @@
 | 2026 | [What Do Deepfake Audio Detectors Hear? From Self-Supervised Models to Audio LLMs](https://arxiv.org/abs/2610.17617) · [📝 요약](../summaries/what-do-deepfake-audio-detectors-hear-from-self-supervised-models-to-audio-llms.md) | Wanying Ge et al. | arXiv |  |
 | 2026 | [An Initial Study of Physiological Markers for Deepfake Speech Detection](https://arxiv.org/abs/2610.18934) · [📝 요약](../summaries/an-initial-study-of-physiological-markers-for-deepfake-speech-detection.md) | Vojtěch Staněk et al. | arXiv |  |
 | 2026 | [Interpreting SSL Representations for Spoof Detection: a WavLM Study](https://arxiv.org/abs/2610.23526) · [📝 요약](../summaries/interpreting-ssl-representations-for-spoof-detection-a-wavlm-study.md) | Mohamed Mallat et al. | arXiv |  |
+| 2026 | [VeriSpoof: Beyond Real or Fake with One Audio LLM](https://arxiv.org/abs/2611.04634) · [📝 요약](../summaries/verispoof-beyond-real-or-fake-with-one-audio-llm.md) | Yang Xiao et al. | arXiv |  |
 | 2025 | [Forensic deepfake audio detection using segmental speech features](https://arxiv.org/abs/2505.13847) · [📝 요약](../summaries/forensic-deepfake-audio-detection-using-segmental-speech-features.md) | Tianle Yang et al. | Forensic Science International | 12 |
 | 2025 | [Deep Fake Audio Detection Using a Hybrid CNN-BiLSTM Model with Attention Mechanism](https://www.semanticscholar.org/paper/84443458975c8336c2a9bda5322b7bd46215323d) | Shubham Chapagain et al. | KEC Conference 2025 (InJET Special Issue) | 10 |
 | 2025 | [Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis](https://arxiv.org/abs/2502.14726) · [📝 요약](../summaries/pitch-imperfect-detecting-audio-deepfakes-through-acoustic-prosodic-analysis.md) | Kevin Warren et al. | arXiv | 9 |

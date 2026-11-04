@@ -1,6 +1,6 @@
 # Adversarial Attacks & Robustness Testing
 
-> 40 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-04
+> 41 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-05
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | 2026 | [Detection-Guided Adaptive Purification with Diffusion Models for Robust Audio Deepfake Detection](https://arxiv.org/abs/2610.10752) · [📝 요약](../summaries/detection-guided-adaptive-purification-with-diffusion-models-for-robust-audio-de.md) | Muhammed Salih Kayhan et al. | arXiv |  |
 | 2026 | [Adaptive Compression and Targeted Perturbation: A Unified Framework for Generalized Audio Deepfake Detection](https://arxiv.org/abs/2610.16049) · [📝 요약](../summaries/adaptive-compression-and-targeted-perturbation-a-unified-framework-for-generaliz.md) | Jianqiao Cui et al. | arXiv |  |
 | 2026 | [Pop Goes the Verifier: Phoneme-Targeted Data Poisoning of Voice Liveness Detection](https://arxiv.org/abs/2611.01095) · [📝 요약](../summaries/pop-goes-the-verifier-phoneme-targeted-data-poisoning-of-voice-liveness-detectio.md) | Eshaq Jamdar et al. | arXiv |  |
+| 2026 | [Detector-Guided Adversarial Vocoder Training for Text-to-Speech Synthesis](https://arxiv.org/abs/2611.04511) · [📝 요약](../summaries/detector-guided-adversarial-vocoder-training-for-text-to-speech-synthesis.md) | Jiayan Cui et al. | arXiv |  |
 | 2025 | [Replay Attacks Against Audio Deepfake Detection](https://arxiv.org/abs/2505.14862) · [📝 요약](../summaries/replay-attacks-against-audio-deepfake-detection.md) | Nicolas M. Muller et al. | Interspeech | 15 |
 | 2025 | [DeePen: Penetration Testing for Audio Deepfake Detection](https://arxiv.org/abs/2502.20427) · [📝 요약](../summaries/deepen-penetration-testing-for-audio-deepfake-detection.md) | Nicolas M. Muller et al. | arXiv | 3 |
 | 2025 | [BIM-Based Adversarial Attacks Against Speech Deepfake Detectors](https://www.semanticscholar.org/paper/c07cdca4d2c9b12312557d8bf944b705390f0671) | Wendy Edda Wang et al. | Electronics 2025, 14, 2967 (MDPI) | 3 |

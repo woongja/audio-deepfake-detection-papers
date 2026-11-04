@@ -1,12 +1,13 @@
 # Speech Synthesis & Conversion (Attack Side)
 
-> 10 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-04
+> 11 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-05
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
 | 2026 | [Tracing and Relearning Detection Evidence in Text-to-Speech Systems](https://arxiv.org/abs/2609.30983) · [📝 요약](../summaries/tracing-and-relearning-detection-evidence-in-text-to-speech-systems.md) | Eunji Shin et al. | arXiv |  |
 | 2026 | [Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS](https://arxiv.org/abs/2610.23678) · [📝 요약](../summaries/beyond-the-benchmark-conditioning-domains-and-failure-modes-of-qwen3-tts.md) | Séverin Baroudi et al. | arXiv |  |
 | 2026 | [Pop Goes the Verifier: Phoneme-Targeted Data Poisoning of Voice Liveness Detection](https://arxiv.org/abs/2611.01095) · [📝 요약](../summaries/pop-goes-the-verifier-phoneme-targeted-data-poisoning-of-voice-liveness-detectio.md) | Eshaq Jamdar et al. | arXiv |  |
+| 2026 | [Detector-Guided Adversarial Vocoder Training for Text-to-Speech Synthesis](https://arxiv.org/abs/2611.04511) · [📝 요약](../summaries/detector-guided-adversarial-vocoder-training-for-text-to-speech-synthesis.md) | Jiayan Cui et al. | arXiv |  |
 | 2025 | [Analysis of Time-Frequency Properties of Deepfake Speech](https://www.semanticscholar.org/paper/ad7282ddbb2c2f94d7e0ea4706eb2b0a8227de28) | Natalia Scislowska et al. | SPA 2025 | 0 |
 | 2023 | [An Open Dataset of Synthetic Speech](https://www.semanticscholar.org/paper/e4f6de5c0fe8e923c0cb81795ec796b7e4039fdc) | Artem Yaroshchuk et al. | International Workshop on Information Forensics and Security | 19 |
 | 2023 | [DoubleDeceiver: Deceiving the Speaker Verification System Protected by Spoofing Countermeasures](https://www.semanticscholar.org/paper/68d92126af0400732e06fb018bfecd23d473275e) | Mengao Zhang et al. | Interspeech 2023 | 4 |
