@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1398-blue) ![updated](https://img.shields.io/badge/updated-2026--11--05-green)
+![papers](https://img.shields.io/badge/papers-1400-blue) ![updated](https://img.shields.io/badge/updated-2026--11--06-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,14 +8,14 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (242)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (244)
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (614)
-- [Detection Architectures & Encoders](topics/architectures.md) (256)
+- [Detection Architectures & Encoders](topics/architectures.md) (257)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (31)
 - [LLM-Based Detection](topics/llm-based.md) (26)
 - [Explainability & Attribution](topics/xai-explainability.md) (119)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (143)
-- [Generalization & OOD](topics/generalization-ood.md) (484)
+- [Generalization & OOD](topics/generalization-ood.md) (486)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (82)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (83)
 - [Datasets & Corpora](topics/datasets.md) (143)
@@ -36,6 +36,8 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-11-04 | [GraphSeal: Graph-Augmented Speech Deepfake Detection via Temporal-Spectral Artifact Propagation](https://arxiv.org/abs/2611.06171) | Lee Seung-woo et al. | [📝](summaries/graphseal-graph-augmented-speech-deepfake-detection-via-temporal-spectral-artifa.md) |  |
+| 2026-11-03 | [CLRM: Cross-Layer Relation Modeling for Audio Deepfake Detection](https://arxiv.org/abs/2611.05678) | Yangyang Qu et al. | [📝](summaries/clrm-cross-layer-relation-modeling-for-audio-deepfake-detection.md) |  |
 | 2026-11-03 | [VeriSpoof: Beyond Real or Fake with One Audio LLM](https://arxiv.org/abs/2611.04634) | Yang Xiao et al. | [📝](summaries/verispoof-beyond-real-or-fake-with-one-audio-llm.md) |  |
 | 2026-11-03 | [Detector-Guided Adversarial Vocoder Training for Text-to-Speech Synthesis](https://arxiv.org/abs/2611.04511) | Jiayan Cui et al. | [📝](summaries/detector-guided-adversarial-vocoder-training-for-text-to-speech-synthesis.md) |  |
 | 2026-11-02 | [ReplayFactor: Replay-Aware Dual-Attribute Learning for Practical Speech Deepfake Detection](https://arxiv.org/abs/2611.02628) | Miao He et al. | [📝](summaries/replayfactor-replay-aware-dual-attribute-learning-for-practical-speech-deepfake.md) |  |
@@ -64,14 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-10-01 | [FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching](https://arxiv.org/abs/2610.01242) | Yingjian Yu et al. | [📝](summaries/fedcfm-federated-continual-domain-generalization-for-fake-speech-detection-via-c.md) |  |
 | 2026-09-30 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) | Lisan Al Amin et al. | [📝](summaries/on-evaluating-quantum-kernel-robustness-for-low-resource-cross-corpus-audio-deep.md) |  |
 | 2026-09-30 | [Collapse, Not Invariance: Diagnosing Auxiliary Objectives in Speech Anti-Spoofing](https://arxiv.org/abs/2610.00539) | Ksenia Lysikova et al. | [📝](summaries/collapse-not-invariance-diagnosing-auxiliary-objectives-in-speech-anti-spoofing.md) |  |
-| 2026-09-30 | [SEAR: Spoofing Evidence-Grounded Audio Reasoning Benchmark for Audio Language Models](https://arxiv.org/abs/2609.39847) | Rong Wan et al. | [📝](summaries/sear-spoofing-evidence-grounded-audio-reasoning-benchmark-for-audio-language-mod.md) |  |
-| 2026-09-30 | [SE-ADD: Self-Evolving Audio Deepfake Detection with Mistake-Driven Supervision](https://arxiv.org/abs/2609.39679) | Rong Wan et al. | [📝](summaries/se-add-self-evolving-audio-deepfake-detection-with-mistake-driven-supervision.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 252 |
+| 2026 | 254 |
 | 2025 | 304 |
 | 2024 | 217 |
 | 2023 | 146 |
