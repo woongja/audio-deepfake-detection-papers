@@ -1,6 +1,6 @@
 # Cross-Domain & Multimodal
 
-> 84 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-06
+> 85 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -32,6 +32,7 @@
 | 2026 | [QBFF: Deep Quantum Bottleneck for Automatic Speaker Verification Anti-Spoofing](https://arxiv.org/abs/2610.16390) · [📝 요약](../summaries/qbff-deep-quantum-bottleneck-for-automatic-speaker-verification-anti-spoofing.md) | > **제출일:** 2026-10-12 | arXiv |  |
 | 2026 | [Unsupervised Data Drift Monitoring for Deployed Deepfake Speech Detectors](https://arxiv.org/abs/2610.16826) · [📝 요약](../summaries/unsupervised-data-drift-monitoring-for-deployed-deepfake-speech-detectors.md) | Lukáš Prokeš et al. | arXiv |  |
 | 2026 | [Physics-Aware Deepfake Detection via Distance–Speech Consistency](https://arxiv.org/abs/2610.18485) · [📝 요약](../summaries/physics-aware-deepfake-detection-via-distancespeech-consistency.md) | > **제출일:** 2026-10-13 | arXiv |  |
+| 2026 | [LABBA: LLM-Assisted Behavioral Biometric Authentication](https://arxiv.org/abs/2611.08343) · [📝 요약](../summaries/labba-llm-assisted-behavioral-biometric-authentication.md) | > **제출일:** 2026-11-05 | arXiv |  |
 | 2025 | [Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection](https://arxiv.org/abs/2502.03559) · [📝 요약](../summaries/comprehensive-layer-wise-analysis-of-ssl-models-for-audio-deepfake-detection.md) | Y. E. Kheir et al. | North American Chapter of the Association for Computational Linguistics | 25 |
 | 2025 | [SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://arxiv.org/abs/2507.21463) · [📝 요약](../summaries/speechfake-a-large-scale-multilingual-speech-deepfake-dataset-incorporating-cutt.md) | Wen Huang et al. | Annual Meeting of the Association for Computational Linguistics | 17 |
 | 2025 | [Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception](https://arxiv.org/abs/2504.06753) · [📝 요약](../summaries/detect-all-type-deepfake-audio-wavelet-prompt-tuning-for-enhanced-auditory-perce.md) | Yuankun Xie et al. | ACM Multimedia 2025 | 12 |

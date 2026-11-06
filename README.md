@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1400-blue) ![updated](https://img.shields.io/badge/updated-2026--11--06-green)
+![papers](https://img.shields.io/badge/papers-1401-blue) ![updated](https://img.shields.io/badge/updated-2026--11--07-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -12,7 +12,7 @@ Generated from a personally maintained research corpus.
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (614)
 - [Detection Architectures & Encoders](topics/architectures.md) (257)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (31)
-- [LLM-Based Detection](topics/llm-based.md) (26)
+- [LLM-Based Detection](topics/llm-based.md) (27)
 - [Explainability & Attribution](topics/xai-explainability.md) (119)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (143)
 - [Generalization & OOD](topics/generalization-ood.md) (486)
@@ -28,7 +28,7 @@ Generated from a personally maintained research corpus.
 - [Adversarial Attacks & Robustness Testing](topics/adversarial.md) (41)
 - [Challenge Systems & Fusion](topics/systems-fusion.md) (133)
 - [Transfer & Domain Adaptation](topics/transfer-adaptation.md) (67)
-- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (84)
+- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (85)
 
 ## Latest 30 Papers
 
@@ -36,6 +36,7 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-11-05 | [LABBA: LLM-Assisted Behavioral Biometric Authentication](https://arxiv.org/abs/2611.08343) | > **제출일:** 2026-11-05 | [📝](summaries/labba-llm-assisted-behavioral-biometric-authentication.md) |  |
 | 2026-11-04 | [GraphSeal: Graph-Augmented Speech Deepfake Detection via Temporal-Spectral Artifact Propagation](https://arxiv.org/abs/2611.06171) | Lee Seung-woo et al. | [📝](summaries/graphseal-graph-augmented-speech-deepfake-detection-via-temporal-spectral-artifa.md) |  |
 | 2026-11-03 | [CLRM: Cross-Layer Relation Modeling for Audio Deepfake Detection](https://arxiv.org/abs/2611.05678) | Yangyang Qu et al. | [📝](summaries/clrm-cross-layer-relation-modeling-for-audio-deepfake-detection.md) |  |
 | 2026-11-03 | [VeriSpoof: Beyond Real or Fake with One Audio LLM](https://arxiv.org/abs/2611.04634) | Yang Xiao et al. | [📝](summaries/verispoof-beyond-real-or-fake-with-one-audio-llm.md) |  |
@@ -65,13 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-10-01 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) | Yingjian Yu et al. | [📝](summaries/a-federated-deepfake-speech-detection-method-based-on-layer-wise-center-guided-w.md) |  |
 | 2026-10-01 | [FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching](https://arxiv.org/abs/2610.01242) | Yingjian Yu et al. | [📝](summaries/fedcfm-federated-continual-domain-generalization-for-fake-speech-detection-via-c.md) |  |
 | 2026-09-30 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) | Lisan Al Amin et al. | [📝](summaries/on-evaluating-quantum-kernel-robustness-for-low-resource-cross-corpus-audio-deep.md) |  |
-| 2026-09-30 | [Collapse, Not Invariance: Diagnosing Auxiliary Objectives in Speech Anti-Spoofing](https://arxiv.org/abs/2610.00539) | Ksenia Lysikova et al. | [📝](summaries/collapse-not-invariance-diagnosing-auxiliary-objectives-in-speech-anti-spoofing.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 254 |
+| 2026 | 255 |
 | 2025 | 304 |
 | 2024 | 217 |
 | 2023 | 146 |

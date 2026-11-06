@@ -1,6 +1,6 @@
 # LLM-Based Detection
 
-> 26 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-06
+> 27 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-07
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -26,6 +26,7 @@
 | 2026 | [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://arxiv.org/abs/2610.33413) · [📝 요약](../summaries/av-fable-audio-visual-manipulation-forensics-in-long-form-videos.md) | > **제출일:** 2026-10-24 | arXiv |  |
 | 2026 | [ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing](https://arxiv.org/abs/2610.34156) · [📝 요약](../summaries/asr-protected-fusion-and-reference-anchored-policy-optimization-for-joint-asr-an.md) | Xueping Zhang et al. | arXiv |  |
 | 2026 | [VeriSpoof: Beyond Real or Fake with One Audio LLM](https://arxiv.org/abs/2611.04634) · [📝 요약](../summaries/verispoof-beyond-real-or-fake-with-one-audio-llm.md) | Yang Xiao et al. | arXiv |  |
+| 2026 | [LABBA: LLM-Assisted Behavioral Biometric Authentication](https://arxiv.org/abs/2611.08343) · [📝 요약](../summaries/labba-llm-assisted-behavioral-biometric-authentication.md) | > **제출일:** 2026-11-05 | arXiv |  |
 | 2025 | [𝒜LLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection](https://www.semanticscholar.org/paper/ed3bd8bccc63e59e45d938ae864ab08f360a8137) | Hao Gu et al. | arXiv.org | 5 |
 | 2025 | [IndicFake Meets SAFARI-LLM: Unifying Semantic and Acoustic Intelligence for Multilingual Deepfake Detection](https://www.semanticscholar.org/paper/2f61a3fdb350795e50d0849fd686863fb056ba8e) | Rishabh Ranjan et al. | Trans. Mach. Learn. Res. | 2 |
 | 2025 | ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection | Hao Gu | ACM MM 2025 |  |
