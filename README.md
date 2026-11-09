@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1401-blue) ![updated](https://img.shields.io/badge/updated-2026--11--09-green)
+![papers](https://img.shields.io/badge/papers-1402-blue) ![updated](https://img.shields.io/badge/updated-2026--11--10-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -15,7 +15,7 @@ Generated from a personally maintained research corpus.
 - [LLM-Based Detection](topics/llm-based.md) (27)
 - [Explainability & Attribution](topics/xai-explainability.md) (119)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (143)
-- [Generalization & OOD](topics/generalization-ood.md) (486)
+- [Generalization & OOD](topics/generalization-ood.md) (487)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (82)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (83)
 - [Datasets & Corpora](topics/datasets.md) (143)
@@ -23,7 +23,7 @@ Generated from a personally maintained research corpus.
 - [Evaluation, Metrics & Benchmarks](topics/evaluation-benchmarks.md) (148)
 - [Speech Synthesis & Conversion (Attack Side)](topics/synthesis-attack-side.md) (11)
 - [Surveys & Reviews](topics/surveys.md) (37)
-- [Training Objectives & Losses](topics/training-objectives.md) (197)
+- [Training Objectives & Losses](topics/training-objectives.md) (198)
 - [Continual & Federated Learning](topics/continual-federated.md) (18)
 - [Adversarial Attacks & Robustness Testing](topics/adversarial.md) (41)
 - [Challenge Systems & Fusion](topics/systems-fusion.md) (133)
@@ -36,6 +36,7 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-11-05 | [Conflict-Aware Meta-Learning for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2611.08758) | > **제출일:** 2026-11-05 | [📝](summaries/conflict-aware-meta-learning-for-generalizable-speech-deepfake-detection.md) |  |
 | 2026-11-05 | [LABBA: LLM-Assisted Behavioral Biometric Authentication](https://arxiv.org/abs/2611.08343) | > **제출일:** 2026-11-05 | [📝](summaries/labba-llm-assisted-behavioral-biometric-authentication.md) |  |
 | 2026-11-04 | [GraphSeal: Graph-Augmented Speech Deepfake Detection via Temporal-Spectral Artifact Propagation](https://arxiv.org/abs/2611.06171) | Lee Seung-woo et al. | [📝](summaries/graphseal-graph-augmented-speech-deepfake-detection-via-temporal-spectral-artifa.md) |  |
 | 2026-11-03 | [CLRM: Cross-Layer Relation Modeling for Audio Deepfake Detection](https://arxiv.org/abs/2611.05678) | Yangyang Qu et al. | [📝](summaries/clrm-cross-layer-relation-modeling-for-audio-deepfake-detection.md) |  |
@@ -65,13 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-10-03 | [Temporal Anchors and Editing Sensitivity in Partial Speech Spoofing: A Controlled Study](https://arxiv.org/abs/2610.04479) | Xiaosu Su et al. | [📝](summaries/temporal-anchors-and-editing-sensitivity-in-partial-speech-spoofing-a-controlled.md) |  |
 | 2026-10-01 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) | Yingjian Yu et al. | [📝](summaries/a-federated-deepfake-speech-detection-method-based-on-layer-wise-center-guided-w.md) |  |
 | 2026-10-01 | [FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching](https://arxiv.org/abs/2610.01242) | Yingjian Yu et al. | [📝](summaries/fedcfm-federated-continual-domain-generalization-for-fake-speech-detection-via-c.md) |  |
-| 2026-09-30 | [On Evaluating Quantum Kernel Robustness for Low-Resource Cross-Corpus Audio Deepfake Detection](https://arxiv.org/abs/2610.00649) | Lisan Al Amin et al. | [📝](summaries/on-evaluating-quantum-kernel-robustness-for-low-resource-cross-corpus-audio-deep.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 255 |
+| 2026 | 256 |
 | 2025 | 304 |
 | 2024 | 217 |
 | 2023 | 146 |
