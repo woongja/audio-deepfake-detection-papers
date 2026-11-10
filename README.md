@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1402-blue) ![updated](https://img.shields.io/badge/updated-2026--11--10-green)
+![papers](https://img.shields.io/badge/papers-1404-blue) ![updated](https://img.shields.io/badge/updated-2026--11--11-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,14 +8,14 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (244)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (245)
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (614)
 - [Detection Architectures & Encoders](topics/architectures.md) (257)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (31)
 - [LLM-Based Detection](topics/llm-based.md) (27)
 - [Explainability & Attribution](topics/xai-explainability.md) (119)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (143)
-- [Generalization & OOD](topics/generalization-ood.md) (487)
+- [Generalization & OOD](topics/generalization-ood.md) (488)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (82)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (83)
 - [Datasets & Corpora](topics/datasets.md) (143)
@@ -25,10 +25,10 @@ Generated from a personally maintained research corpus.
 - [Surveys & Reviews](topics/surveys.md) (37)
 - [Training Objectives & Losses](topics/training-objectives.md) (198)
 - [Continual & Federated Learning](topics/continual-federated.md) (18)
-- [Adversarial Attacks & Robustness Testing](topics/adversarial.md) (41)
+- [Adversarial Attacks & Robustness Testing](topics/adversarial.md) (42)
 - [Challenge Systems & Fusion](topics/systems-fusion.md) (133)
 - [Transfer & Domain Adaptation](topics/transfer-adaptation.md) (67)
-- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (85)
+- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (86)
 
 ## Latest 30 Papers
 
@@ -36,6 +36,8 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-11-09 | [MUTE: Multi-Level Alignment Uncoupling Against Talking-Head Exploitation for Voice Protection](https://arxiv.org/abs/2611.11989) | Donghyun Kim et al. | [📝](summaries/mute-multi-level-alignment-uncoupling-against-talking-head-exploitation-for-voic.md) |  |
+| 2026-11-08 | [When Normality Shifts: Multi-Level WavLM Modeling for Open-World Audio Deepfake Detection](https://arxiv.org/abs/2611.11465) | Daniel Niekurzak et al. | [📝](summaries/when-normality-shifts-multi-level-wavlm-modeling-for-open-world-audio-deepfake-d.md) |  |
 | 2026-11-05 | [Conflict-Aware Meta-Learning for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2611.08758) | > **제출일:** 2026-11-05 | [📝](summaries/conflict-aware-meta-learning-for-generalizable-speech-deepfake-detection.md) |  |
 | 2026-11-05 | [LABBA: LLM-Assisted Behavioral Biometric Authentication](https://arxiv.org/abs/2611.08343) | > **제출일:** 2026-11-05 | [📝](summaries/labba-llm-assisted-behavioral-biometric-authentication.md) |  |
 | 2026-11-04 | [GraphSeal: Graph-Augmented Speech Deepfake Detection via Temporal-Spectral Artifact Propagation](https://arxiv.org/abs/2611.06171) | Lee Seung-woo et al. | [📝](summaries/graphseal-graph-augmented-speech-deepfake-detection-via-temporal-spectral-artifa.md) |  |
@@ -64,14 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-10-05 | [Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection](https://arxiv.org/abs/2610.07216) | Abdullah et al. | [📝](summaries/exposing-and-mitigating-neural-codec-vulnerabilities-in-audio-deepfake-detection.md) |  |
 | 2026-10-04 | [Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264) | Miao He et al. | [📝](summaries/task-aware-joint-pruning-and-distillation-for-efficient-audio-deepfake-detection.md) |  |
 | 2026-10-03 | [Temporal Anchors and Editing Sensitivity in Partial Speech Spoofing: A Controlled Study](https://arxiv.org/abs/2610.04479) | Xiaosu Su et al. | [📝](summaries/temporal-anchors-and-editing-sensitivity-in-partial-speech-spoofing-a-controlled.md) |  |
-| 2026-10-01 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) | Yingjian Yu et al. | [📝](summaries/a-federated-deepfake-speech-detection-method-based-on-layer-wise-center-guided-w.md) |  |
-| 2026-10-01 | [FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching](https://arxiv.org/abs/2610.01242) | Yingjian Yu et al. | [📝](summaries/fedcfm-federated-continual-domain-generalization-for-fake-speech-detection-via-c.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 256 |
+| 2026 | 258 |
 | 2025 | 304 |
 | 2024 | 217 |
 | 2023 | 146 |

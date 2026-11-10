@@ -1,6 +1,6 @@
 # SSL Front-Ends (wav2vec2 / WavLM / HuBERT)
 
-> 244 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-10
+> 245 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-11
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -79,6 +79,7 @@
 | 2026 | [Interpreting SSL Representations for Spoof Detection: a WavLM Study](https://arxiv.org/abs/2610.23526) · [📝 요약](../summaries/interpreting-ssl-representations-for-spoof-detection-a-wavlm-study.md) | Mohamed Mallat et al. | arXiv |  |
 | 2026 | [CLRM: Cross-Layer Relation Modeling for Audio Deepfake Detection](https://arxiv.org/abs/2611.05678) · [📝 요약](../summaries/clrm-cross-layer-relation-modeling-for-audio-deepfake-detection.md) | Yangyang Qu et al. | arXiv |  |
 | 2026 | [GraphSeal: Graph-Augmented Speech Deepfake Detection via Temporal-Spectral Artifact Propagation](https://arxiv.org/abs/2611.06171) · [📝 요약](../summaries/graphseal-graph-augmented-speech-deepfake-detection-via-temporal-spectral-artifa.md) | Lee Seung-woo et al. | arXiv |  |
+| 2026 | [When Normality Shifts: Multi-Level WavLM Modeling for Open-World Audio Deepfake Detection](https://arxiv.org/abs/2611.11465) · [📝 요약](../summaries/when-normality-shifts-multi-level-wavlm-modeling-for-open-world-audio-deepfake-d.md) | Daniel Niekurzak et al. | arXiv |  |
 | 2025 | [Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing](https://arxiv.org/abs/2504.05657) · [📝 요약](../summaries/nes2net-a-lightweight-nested-architecture-for-foundation-model-driven-speech-ant.md) | Tianchi Liu et al. | IEEE Transactions on Information Forensics and Security | 26 |
 | 2025 | [Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection](https://arxiv.org/abs/2502.03559) · [📝 요약](../summaries/comprehensive-layer-wise-analysis-of-ssl-models-for-audio-deepfake-detection.md) | Y. E. Kheir et al. | North American Chapter of the Association for Computational Linguistics | 25 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) · [📝 요약](../summaries/envsdd-benchmarking-environmental-sound-deepfake-detection.md) | Han Yin et al. | Interspeech | 21 |
