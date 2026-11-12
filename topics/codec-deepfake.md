@@ -1,6 +1,6 @@
 # Neural Codec Deepfakes
 
-> 82 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-11
+> 83 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-13
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | 2026 | [A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation](https://arxiv.org/abs/2610.01259) · [📝 요약](../summaries/a-federated-deepfake-speech-detection-method-based-on-layer-wise-center-guided-w.md) | Yingjian Yu et al. | arXiv |  |
 | 2026 | [Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection](https://arxiv.org/abs/2610.07216) · [📝 요약](../summaries/exposing-and-mitigating-neural-codec-vulnerabilities-in-audio-deepfake-detection.md) | Abdullah et al. | arXiv |  |
 | 2026 | [SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468) · [📝 요약](../summaries/sentry-a-streaming-edge-network-trust-engine-for-real-time-audio-deepfake-detect.md) | > **제출일:** 2026-10-17 | arXiv |  |
+| 2026 | [Which Acoustic Features Survive Compression? Tracker-Estimated First-Formant Statistics for Codec-Robust Audio Deepfake Detection](https://arxiv.org/abs/2611.13258) · [📝 요약](../summaries/which-acoustic-features-survive-compression-tracker-estimated-first-formant-stat.md) | Yash Sukhdeve et al. | IJCB 2026 |  |
 | 2025 | [ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech](https://arxiv.org/abs/2502.08857) · [📝 요약](../summaries/asvspoof-5-design-collection-and-validation-of-resources-for-spoofing-deepfake-a.md) | Xin Wang et al. | Computer Speech and Language | 48 |
 | 2025 | [Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition](https://arxiv.org/abs/2501.06514) · [📝 요약](../summaries/neural-codec-source-tracing-toward-comprehensive-attribution-in-open-set-conditi.md) | Yuankun Xie et al. | arXiv | 15 |
 | 2025 | [Measuring the Robustness of Audio Deepfake Detectors](https://arxiv.org/abs/2503.17577) · [📝 요약](../summaries/measuring-the-robustness-of-audio-deepfake-detectors.md) | Xiang Li et al. | arXiv | 10 |

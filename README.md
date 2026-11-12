@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1404-blue) ![updated](https://img.shields.io/badge/updated-2026--11--11-green)
+![papers](https://img.shields.io/badge/papers-1405-blue) ![updated](https://img.shields.io/badge/updated-2026--11--13-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -9,14 +9,14 @@ Generated from a personally maintained research corpus.
 ## Topics
 
 - [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (245)
-- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (614)
+- [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (615)
 - [Detection Architectures & Encoders](topics/architectures.md) (257)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (31)
 - [LLM-Based Detection](topics/llm-based.md) (27)
-- [Explainability & Attribution](topics/xai-explainability.md) (119)
+- [Explainability & Attribution](topics/xai-explainability.md) (120)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (143)
 - [Generalization & OOD](topics/generalization-ood.md) (488)
-- [Neural Codec Deepfakes](topics/codec-deepfake.md) (82)
+- [Neural Codec Deepfakes](topics/codec-deepfake.md) (83)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (83)
 - [Datasets & Corpora](topics/datasets.md) (143)
 - [Data Augmentation & Curation](topics/data-augmentation.md) (124)
@@ -36,6 +36,7 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-11-09 | [Which Acoustic Features Survive Compression? Tracker-Estimated First-Formant Statistics for Codec-Robust Audio Deepfake Detection](https://arxiv.org/abs/2611.13258) | Yash Sukhdeve et al. | [📝](summaries/which-acoustic-features-survive-compression-tracker-estimated-first-formant-stat.md) |  |
 | 2026-11-09 | [MUTE: Multi-Level Alignment Uncoupling Against Talking-Head Exploitation for Voice Protection](https://arxiv.org/abs/2611.11989) | Donghyun Kim et al. | [📝](summaries/mute-multi-level-alignment-uncoupling-against-talking-head-exploitation-for-voic.md) |  |
 | 2026-11-08 | [When Normality Shifts: Multi-Level WavLM Modeling for Open-World Audio Deepfake Detection](https://arxiv.org/abs/2611.11465) | Daniel Niekurzak et al. | [📝](summaries/when-normality-shifts-multi-level-wavlm-modeling-for-open-world-audio-deepfake-d.md) |  |
 | 2026-11-05 | [Conflict-Aware Meta-Learning for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2611.08758) | > **제출일:** 2026-11-05 | [📝](summaries/conflict-aware-meta-learning-for-generalizable-speech-deepfake-detection.md) |  |
@@ -65,13 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-10-07 | [Source-Directed Trajectory Perturbation at First-Order Cost for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2610.10094) | Siqing Qin et al. | [📝](summaries/source-directed-trajectory-perturbation-at-first-order-cost-for-domain-generaliz.md) |  |
 | 2026-10-05 | [Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection](https://arxiv.org/abs/2610.07216) | Abdullah et al. | [📝](summaries/exposing-and-mitigating-neural-codec-vulnerabilities-in-audio-deepfake-detection.md) |  |
 | 2026-10-04 | [Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection](https://arxiv.org/abs/2610.05264) | Miao He et al. | [📝](summaries/task-aware-joint-pruning-and-distillation-for-efficient-audio-deepfake-detection.md) |  |
-| 2026-10-03 | [Temporal Anchors and Editing Sensitivity in Partial Speech Spoofing: A Controlled Study](https://arxiv.org/abs/2610.04479) | Xiaosu Su et al. | [📝](summaries/temporal-anchors-and-editing-sensitivity-in-partial-speech-spoofing-a-controlled.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 258 |
+| 2026 | 259 |
 | 2025 | 304 |
 | 2024 | 217 |
 | 2023 | 146 |

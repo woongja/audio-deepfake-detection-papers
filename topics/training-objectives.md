@@ -1,6 +1,6 @@
 # Training Objectives & Losses
 
-> 198 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-11
+> 198 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-13
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|

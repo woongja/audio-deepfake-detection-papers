@@ -1,6 +1,6 @@
 # Spectral & Signal-Processing Front-Ends
 
-> 614 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-11
+> 615 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-13
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -49,6 +49,7 @@
 | 2026 | [Synthetic speech detection in Brazilian Portuguese through accent-related features](https://arxiv.org/abs/2609.23807) · [📝 요약](../summaries/synthetic-speech-detection-in-brazilian-portuguese-through-accent-related-featur.md) | > **제출일:** 2026-09-20 | arXiv |  |
 | 2026 | [An Initial Study of Physiological Markers for Deepfake Speech Detection](https://arxiv.org/abs/2610.18934) · [📝 요약](../summaries/an-initial-study-of-physiological-markers-for-deepfake-speech-detection.md) | Vojtěch Staněk et al. | arXiv |  |
 | 2026 | [SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468) · [📝 요약](../summaries/sentry-a-streaming-edge-network-trust-engine-for-real-time-audio-deepfake-detect.md) | > **제출일:** 2026-10-17 | arXiv |  |
+| 2026 | [Which Acoustic Features Survive Compression? Tracker-Estimated First-Formant Statistics for Codec-Robust Audio Deepfake Detection](https://arxiv.org/abs/2611.13258) · [📝 요약](../summaries/which-acoustic-features-survive-compression-tracker-estimated-first-formant-stat.md) | Yash Sukhdeve et al. | IJCB 2026 |  |
 | 2025 | [Audio Features Investigation for Singing Voice Deepfake Detection](https://www.semanticscholar.org/paper/9c84e1a67d369853eb1856e3d98834daf5414b57) | Mahyar Gohari et al. | ICASSP 2025 | 13 |
 | 2025 | [Novel transfer learning based acoustic feature engineering for scene fake audio detection](https://www.semanticscholar.org/paper/bc843f1ef9c392849505738f8bef69481b54d057) | A. S. Al-Shamayleh et al. | Scientific Reports | 13 |
 | 2025 | [Forensic deepfake audio detection using segmental speech features](https://arxiv.org/abs/2505.13847) · [📝 요약](../summaries/forensic-deepfake-audio-detection-using-segmental-speech-features.md) | Tianle Yang et al. | Forensic Science International | 12 |
