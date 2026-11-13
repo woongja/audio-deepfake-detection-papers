@@ -1,6 +1,6 @@
 # Adversarial Attacks & Robustness Testing
 
-> 42 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-13
+> 42 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-14
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
