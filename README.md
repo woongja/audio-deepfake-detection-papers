@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1406-blue) ![updated](https://img.shields.io/badge/updated-2026--11--18-green)
+![papers](https://img.shields.io/badge/papers-1407-blue) ![updated](https://img.shields.io/badge/updated-2026--11--19-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -28,7 +28,7 @@ Generated from a personally maintained research corpus.
 - [Adversarial Attacks & Robustness Testing](topics/adversarial.md) (42)
 - [Challenge Systems & Fusion](topics/systems-fusion.md) (133)
 - [Transfer & Domain Adaptation](topics/transfer-adaptation.md) (67)
-- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (86)
+- [Cross-Domain & Multimodal](topics/cross-domain-multimodal.md) (87)
 
 ## Latest 30 Papers
 
@@ -36,6 +36,7 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-11-17 | [Robust DOA Estimation for GNSS-like Signals Under Jamming: A Rotation-Enhanced SWN-MUSIC Approach](https://arxiv.org/abs/2611.22574) | > **제출일:** 2026-11-17 | [📝](summaries/robust-doa-estimation-for-gnss-like-signals-under-jamming-a-rotation-enhanced-sw.md) |  |
 | 2026-11-16 | [Progressive Layer-wise Supervision: Deep-to-Shallow Supervision Annealing for Efficient and Robust Speech Deepfake Detection](https://arxiv.org/abs/2611.20630) | Hoan My Tran et al. | [📝](summaries/progressive-layer-wise-supervision-deep-to-shallow-supervision-annealing-for-eff.md) |  |
 | 2026-11-09 | [Which Acoustic Features Survive Compression? Tracker-Estimated First-Formant Statistics for Codec-Robust Audio Deepfake Detection](https://arxiv.org/abs/2611.13258) | Yash Sukhdeve et al. | [📝](summaries/which-acoustic-features-survive-compression-tracker-estimated-first-formant-stat.md) |  |
 | 2026-11-09 | [MUTE: Multi-Level Alignment Uncoupling Against Talking-Head Exploitation for Voice Protection](https://arxiv.org/abs/2611.11989) | Donghyun Kim et al. | [📝](summaries/mute-multi-level-alignment-uncoupling-against-talking-head-exploitation-for-voic.md) |  |
@@ -65,13 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-10-07 | [Detection-Guided Adaptive Purification with Diffusion Models for Robust Audio Deepfake Detection](https://arxiv.org/abs/2610.10752) | Muhammed Salih Kayhan et al. | [📝](summaries/detection-guided-adaptive-purification-with-diffusion-models-for-robust-audio-de.md) |  |
 | 2026-10-07 | [DuRe-ST: Dual-Relation Spectro-Temporal Modeling for Speech Deepfake Detection](https://arxiv.org/abs/2610.10121) | Shaole Li et al. | [📝](summaries/dure-st-dual-relation-spectro-temporal-modeling-for-speech-deepfake-detection.md) |  |
 | 2026-10-07 | [Source-Directed Trajectory Perturbation at First-Order Cost for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2610.10094) | Siqing Qin et al. | [📝](summaries/source-directed-trajectory-perturbation-at-first-order-cost-for-domain-generaliz.md) |  |
-| 2026-10-05 | [Exposing and Mitigating Neural Codec Vulnerabilities in Audio Deepfake Detection](https://arxiv.org/abs/2610.07216) | Abdullah et al. | [📝](summaries/exposing-and-mitigating-neural-codec-vulnerabilities-in-audio-deepfake-detection.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 260 |
+| 2026 | 261 |
 | 2025 | 304 |
 | 2024 | 217 |
 | 2023 | 146 |
