@@ -1,6 +1,6 @@
 # Transfer & Domain Adaptation
 
-> 67 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-19
+> 67 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-20
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
