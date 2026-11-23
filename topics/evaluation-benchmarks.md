@@ -1,6 +1,6 @@
 # Evaluation, Metrics & Benchmarks
 
-> 148 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-23
+> 151 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-24
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -49,6 +49,9 @@
 | 2026 | [Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors](https://arxiv.org/abs/2610.22832) · [📝 요약](../summaries/too-emotional-to-be-fake-intra-utterance-emotion-shifts-expose-failure-modes-in.md) | Jingyi Chen et al. | arXiv |  |
 | 2026 | [Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS](https://arxiv.org/abs/2610.23678) · [📝 요약](../summaries/beyond-the-benchmark-conditioning-domains-and-failure-modes-of-qwen3-tts.md) | Séverin Baroudi et al. | arXiv |  |
 | 2026 | [Media Intelligence Platform: Multimodal Detection of Synthetic and Manipulated Content](https://arxiv.org/abs/2610.27974) · [📝 요약](../summaries/media-intelligence-platform-multimodal-detection-of-synthetic-and-manipulated-co.md) | David Fischinger et al. | arXiv (workshop submission) |  |
+| 2026 | [Towards Robust Partial-Edit Deepfake Localization: An Edit- and Generator-Conditioned Analysis](https://arxiv.org/abs/2611.26903) · [📝 요약](../summaries/towards-robust-partial-edit-deepfake-localization-an-edit-and-generator-conditio.md) | > **제출일:** 2026-11-19 | arXiv |  |
+| 2026 | [Neural Defend ARCAS Ranks #1 in Global Audio Deepfake Detection – ARCAS on the Podonos Independent Leaderboard](https://arxiv.org/abs/2611.27215) · [📝 요약](../summaries/neural-defend-arcas-ranks-1-in-global-audio-deepfake-detection-arcas-on-the-podo.md) | Sivashankar Selvarajan et al. | arXiv |  |
+| 2026 | [Benchmarking Neural Defend ARCAS 290M: A Foundation Model for AI-Generated Audio Detection](https://arxiv.org/abs/2611.27784) · [📝 요약](../summaries/benchmarking-neural-defend-arcas-290m-a-foundation-model-for-ai-generated-audio.md) | Sivashankar Selvarajan et al. | arXiv |  |
 | 2025 | [Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead](https://www.semanticscholar.org/paper/c69e72c518ceb6b023f72511c94352934c1bd20b) | Bowen Zhang et al. | Sensors | 44 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) · [📝 요약](../summaries/envsdd-benchmarking-environmental-sound-deepfake-detection.md) | Han Yin et al. | Interspeech | 21 |
 | 2025 | [Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models](https://arxiv.org/abs/2509.02859) · [📝 요약](../summaries/speech-df-arena-a-leaderboard-for-speech-deepfake-detection-models.md) | Sandipana Dowerah et al. | IEEE Open Journal of Signal Processing | 16 |

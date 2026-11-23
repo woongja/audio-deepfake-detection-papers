@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1407-blue) ![updated](https://img.shields.io/badge/updated-2026--11--23-green)
+![papers](https://img.shields.io/badge/papers-1410-blue) ![updated](https://img.shields.io/badge/updated-2026--11--24-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,19 +8,19 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (246)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (247)
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (615)
 - [Detection Architectures & Encoders](topics/architectures.md) (257)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (31)
 - [LLM-Based Detection](topics/llm-based.md) (27)
 - [Explainability & Attribution](topics/xai-explainability.md) (120)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (143)
-- [Generalization & OOD](topics/generalization-ood.md) (489)
-- [Neural Codec Deepfakes](topics/codec-deepfake.md) (83)
-- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (83)
+- [Generalization & OOD](topics/generalization-ood.md) (491)
+- [Neural Codec Deepfakes](topics/codec-deepfake.md) (85)
+- [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (84)
 - [Datasets & Corpora](topics/datasets.md) (143)
 - [Data Augmentation & Curation](topics/data-augmentation.md) (124)
-- [Evaluation, Metrics & Benchmarks](topics/evaluation-benchmarks.md) (148)
+- [Evaluation, Metrics & Benchmarks](topics/evaluation-benchmarks.md) (151)
 - [Speech Synthesis & Conversion (Attack Side)](topics/synthesis-attack-side.md) (11)
 - [Surveys & Reviews](topics/surveys.md) (37)
 - [Training Objectives & Losses](topics/training-objectives.md) (199)
@@ -36,6 +36,9 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-11-20 | [Benchmarking Neural Defend ARCAS 290M: A Foundation Model for AI-Generated Audio Detection](https://arxiv.org/abs/2611.27784) | Sivashankar Selvarajan et al. | [📝](summaries/benchmarking-neural-defend-arcas-290m-a-foundation-model-for-ai-generated-audio.md) |  |
+| 2026-11-20 | [Neural Defend ARCAS Ranks #1 in Global Audio Deepfake Detection – ARCAS on the Podonos Independent Leaderboard](https://arxiv.org/abs/2611.27215) | Sivashankar Selvarajan et al. | [📝](summaries/neural-defend-arcas-ranks-1-in-global-audio-deepfake-detection-arcas-on-the-podo.md) |  |
+| 2026-11-19 | [Towards Robust Partial-Edit Deepfake Localization: An Edit- and Generator-Conditioned Analysis](https://arxiv.org/abs/2611.26903) | > **제출일:** 2026-11-19 | [📝](summaries/towards-robust-partial-edit-deepfake-localization-an-edit-and-generator-conditio.md) |  |
 | 2026-11-17 | [Robust DOA Estimation for GNSS-like Signals Under Jamming: A Rotation-Enhanced SWN-MUSIC Approach](https://arxiv.org/abs/2611.22574) | > **제출일:** 2026-11-17 | [📝](summaries/robust-doa-estimation-for-gnss-like-signals-under-jamming-a-rotation-enhanced-sw.md) |  |
 | 2026-11-16 | [Progressive Layer-wise Supervision: Deep-to-Shallow Supervision Annealing for Efficient and Robust Speech Deepfake Detection](https://arxiv.org/abs/2611.20630) | Hoan My Tran et al. | [📝](summaries/progressive-layer-wise-supervision-deep-to-shallow-supervision-annealing-for-eff.md) |  |
 | 2026-11-09 | [Which Acoustic Features Survive Compression? Tracker-Estimated First-Formant Statistics for Codec-Robust Audio Deepfake Detection](https://arxiv.org/abs/2611.13258) | Yash Sukhdeve et al. | [📝](summaries/which-acoustic-features-survive-compression-tracker-estimated-first-formant-stat.md) |  |
@@ -63,15 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-10-12 | [Unsupervised Data Drift Monitoring for Deployed Deepfake Speech Detectors](https://arxiv.org/abs/2610.16826) | Lukáš Prokeš et al. | [📝](summaries/unsupervised-data-drift-monitoring-for-deployed-deepfake-speech-detectors.md) |  |
 | 2026-10-12 | [QBFF: Deep Quantum Bottleneck for Automatic Speaker Verification Anti-Spoofing](https://arxiv.org/abs/2610.16390) | > **제출일:** 2026-10-12 | [📝](summaries/qbff-deep-quantum-bottleneck-for-automatic-speaker-verification-anti-spoofing.md) |  |
 | 2026-10-12 | [Adaptive Compression and Targeted Perturbation: A Unified Framework for Generalized Audio Deepfake Detection](https://arxiv.org/abs/2610.16049) | Jianqiao Cui et al. | [📝](summaries/adaptive-compression-and-targeted-perturbation-a-unified-framework-for-generaliz.md) |  |
-| 2026-10-07 | [Detection-Guided Adaptive Purification with Diffusion Models for Robust Audio Deepfake Detection](https://arxiv.org/abs/2610.10752) | Muhammed Salih Kayhan et al. | [📝](summaries/detection-guided-adaptive-purification-with-diffusion-models-for-robust-audio-de.md) |  |
-| 2026-10-07 | [DuRe-ST: Dual-Relation Spectro-Temporal Modeling for Speech Deepfake Detection](https://arxiv.org/abs/2610.10121) | Shaole Li et al. | [📝](summaries/dure-st-dual-relation-spectro-temporal-modeling-for-speech-deepfake-detection.md) |  |
-| 2026-10-07 | [Source-Directed Trajectory Perturbation at First-Order Cost for Domain Generalization in Speech Deepfake Detection](https://arxiv.org/abs/2610.10094) | Siqing Qin et al. | [📝](summaries/source-directed-trajectory-perturbation-at-first-order-cost-for-domain-generaliz.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 261 |
+| 2026 | 264 |
 | 2025 | 304 |
 | 2024 | 217 |
 | 2023 | 146 |
