@@ -1,6 +1,6 @@
 # Cross-Domain & Multimodal
 
-> 87 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-24
+> 88 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-25
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@
 | 2026 | [LABBA: LLM-Assisted Behavioral Biometric Authentication](https://arxiv.org/abs/2611.08343) · [📝 요약](../summaries/labba-llm-assisted-behavioral-biometric-authentication.md) | > **제출일:** 2026-11-05 | arXiv |  |
 | 2026 | [MUTE: Multi-Level Alignment Uncoupling Against Talking-Head Exploitation for Voice Protection](https://arxiv.org/abs/2611.11989) · [📝 요약](../summaries/mute-multi-level-alignment-uncoupling-against-talking-head-exploitation-for-voic.md) | Donghyun Kim et al. | NeurIPS 2026 |  |
 | 2026 | [Robust DOA Estimation for GNSS-like Signals Under Jamming: A Rotation-Enhanced SWN-MUSIC Approach](https://arxiv.org/abs/2611.22574) · [📝 요약](../summaries/robust-doa-estimation-for-gnss-like-signals-under-jamming-a-rotation-enhanced-sw.md) | > **제출일:** 2026-11-17 | arXiv (IEEE 투고 중) |  |
+| 2026 | [Ultrasound Watermark: Real-time Acoustic Watermarking against Voice Scams on Smartphones](https://arxiv.org/abs/2611.30106) · [📝 요약](../summaries/ultrasound-watermark-real-time-acoustic-watermarking-against-voice-scams-on-smar.md) | Renzhi Hao et al. | arXiv |  |
 | 2025 | [Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection](https://arxiv.org/abs/2502.03559) · [📝 요약](../summaries/comprehensive-layer-wise-analysis-of-ssl-models-for-audio-deepfake-detection.md) | Y. E. Kheir et al. | North American Chapter of the Association for Computational Linguistics | 25 |
 | 2025 | [SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://arxiv.org/abs/2507.21463) · [📝 요약](../summaries/speechfake-a-large-scale-multilingual-speech-deepfake-dataset-incorporating-cutt.md) | Wen Huang et al. | Annual Meeting of the Association for Computational Linguistics | 17 |
 | 2025 | [Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception](https://arxiv.org/abs/2504.06753) · [📝 요약](../summaries/detect-all-type-deepfake-audio-wavelet-prompt-tuning-for-enhanced-auditory-perce.md) | Yuankun Xie et al. | ACM Multimedia 2025 | 12 |

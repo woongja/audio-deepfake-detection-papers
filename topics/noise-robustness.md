@@ -1,6 +1,6 @@
 # Noise & Real-World Robustness
 
-> 143 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-24
+> 145 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-25
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -35,6 +35,8 @@
 | 2026 | [Physics-Aware Deepfake Detection via Distance–Speech Consistency](https://arxiv.org/abs/2610.18485) · [📝 요약](../summaries/physics-aware-deepfake-detection-via-distancespeech-consistency.md) | > **제출일:** 2026-10-13 | arXiv |  |
 | 2026 | [RealComm: Benchmarking and Adapting Audio Deepfake Detection over Real Communication Channels](https://arxiv.org/abs/2610.27459) · [📝 요약](../summaries/realcomm-benchmarking-and-adapting-audio-deepfake-detection-over-real-communicat.md) | Li Wang et al. | arXiv |  |
 | 2026 | [ReplayFactor: Replay-Aware Dual-Attribute Learning for Practical Speech Deepfake Detection](https://arxiv.org/abs/2611.02628) · [📝 요약](../summaries/replayfactor-replay-aware-dual-attribute-learning-for-practical-speech-deepfake.md) | Miao He et al. | arXiv |  |
+| 2026 | [Training Speech Deepfake Detectors against Worst-Case Filters: Gains, Costs and Limits](https://arxiv.org/abs/2611.28718) · [📝 요약](../summaries/training-speech-deepfake-detectors-against-worst-case-filters-gains-costs-and-li.md) | Ali Alavi | arXiv |  |
+| 2026 | [Which Layer to Trust? Layer Selection in Frozen Speech Encoders for Singing-Voice Deepfake Detection under Signal Corruption](https://arxiv.org/abs/2611.29871) · [📝 요약](../summaries/which-layer-to-trust-layer-selection-in-frozen-speech-encoders-for-singing-voice.md) | Benjamin Hurt et al. | arXiv |  |
 | 2025 | [Transferable Adversarial Attacks on Audio Deepfake Detection](https://arxiv.org/abs/2501.11902) · [📝 요약](../summaries/transferable-adversarial-attacks-on-audio-deepfake-detection.md) | Muhammad Umar Farooq et al. | 2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW) | 22 |
 | 2025 | [Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models](https://arxiv.org/abs/2509.02859) · [📝 요약](../summaries/speech-df-arena-a-leaderboard-for-speech-deepfake-detection-models.md) | Sandipana Dowerah et al. | IEEE Open Journal of Signal Processing | 16 |
 | 2025 | [Replay Attacks Against Audio Deepfake Detection](https://arxiv.org/abs/2505.14862) · [📝 요약](../summaries/replay-attacks-against-audio-deepfake-detection.md) | Nicolas M. Muller et al. | Interspeech | 15 |

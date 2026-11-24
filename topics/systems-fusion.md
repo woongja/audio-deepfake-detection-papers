@@ -1,6 +1,6 @@
 # Challenge Systems & Fusion
 
-> 133 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-24
+> 134 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-25
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | 2026 | [Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection](https://arxiv.org/abs/2609.20063) · [📝 요약](../summaries/robust-workflow-generation-via-adversarial-learning-for-audio-deepfake-detection.md) | > **제출일:** 2026-09-17 | arXiv |  |
 | 2026 | [Physics-Aware Deepfake Detection via Distance–Speech Consistency](https://arxiv.org/abs/2610.18485) · [📝 요약](../summaries/physics-aware-deepfake-detection-via-distancespeech-consistency.md) | > **제출일:** 2026-10-13 | arXiv |  |
 | 2026 | [SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468) · [📝 요약](../summaries/sentry-a-streaming-edge-network-trust-engine-for-real-time-audio-deepfake-detect.md) | > **제출일:** 2026-10-17 | arXiv |  |
+| 2026 | [SWIFT: A Handcrafted, Arithmetic-Minimal FPGA Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2611.29315) · [📝 요약](../summaries/swift-a-handcrafted-arithmetic-minimal-fpga-engine-for-real-time-audio-deepfake.md) | Chirantan Banerjee et al. | arXiv |  |
 | 2025 | [Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion](https://arxiv.org/abs/2506.02085) · [📝 요약](../summaries/unveiling-audio-deepfake-origins-a-deep-metric-learning-and-conformer-network-ap.md) | Ajinkya Kulkarni et al. | Interspeech | 7 |
 | 2025 | [Robust Audio Deepfake Detection using Ensemble Confidence Calibration](https://www.semanticscholar.org/paper/c28cee6cf55b3d287f4d3bdb9346b4b631aeaac5) | C. Kwok et al. | ICASSP 2025 | 7 |
 | 2025 | [Evaluating Parameter Sharing for Spoofing-Aware Speaker Verification: A Case Study on the ASVspoof 5 Dataset](https://www.semanticscholar.org/paper/5bca12f9cfdb234b3fa3e73bc0e5e3623ebed87d) | Aykut Büker et al. | Interspeech 2025 | 4 |

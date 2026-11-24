@@ -1,6 +1,6 @@
 # Evaluation, Metrics & Benchmarks
 
-> 151 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-24
+> 153 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-25
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -52,6 +52,8 @@
 | 2026 | [Towards Robust Partial-Edit Deepfake Localization: An Edit- and Generator-Conditioned Analysis](https://arxiv.org/abs/2611.26903) · [📝 요약](../summaries/towards-robust-partial-edit-deepfake-localization-an-edit-and-generator-conditio.md) | > **제출일:** 2026-11-19 | arXiv |  |
 | 2026 | [Neural Defend ARCAS Ranks #1 in Global Audio Deepfake Detection – ARCAS on the Podonos Independent Leaderboard](https://arxiv.org/abs/2611.27215) · [📝 요약](../summaries/neural-defend-arcas-ranks-1-in-global-audio-deepfake-detection-arcas-on-the-podo.md) | Sivashankar Selvarajan et al. | arXiv |  |
 | 2026 | [Benchmarking Neural Defend ARCAS 290M: A Foundation Model for AI-Generated Audio Detection](https://arxiv.org/abs/2611.27784) · [📝 요약](../summaries/benchmarking-neural-defend-arcas-290m-a-foundation-model-for-ai-generated-audio.md) | Sivashankar Selvarajan et al. | arXiv |  |
+| 2026 | [SWIFT: A Handcrafted, Arithmetic-Minimal FPGA Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2611.29315) · [📝 요약](../summaries/swift-a-handcrafted-arithmetic-minimal-fpga-engine-for-real-time-audio-deepfake.md) | Chirantan Banerjee et al. | arXiv |  |
+| 2026 | [Which Layer to Trust? Layer Selection in Frozen Speech Encoders for Singing-Voice Deepfake Detection under Signal Corruption](https://arxiv.org/abs/2611.29871) · [📝 요약](../summaries/which-layer-to-trust-layer-selection-in-frozen-speech-encoders-for-singing-voice.md) | Benjamin Hurt et al. | arXiv |  |
 | 2025 | [Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead](https://www.semanticscholar.org/paper/c69e72c518ceb6b023f72511c94352934c1bd20b) | Bowen Zhang et al. | Sensors | 44 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) · [📝 요약](../summaries/envsdd-benchmarking-environmental-sound-deepfake-detection.md) | Han Yin et al. | Interspeech | 21 |
 | 2025 | [Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models](https://arxiv.org/abs/2509.02859) · [📝 요약](../summaries/speech-df-arena-a-leaderboard-for-speech-deepfake-detection-models.md) | Sandipana Dowerah et al. | IEEE Open Journal of Signal Processing | 16 |

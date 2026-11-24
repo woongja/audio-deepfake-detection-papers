@@ -1,6 +1,6 @@
 # Generalization & OOD
 
-> 491 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-24
+> 494 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-25
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -128,6 +128,9 @@
 | 2026 | [Progressive Layer-wise Supervision: Deep-to-Shallow Supervision Annealing for Efficient and Robust Speech Deepfake Detection](https://arxiv.org/abs/2611.20630) · [📝 요약](../summaries/progressive-layer-wise-supervision-deep-to-shallow-supervision-annealing-for-eff.md) | Hoan My Tran et al. | arXiv |  |
 | 2026 | [Neural Defend ARCAS Ranks #1 in Global Audio Deepfake Detection – ARCAS on the Podonos Independent Leaderboard](https://arxiv.org/abs/2611.27215) · [📝 요약](../summaries/neural-defend-arcas-ranks-1-in-global-audio-deepfake-detection-arcas-on-the-podo.md) | Sivashankar Selvarajan et al. | arXiv |  |
 | 2026 | [Benchmarking Neural Defend ARCAS 290M: A Foundation Model for AI-Generated Audio Detection](https://arxiv.org/abs/2611.27784) · [📝 요약](../summaries/benchmarking-neural-defend-arcas-290m-a-foundation-model-for-ai-generated-audio.md) | Sivashankar Selvarajan et al. | arXiv |  |
+| 2026 | [Spoof Localization as Boundary Regression](https://arxiv.org/abs/2611.29085) · [📝 요약](../summaries/spoof-localization-as-boundary-regression.md) | Yixuan Xiao et al. | arXiv |  |
+| 2026 | [Characterizing Frozen SSL Encoders and Backends for Cross-Domain Speech Deepfake Detection](https://arxiv.org/abs/2611.29865) · [📝 요약](../summaries/characterizing-frozen-ssl-encoders-and-backends-for-cross-domain-speech-deepfake.md) | Benjamin Hurt et al. | IEEE (arXiv 2511.xxxxx 계열, 저작권 표기 2026) |  |
+| 2026 | [Ultrasound Watermark: Real-time Acoustic Watermarking against Voice Scams on Smartphones](https://arxiv.org/abs/2611.30106) · [📝 요약](../summaries/ultrasound-watermark-real-time-acoustic-watermarking-against-voice-scams-on-smar.md) | Renzhi Hao et al. | arXiv |  |
 | 2025 | [Transferable Adversarial Attacks on Audio Deepfake Detection](https://arxiv.org/abs/2501.11902) · [📝 요약](../summaries/transferable-adversarial-attacks-on-audio-deepfake-detection.md) | Muhammad Umar Farooq et al. | 2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW) | 22 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) · [📝 요약](../summaries/envsdd-benchmarking-environmental-sound-deepfake-detection.md) | Han Yin et al. | Interspeech | 21 |
 | 2025 | [Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation](https://arxiv.org/abs/2501.14240) · [📝 요약](../summaries/generalizable-audio-deepfake-detection-via-latent-space-refinement-and-augmentat.md) | Wen Huang et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 19 |

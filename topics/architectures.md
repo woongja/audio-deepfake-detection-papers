@@ -1,6 +1,6 @@
 # Detection Architectures & Encoders
 
-> 257 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-24
+> 259 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-25
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -40,6 +40,8 @@
 | 2026 | [Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech Deepfake Detection](https://arxiv.org/abs/2609.33709) · [📝 요약](../summaries/domain-adaptive-dual-gating-mixture-of-experts-for-generalizable-speech-deepfake.md) | Siqing Qin et al. | arXiv |  |
 | 2026 | [Adaptive Compression and Targeted Perturbation: A Unified Framework for Generalized Audio Deepfake Detection](https://arxiv.org/abs/2610.16049) · [📝 요약](../summaries/adaptive-compression-and-targeted-perturbation-a-unified-framework-for-generaliz.md) | Jianqiao Cui et al. | arXiv |  |
 | 2026 | [GraphSeal: Graph-Augmented Speech Deepfake Detection via Temporal-Spectral Artifact Propagation](https://arxiv.org/abs/2611.06171) · [📝 요약](../summaries/graphseal-graph-augmented-speech-deepfake-detection-via-temporal-spectral-artifa.md) | Lee Seung-woo et al. | arXiv |  |
+| 2026 | [Characterizing Frozen SSL Encoders and Backends for Cross-Domain Speech Deepfake Detection](https://arxiv.org/abs/2611.29865) · [📝 요약](../summaries/characterizing-frozen-ssl-encoders-and-backends-for-cross-domain-speech-deepfake.md) | Benjamin Hurt et al. | IEEE (arXiv 2511.xxxxx 계열, 저작권 표기 2026) |  |
+| 2026 | [Ultrasound Watermark: Real-time Acoustic Watermarking against Voice Scams on Smartphones](https://arxiv.org/abs/2611.30106) · [📝 요약](../summaries/ultrasound-watermark-real-time-acoustic-watermarking-against-voice-scams-on-smar.md) | Renzhi Hao et al. | arXiv |  |
 | 2025 | [Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing](https://arxiv.org/abs/2504.05657) · [📝 요약](../summaries/nes2net-a-lightweight-nested-architecture-for-foundation-model-driven-speech-ant.md) | Tianchi Liu et al. | IEEE Transactions on Information Forensics and Security | 26 |
 | 2025 | [Wave-Spectrogram Cross-Modal Aggregation for Audio Deepfake Detection](https://www.semanticscholar.org/paper/66e254939cb8e364d5f4660d4260559ce3b29ed5) | Zehui Jin et al. | ICASSP 2025 | 16 |
 | 2025 | [BiCrossMamba-ST: Speech Deepfake Detection with Bidirectional Mamba Spectro-Temporal Cross-Attention](https://arxiv.org/abs/2505.13930) · [📝 요약](../summaries/bicrossmamba-st-speech-deepfake-detection-with-bidirectional-mamba-spectro-tempo.md) | Y. E. Kheir et al. | Interspeech | 10 |
