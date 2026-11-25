@@ -1,6 +1,6 @@
 # Datasets & Corpora
 
-> 143 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-25
+> 145 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-26
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -41,6 +41,8 @@
 | 2026 | [RealComm: Benchmarking and Adapting Audio Deepfake Detection over Real Communication Channels](https://arxiv.org/abs/2610.27459) · [📝 요약](../summaries/realcomm-benchmarking-and-adapting-audio-deepfake-detection-over-real-communicat.md) | Li Wang et al. | arXiv |  |
 | 2026 | [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://arxiv.org/abs/2610.33413) · [📝 요약](../summaries/av-fable-audio-visual-manipulation-forensics-in-long-form-videos.md) | > **제출일:** 2026-10-24 | arXiv |  |
 | 2026 | [ReplayFactor: Replay-Aware Dual-Attribute Learning for Practical Speech Deepfake Detection](https://arxiv.org/abs/2611.02628) · [📝 요약](../summaries/replayfactor-replay-aware-dual-attribute-learning-for-practical-speech-deepfake.md) | Miao He et al. | arXiv |  |
+| 2026 | [MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake](https://arxiv.org/abs/2611.31301) · [📝 요약](../summaries/mozaic-an-audio-video-deepfake-benchmark-for-telling-what-is-fake.md) | > **제출일:** 2026-11-21 | arXiv |  |
+| 2026 | [File Size as a Potential Dataset Bias in Audio-Visual Deepfake Data](https://arxiv.org/abs/2611.32979) · [📝 요약](../summaries/file-size-as-a-potential-dataset-bias-in-audio-visual-deepfake-data.md) | > **제출일:** 2026-11-24 | arXiv |  |
 | 2025 | [ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech](https://arxiv.org/abs/2502.08857) · [📝 요약](../summaries/asvspoof-5-design-collection-and-validation-of-resources-for-spoofing-deepfake-a.md) | Xin Wang et al. | Computer Speech and Language | 48 |
 | 2025 | [Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead](https://www.semanticscholar.org/paper/c69e72c518ceb6b023f72511c94352934c1bd20b) | Bowen Zhang et al. | Sensors | 44 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) · [📝 요약](../summaries/envsdd-benchmarking-environmental-sound-deepfake-detection.md) | Han Yin et al. | Interspeech | 21 |

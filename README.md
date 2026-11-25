@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1416-blue) ![updated](https://img.shields.io/badge/updated-2026--11--25-green)
+![papers](https://img.shields.io/badge/papers-1420-blue) ![updated](https://img.shields.io/badge/updated-2026--11--26-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,19 +8,19 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (250)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (252)
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (616)
 - [Detection Architectures & Encoders](topics/architectures.md) (259)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (31)
 - [LLM-Based Detection](topics/llm-based.md) (27)
-- [Explainability & Attribution](topics/xai-explainability.md) (120)
+- [Explainability & Attribution](topics/xai-explainability.md) (121)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (145)
-- [Generalization & OOD](topics/generalization-ood.md) (494)
+- [Generalization & OOD](topics/generalization-ood.md) (496)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (85)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (85)
-- [Datasets & Corpora](topics/datasets.md) (143)
+- [Datasets & Corpora](topics/datasets.md) (145)
 - [Data Augmentation & Curation](topics/data-augmentation.md) (124)
-- [Evaluation, Metrics & Benchmarks](topics/evaluation-benchmarks.md) (153)
+- [Evaluation, Metrics & Benchmarks](topics/evaluation-benchmarks.md) (157)
 - [Speech Synthesis & Conversion (Attack Side)](topics/synthesis-attack-side.md) (11)
 - [Surveys & Reviews](topics/surveys.md) (37)
 - [Training Objectives & Losses](topics/training-objectives.md) (200)
@@ -36,10 +36,14 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-11-24 | [File Size as a Potential Dataset Bias in Audio-Visual Deepfake Data](https://arxiv.org/abs/2611.32979) | > **제출일:** 2026-11-24 | [📝](summaries/file-size-as-a-potential-dataset-bias-in-audio-visual-deepfake-data.md) |  |
+| 2026-11-24 | [Perfect Scores, Misplaced Explanations: A Controlled Study of Explainability in Audio Deepfake Detection](https://arxiv.org/abs/2611.32593) | David Combei et al. | [📝](summaries/perfect-scores-misplaced-explanations-a-controlled-study-of-explainability-in-au.md) |  |
+| 2026-11-24 | [Do Layer Rankings Survive Silence Trimming? The Silence Shortcut in Frozen WavLM Representations for Audio Deepfake Detection](https://arxiv.org/abs/2611.32457) | Nur Elabid et al. | [📝](summaries/do-layer-rankings-survive-silence-trimming-the-silence-shortcut-in-frozen-wavlm.md) |  |
 | 2026-11-23 | [Ultrasound Watermark: Real-time Acoustic Watermarking against Voice Scams on Smartphones](https://arxiv.org/abs/2611.30106) | Renzhi Hao et al. | [📝](summaries/ultrasound-watermark-real-time-acoustic-watermarking-against-voice-scams-on-smar.md) |  |
 | 2026-11-23 | [Which Layer to Trust? Layer Selection in Frozen Speech Encoders for Singing-Voice Deepfake Detection under Signal Corruption](https://arxiv.org/abs/2611.29871) | Benjamin Hurt et al. | [📝](summaries/which-layer-to-trust-layer-selection-in-frozen-speech-encoders-for-singing-voice.md) |  |
 | 2026-11-23 | [Characterizing Frozen SSL Encoders and Backends for Cross-Domain Speech Deepfake Detection](https://arxiv.org/abs/2611.29865) | Benjamin Hurt et al. | [📝](summaries/characterizing-frozen-ssl-encoders-and-backends-for-cross-domain-speech-deepfake.md) |  |
 | 2026-11-22 | [SWIFT: A Handcrafted, Arithmetic-Minimal FPGA Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2611.29315) | Chirantan Banerjee et al. | [📝](summaries/swift-a-handcrafted-arithmetic-minimal-fpga-engine-for-real-time-audio-deepfake.md) |  |
+| 2026-11-21 | [MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake](https://arxiv.org/abs/2611.31301) | > **제출일:** 2026-11-21 | [📝](summaries/mozaic-an-audio-video-deepfake-benchmark-for-telling-what-is-fake.md) |  |
 | 2026-11-21 | [Spoof Localization as Boundary Regression](https://arxiv.org/abs/2611.29085) | Yixuan Xiao et al. | [📝](summaries/spoof-localization-as-boundary-regression.md) |  |
 | 2026-11-21 | [Training Speech Deepfake Detectors against Worst-Case Filters: Gains, Costs and Limits](https://arxiv.org/abs/2611.28718) | Ali Alavi | [📝](summaries/training-speech-deepfake-detectors-against-worst-case-filters-gains-costs-and-li.md) |  |
 | 2026-11-20 | [Benchmarking Neural Defend ARCAS 290M: A Foundation Model for AI-Generated Audio Detection](https://arxiv.org/abs/2611.27784) | Sivashankar Selvarajan et al. | [📝](summaries/benchmarking-neural-defend-arcas-290m-a-foundation-model-for-ai-generated-audio.md) |  |
@@ -62,16 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-10-24 | [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://arxiv.org/abs/2610.33413) | > **제출일:** 2026-10-24 | [📝](summaries/av-fable-audio-visual-manipulation-forensics-in-long-form-videos.md) |  |
 | 2026-10-20 | [Media Intelligence Platform: Multimodal Detection of Synthetic and Manipulated Content](https://arxiv.org/abs/2610.27974) | David Fischinger et al. | [📝](summaries/media-intelligence-platform-multimodal-detection-of-synthetic-and-manipulated-co.md) |  |
 | 2026-10-20 | [RealComm: Benchmarking and Adapting Audio Deepfake Detection over Real Communication Channels](https://arxiv.org/abs/2610.27459) | Li Wang et al. | [📝](summaries/realcomm-benchmarking-and-adapting-audio-deepfake-detection-over-real-communicat.md) |  |
-| 2026-10-17 | [SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection](https://arxiv.org/abs/2610.24468) | > **제출일:** 2026-10-17 | [📝](summaries/sentry-a-streaming-edge-network-trust-engine-for-real-time-audio-deepfake-detect.md) |  |
-| 2026-10-16 | [Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS](https://arxiv.org/abs/2610.23678) | Séverin Baroudi et al. | [📝](summaries/beyond-the-benchmark-conditioning-domains-and-failure-modes-of-qwen3-tts.md) |  |
-| 2026-10-16 | [Interpreting SSL Representations for Spoof Detection: a WavLM Study](https://arxiv.org/abs/2610.23526) | Mohamed Mallat et al. | [📝](summaries/interpreting-ssl-representations-for-spoof-detection-a-wavlm-study.md) |  |
-| 2026-10-16 | [Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors](https://arxiv.org/abs/2610.22832) | Jingyi Chen et al. | [📝](summaries/too-emotional-to-be-fake-intra-utterance-emotion-shifts-expose-failure-modes-in.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 270 |
+| 2026 | 274 |
 | 2025 | 304 |
 | 2024 | 217 |
 | 2023 | 146 |
