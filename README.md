@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1420-blue) ![updated](https://img.shields.io/badge/updated-2026--11--26-green)
+![papers](https://img.shields.io/badge/papers-1421-blue) ![updated](https://img.shields.io/badge/updated-2026--11--27-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -8,7 +8,7 @@ Generated from a personally maintained research corpus.
 
 ## Topics
 
-- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (252)
+- [SSL Front-Ends (wav2vec2 / WavLM / HuBERT)](topics/ssl-models.md) (253)
 - [Spectral & Signal-Processing Front-Ends](topics/spectral-frontends.md) (616)
 - [Detection Architectures & Encoders](topics/architectures.md) (259)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (31)
@@ -36,6 +36,7 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
+| 2026-11-25 | [A Head-Level Investigative Study of Self-Supervised Backbones for Synthetic Speech Detection](https://arxiv.org/abs/2611.34426) | Mohamed Mallat et al. |  |  |
 | 2026-11-24 | [File Size as a Potential Dataset Bias in Audio-Visual Deepfake Data](https://arxiv.org/abs/2611.32979) | > **제출일:** 2026-11-24 | [📝](summaries/file-size-as-a-potential-dataset-bias-in-audio-visual-deepfake-data.md) |  |
 | 2026-11-24 | [Perfect Scores, Misplaced Explanations: A Controlled Study of Explainability in Audio Deepfake Detection](https://arxiv.org/abs/2611.32593) | David Combei et al. | [📝](summaries/perfect-scores-misplaced-explanations-a-controlled-study-of-explainability-in-au.md) |  |
 | 2026-11-24 | [Do Layer Rankings Survive Silence Trimming? The Silence Shortcut in Frozen WavLM Representations for Audio Deepfake Detection](https://arxiv.org/abs/2611.32457) | Nur Elabid et al. | [📝](summaries/do-layer-rankings-survive-silence-trimming-the-silence-shortcut-in-frozen-wavlm.md) |  |
@@ -65,13 +66,12 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 | 2026-10-25 | [ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing](https://arxiv.org/abs/2610.34156) | Xueping Zhang et al. | [📝](summaries/asr-protected-fusion-and-reference-anchored-policy-optimization-for-joint-asr-an.md) |  |
 | 2026-10-24 | [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://arxiv.org/abs/2610.33413) | > **제출일:** 2026-10-24 | [📝](summaries/av-fable-audio-visual-manipulation-forensics-in-long-form-videos.md) |  |
 | 2026-10-20 | [Media Intelligence Platform: Multimodal Detection of Synthetic and Manipulated Content](https://arxiv.org/abs/2610.27974) | David Fischinger et al. | [📝](summaries/media-intelligence-platform-multimodal-detection-of-synthetic-and-manipulated-co.md) |  |
-| 2026-10-20 | [RealComm: Benchmarking and Adapting Audio Deepfake Detection over Real Communication Channels](https://arxiv.org/abs/2610.27459) | Li Wang et al. | [📝](summaries/realcomm-benchmarking-and-adapting-audio-deepfake-detection-over-real-communicat.md) |  |
 
 ## Papers per Year
 
 | Year | Papers |
 |---|---|
-| 2026 | 274 |
+| 2026 | 275 |
 | 2025 | 304 |
 | 2024 | 217 |
 | 2023 | 146 |
