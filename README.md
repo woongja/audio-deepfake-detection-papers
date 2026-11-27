@@ -1,6 +1,6 @@
 # Audio Deepfake Detection Papers
 
-![papers](https://img.shields.io/badge/papers-1421-blue) ![updated](https://img.shields.io/badge/updated-2026--11--27-green)
+![papers](https://img.shields.io/badge/papers-1421-blue) ![updated](https://img.shields.io/badge/updated-2026--11--28-green)
 
 A curated list of audio deepfake detection (anti-spoofing) papers,
 organized by topic and year, with venues, citation counts, and arXiv links.
@@ -13,9 +13,9 @@ Generated from a personally maintained research corpus.
 - [Detection Architectures & Encoders](topics/architectures.md) (259)
 - [Adapters, LoRA & MoE](topics/adapters-lora-moe.md) (31)
 - [LLM-Based Detection](topics/llm-based.md) (27)
-- [Explainability & Attribution](topics/xai-explainability.md) (121)
+- [Explainability & Attribution](topics/xai-explainability.md) (122)
 - [Noise & Real-World Robustness](topics/noise-robustness.md) (145)
-- [Generalization & OOD](topics/generalization-ood.md) (496)
+- [Generalization & OOD](topics/generalization-ood.md) (497)
 - [Neural Codec Deepfakes](topics/codec-deepfake.md) (85)
 - [Temporal Localization & Partial Spoof](topics/temporal-localization.md) (85)
 - [Datasets & Corpora](topics/datasets.md) (145)
@@ -36,7 +36,7 @@ _Date = arXiv submission date (falls back to YYYY-MM if unavailable)._
 
 | Date | Title | First Author | Summary | Citations |
 |---|---|---|---|---|
-| 2026-11-25 | [A Head-Level Investigative Study of Self-Supervised Backbones for Synthetic Speech Detection](https://arxiv.org/abs/2611.34426) | Mohamed Mallat et al. |  |  |
+| 2026-11-25 | [A Head-Level Investigative Study of Self-Supervised Backbones for Synthetic Speech Detection](https://arxiv.org/abs/2611.34426) | Mohamed Mallat et al. | [📝](summaries/a-head-level-investigative-study-of-self-supervised-backbones-for-synthetic-spee.md) |  |
 | 2026-11-24 | [File Size as a Potential Dataset Bias in Audio-Visual Deepfake Data](https://arxiv.org/abs/2611.32979) | > **제출일:** 2026-11-24 | [📝](summaries/file-size-as-a-potential-dataset-bias-in-audio-visual-deepfake-data.md) |  |
 | 2026-11-24 | [Perfect Scores, Misplaced Explanations: A Controlled Study of Explainability in Audio Deepfake Detection](https://arxiv.org/abs/2611.32593) | David Combei et al. | [📝](summaries/perfect-scores-misplaced-explanations-a-controlled-study-of-explainability-in-au.md) |  |
 | 2026-11-24 | [Do Layer Rankings Survive Silence Trimming? The Silence Shortcut in Frozen WavLM Representations for Audio Deepfake Detection](https://arxiv.org/abs/2611.32457) | Nur Elabid et al. | [📝](summaries/do-layer-rankings-survive-silence-trimming-the-silence-shortcut-in-frozen-wavlm.md) |  |

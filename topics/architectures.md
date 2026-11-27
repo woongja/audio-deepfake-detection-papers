@@ -1,6 +1,6 @@
 # Detection Architectures & Encoders
 
-> 259 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-27
+> 259 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-28
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|

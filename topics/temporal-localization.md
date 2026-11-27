@@ -1,6 +1,6 @@
 # Temporal Localization & Partial Spoof
 
-> 85 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-27
+> 85 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-28
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|

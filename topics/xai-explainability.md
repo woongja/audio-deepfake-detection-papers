@@ -1,6 +1,6 @@
 # Explainability & Attribution
 
-> 121 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-27
+> 122 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-28
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -59,6 +59,7 @@
 | 2026 | [VeriSpoof: Beyond Real or Fake with One Audio LLM](https://arxiv.org/abs/2611.04634) · [📝 요약](../summaries/verispoof-beyond-real-or-fake-with-one-audio-llm.md) | Yang Xiao et al. | arXiv |  |
 | 2026 | [Which Acoustic Features Survive Compression? Tracker-Estimated First-Formant Statistics for Codec-Robust Audio Deepfake Detection](https://arxiv.org/abs/2611.13258) · [📝 요약](../summaries/which-acoustic-features-survive-compression-tracker-estimated-first-formant-stat.md) | Yash Sukhdeve et al. | IJCB 2026 |  |
 | 2026 | [Perfect Scores, Misplaced Explanations: A Controlled Study of Explainability in Audio Deepfake Detection](https://arxiv.org/abs/2611.32593) · [📝 요약](../summaries/perfect-scores-misplaced-explanations-a-controlled-study-of-explainability-in-au.md) | David Combei et al. | arXiv |  |
+| 2026 | [A Head-Level Investigative Study of Self-Supervised Backbones for Synthetic Speech Detection](https://arxiv.org/abs/2611.34426) · [📝 요약](../summaries/a-head-level-investigative-study-of-self-supervised-backbones-for-synthetic-spee.md) | Mohamed Mallat et al. | arXiv |  |
 | 2025 | [Forensic deepfake audio detection using segmental speech features](https://arxiv.org/abs/2505.13847) · [📝 요약](../summaries/forensic-deepfake-audio-detection-using-segmental-speech-features.md) | Tianle Yang et al. | Forensic Science International | 12 |
 | 2025 | [Deep Fake Audio Detection Using a Hybrid CNN-BiLSTM Model with Attention Mechanism](https://www.semanticscholar.org/paper/84443458975c8336c2a9bda5322b7bd46215323d) | Shubham Chapagain et al. | KEC Conference 2025 (InJET Special Issue) | 10 |
 | 2025 | [Pitch Imperfect: Detecting Audio Deepfakes Through Acoustic Prosodic Analysis](https://arxiv.org/abs/2502.14726) · [📝 요약](../summaries/pitch-imperfect-detecting-audio-deepfakes-through-acoustic-prosodic-analysis.md) | Kevin Warren et al. | arXiv | 9 |

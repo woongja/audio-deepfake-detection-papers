@@ -1,6 +1,6 @@
 # SSL Front-Ends (wav2vec2 / WavLM / HuBERT)
 
-> 253 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-27
+> 253 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-28
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@
 | 2026 | [Which Layer to Trust? Layer Selection in Frozen Speech Encoders for Singing-Voice Deepfake Detection under Signal Corruption](https://arxiv.org/abs/2611.29871) · [📝 요약](../summaries/which-layer-to-trust-layer-selection-in-frozen-speech-encoders-for-singing-voice.md) | Benjamin Hurt et al. | arXiv |  |
 | 2026 | [Do Layer Rankings Survive Silence Trimming? The Silence Shortcut in Frozen WavLM Representations for Audio Deepfake Detection](https://arxiv.org/abs/2611.32457) · [📝 요약](../summaries/do-layer-rankings-survive-silence-trimming-the-silence-shortcut-in-frozen-wavlm.md) | Nur Elabid et al. | arXiv |  |
 | 2026 | [Perfect Scores, Misplaced Explanations: A Controlled Study of Explainability in Audio Deepfake Detection](https://arxiv.org/abs/2611.32593) · [📝 요약](../summaries/perfect-scores-misplaced-explanations-a-controlled-study-of-explainability-in-au.md) | David Combei et al. | arXiv |  |
-| 2026 | [A Head-Level Investigative Study of Self-Supervised Backbones for Synthetic Speech Detection](https://arxiv.org/abs/2611.34426) | Mohamed Mallat et al. | arXiv |  |
+| 2026 | [A Head-Level Investigative Study of Self-Supervised Backbones for Synthetic Speech Detection](https://arxiv.org/abs/2611.34426) · [📝 요약](../summaries/a-head-level-investigative-study-of-self-supervised-backbones-for-synthetic-spee.md) | Mohamed Mallat et al. | arXiv |  |
 | 2025 | [Nes2Net: A Lightweight Nested Architecture for Foundation Model Driven Speech Anti-spoofing](https://arxiv.org/abs/2504.05657) · [📝 요약](../summaries/nes2net-a-lightweight-nested-architecture-for-foundation-model-driven-speech-ant.md) | Tianchi Liu et al. | IEEE Transactions on Information Forensics and Security | 26 |
 | 2025 | [Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection](https://arxiv.org/abs/2502.03559) · [📝 요약](../summaries/comprehensive-layer-wise-analysis-of-ssl-models-for-audio-deepfake-detection.md) | Y. E. Kheir et al. | North American Chapter of the Association for Computational Linguistics | 25 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) · [📝 요약](../summaries/envsdd-benchmarking-environmental-sound-deepfake-detection.md) | Han Yin et al. | Interspeech | 21 |

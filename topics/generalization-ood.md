@@ -1,6 +1,6 @@
 # Generalization & OOD
 
-> 496 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-27
+> 497 papers · part of [audio-deepfake-detection-papers](https://github.com/woongja/audio-deepfake-detection-papers) · updated 2026-11-28
 
 | Year | Title | First Author | Venue | Citations |
 |---|---|---|---|---|
@@ -133,6 +133,7 @@
 | 2026 | [Ultrasound Watermark: Real-time Acoustic Watermarking against Voice Scams on Smartphones](https://arxiv.org/abs/2611.30106) · [📝 요약](../summaries/ultrasound-watermark-real-time-acoustic-watermarking-against-voice-scams-on-smar.md) | Renzhi Hao et al. | arXiv |  |
 | 2026 | [MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake](https://arxiv.org/abs/2611.31301) · [📝 요약](../summaries/mozaic-an-audio-video-deepfake-benchmark-for-telling-what-is-fake.md) | > **제출일:** 2026-11-21 | arXiv |  |
 | 2026 | [Do Layer Rankings Survive Silence Trimming? The Silence Shortcut in Frozen WavLM Representations for Audio Deepfake Detection](https://arxiv.org/abs/2611.32457) · [📝 요약](../summaries/do-layer-rankings-survive-silence-trimming-the-silence-shortcut-in-frozen-wavlm.md) | Nur Elabid et al. | arXiv |  |
+| 2026 | [A Head-Level Investigative Study of Self-Supervised Backbones for Synthetic Speech Detection](https://arxiv.org/abs/2611.34426) · [📝 요약](../summaries/a-head-level-investigative-study-of-self-supervised-backbones-for-synthetic-spee.md) | Mohamed Mallat et al. | arXiv |  |
 | 2025 | [Transferable Adversarial Attacks on Audio Deepfake Detection](https://arxiv.org/abs/2501.11902) · [📝 요약](../summaries/transferable-adversarial-attacks-on-audio-deepfake-detection.md) | Muhammad Umar Farooq et al. | 2025 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW) | 22 |
 | 2025 | [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://arxiv.org/abs/2505.19203) · [📝 요약](../summaries/envsdd-benchmarking-environmental-sound-deepfake-detection.md) | Han Yin et al. | Interspeech | 21 |
 | 2025 | [Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation](https://arxiv.org/abs/2501.14240) · [📝 요약](../summaries/generalizable-audio-deepfake-detection-via-latent-space-refinement-and-augmentat.md) | Wen Huang et al. | IEEE International Conference on Acoustics, Speech, and Signal Processing | 19 |
